@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="#DCD5C8"/>
+  <rect x="16" y="16" width="728" height="488" fill="#DCD5C8"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">眼随手禁：一随二禁</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <path d="M70,212 C180,178 300,164 380,166 C470,168 600,186 690,212" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+  <circle cx="300" cy="169" r="5" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.7"/>
+  <circle cx="336" cy="173" r="4" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.7"/>
+  <line x1="300" y1="169" x2="478" y2="132" stroke="#994433" stroke-width="1" stroke-dasharray="5 4"/>
+  <line x1="336" y1="173" x2="510" y2="150" stroke="#994433" stroke-width="1" stroke-dasharray="5 4"/>
+  <text x="484" y="126" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#994433" letter-spacing="1">长者所视</text>
+  <text x="516" y="152" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="1">少者随之</text>
+  <text x="86" y="230" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#9A9186" letter-spacing="1">丘陵</text>
+  <text x="380" y="250" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.5">为远视不察，有所问</text>
+  <line x1="60" y1="272" x2="700" y2="272" stroke="#DCD5C8" stroke-width="0.8"/>
+  <rect x="70" y="306" width="34" height="40" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="78" y="296" width="18" height="10" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="132" y="306" width="34" height="40" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="140" y="296" width="18" height="10" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="194" y="306" width="34" height="40" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="202" y="296" width="18" height="10" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="256" y="306" width="34" height="40" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="264" y="296" width="18" height="10" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="318" y="306" width="34" height="40" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="326" y="296" width="18" height="10" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="380" y="306" width="34" height="40" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="388" y="296" width="18" height="10" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="442" y="306" width="34" height="40" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="450" y="296" width="18" height="10" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="504" y="306" width="34" height="40" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="512" y="296" width="18" height="10" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="84" y="326" text-anchor="start" font-family="Noto Serif SC,serif" font-size="10" fill="#9A9186" letter-spacing="1">城</text>
+  <circle cx="360" cy="314" r="5" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.7"/>
+  <line x1="344" y1="314" x2="312" y2="346" stroke="#994433" stroke-width="1.1"/>
+  <line x1="302" y1="342" x2="314" y2="354" stroke="#994433" stroke-width="1.4"/>
+  <line x1="302" y1="354" x2="314" y2="342" stroke="#994433" stroke-width="1.4"/>
+  <text x="308" y="372" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9" fill="#25211D" letter-spacing="1">不指</text>
+  <circle cx="470" cy="314" r="5" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.7"/>
+  <line x1="470" y1="322" x2="470" y2="344" stroke="#994433" stroke-width="1.1"/>
+  <line x1="464" y1="340" x2="476" y2="352" stroke="#994433" stroke-width="1.4"/>
+  <line x1="464" y1="352" x2="476" y2="340" stroke="#994433" stroke-width="1.4"/>
+  <text x="470" y="372" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9" fill="#25211D" letter-spacing="1">不呼</text>
+  <text x="560" y="312" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#994433" letter-spacing="1">为惑人</text>
+  <text x="560" y="332" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.5">一指则众目随指</text>
+  <text x="560" y="350" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.5">一声则远近皆惊</text>
+  <text x="560" y="368" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.5">城上望敌望火，一误皆误</text>
+  <text x="380" y="404" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10" fill="#25211D" letter-spacing="1">眼在长者所视处，手与口收在无声处</text>
+  <line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="380" y="468" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="2">高处三易：眼游、手指、口呼</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186" letter-spacing="1">图二 · 眼随手禁：一随二禁 · lj027b</text>
+</svg>

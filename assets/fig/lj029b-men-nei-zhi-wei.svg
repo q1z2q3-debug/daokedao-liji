@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="#DCD5C8"/>
+  <rect x="16" y="16" width="728" height="488" fill="#DCD5C8"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">门内之位：闑右与不践阈</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <rect x="170" y="112" width="420" height="190" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="380" y1="112" x2="380" y2="302" stroke="#7C6D5C" stroke-width="1.6" stroke-dasharray="6 4"/>
+  <rect x="372" y="250" width="14" height="52" fill="#F7F4EE" stroke="#994433" stroke-width="2"/>
+  <text x="332" y="242" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9" fill="#994433" letter-spacing="1">闑</text>
+  <line x1="170" y1="302" x2="590" y2="302" stroke="#7C6D5C" stroke-width="2.4"/>
+  <line x1="170" y1="308" x2="590" y2="308" stroke="#7C6D5C" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <text x="176" y="330" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#994433" letter-spacing="1">阈</text>
+  <rect x="190" y="120" width="188" height="182" fill="#F7F4EE" stroke="#DCD5C8" stroke-width="0.6"/>
+  <rect x="382" y="120" width="188" height="182" fill="#F7F4EE" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="214" y="144" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#9A9186" letter-spacing="1">门扇</text>
+  <text x="566" y="144" text-anchor="end" font-family="Noto Serif SC,serif" font-size="8.5" fill="#9A9186" letter-spacing="1">门扇</text>
+  <line x1="492" y1="372" x2="492" y2="232" stroke="#994433" stroke-width="1.2"/>
+  <line x1="492" y1="232" x2="495.356" y2="238.143" stroke="#994433" stroke-width="1.2"/>
+  <line x1="492" y1="232" x2="488.644" y2="238.143" stroke="#994433" stroke-width="1.2"/>
+  <text x="504" y="236" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="1">由闑右（东）</text>
+  <text x="504" y="256" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.5">东为宾位，臣不敢自居</text>
+  <line x1="293" y1="293" x2="307" y2="307" stroke="#994433" stroke-width="1.4"/>
+  <line x1="293" y1="307" x2="307" y2="293" stroke="#994433" stroke-width="1.4"/>
+  <text x="300" y="344" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="1">不践阈</text>
+  <text x="300" y="364" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.5">一则自高，二则不净</text>
+  <text x="156" y="126" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9" fill="#9A9186" letter-spacing="1">西</text>
+  <text x="604" y="126" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#9A9186" letter-spacing="1">东</text>
+  <line x1="60" y1="392" x2="700" y2="392" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="86" y="412" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#994433" letter-spacing="0.5">门以向堂为正</text>
+  <text x="86" y="430" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.5">右在东：客位在西，主人位在东</text>
+  <text x="420" y="412" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#994433" letter-spacing="0.5">士朝位在西方，入仍依闑东</text>
+  <text x="420" y="430" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.5">入门之线，不随站位改</text>
+  <line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="380" y="468" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="2">门是位分的显示器：先认位，再抬脚</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186" letter-spacing="1">图二 · 门内之位：闑右与不践阈 · lj029b</text>
+</svg>

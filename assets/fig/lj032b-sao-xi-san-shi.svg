@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="#DCD5C8"/>
+  <rect x="16" y="16" width="728" height="488" fill="#DCD5C8"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">扫席三事：帚、袂、箕</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <path d="M90,306 L170,306 L156,240 L104,240 Z" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.2"/>
+  <text x="130" y="296" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10" fill="#7C6D5C" letter-spacing="1">箕</text>
+  <line x1="112" y1="252" x2="152" y2="270" stroke="#7C6D5C" stroke-width="1.6"/>
+  <line x1="152" y1="270" x2="162" y2="282" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="152" y1="270" x2="164" y2="285" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="152" y1="270" x2="166" y2="288" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="152" y1="270" x2="168" y2="291" stroke="#7C6D5C" stroke-width="0.8"/>
+  <text x="122" y="330" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9" fill="#994433" letter-spacing="0.5">加帚于箕上</text>
+  <line x1="236" y1="300" x2="178" y2="300" stroke="#994433" stroke-width="1.2"/>
+  <line x1="178" y1="300" x2="184.143" y2="296.644" stroke="#994433" stroke-width="1.2"/>
+  <line x1="178" y1="300" x2="184.143" y2="303.356" stroke="#994433" stroke-width="1.2"/>
+  <text x="244" y="222" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#25211D" letter-spacing="0.5">袂拥帚前，埽而却行</text>
+  <g transform="translate(248,300) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(257,297) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <circle cx="284" cy="306" r="1.6" fill="#7C6D5C" stroke="#7C6D5C" stroke-width="0.7"/>
+  <circle cx="296" cy="312" r="1.6" fill="#7C6D5C" stroke="#7C6D5C" stroke-width="0.7"/>
+  <circle cx="308" cy="306" r="1.6" fill="#7C6D5C" stroke="#7C6D5C" stroke-width="0.7"/>
+  <circle cx="320" cy="312" r="1.6" fill="#7C6D5C" stroke="#7C6D5C" stroke-width="0.7"/>
+  <circle cx="288" cy="294" r="1.6" fill="#7C6D5C" stroke="#7C6D5C" stroke-width="0.7"/>
+  <circle cx="304" cy="296" r="1.6" fill="#7C6D5C" stroke="#7C6D5C" stroke-width="0.7"/>
+  <text x="296" y="336" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#994433" letter-spacing="0.5">尘只到此处</text>
+  <line x1="430" y1="236" x2="430" y2="346" stroke="#7C6D5C" stroke-width="1" stroke-dasharray="5 4"/>
+  <text x="444" y="246" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="1">长者</text>
+  <text x="444" y="264" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="1">尘不及</text>
+  <g transform="rotate(-7 600 250)">
+  <rect x="516" y="240" width="140" height="20" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <line x1="524" y1="250" x2="648" y2="250" stroke="#DCD5C8" stroke-width="0.8"/>
+  </g>
+  <text x="500" y="224" text-anchor="end" font-family="Noto Serif SC,serif" font-size="8.5" fill="#994433" letter-spacing="0.5">左昂</text>
+  <text x="664" y="272" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#994433" letter-spacing="0.5">右低</text>
+  <text x="600" y="306" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9" fill="#994433" letter-spacing="0.5">奉席如桥衡</text>
+  <text x="600" y="324" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.5">如有首尾然</text>
+  <line x1="60" y1="358" x2="700" y2="358" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="86" y="380" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#25211D" letter-spacing="0.5">请席何乡：坐席问面</text>
+  <text x="86" y="398" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#25211D" letter-spacing="0.5">请衽何趾：卧席问足</text>
+  <text x="360" y="380" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#25211D" letter-spacing="0.5">南乡北乡，以西方为上</text>
+  <text x="360" y="398" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#25211D" letter-spacing="0.5">东乡西乡，以南方为上</text>
+  <text x="608" y="380" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#994433" letter-spacing="0.5">顺尊者所安</text>
+  <text x="608" y="398" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.5">不替尊者定方向</text>
+  <line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="380" y="468" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="2">尘土往我这边，方向由尊者那边定</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186" letter-spacing="1">图二 · 扫席三事：帚、袂、箕 · lj032b</text>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="#DCD5C8"/>
+  <rect x="16" y="16" width="728" height="488" fill="#DCD5C8"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">事师三步：趋、立、退</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <rect x="60" y="110" width="190" height="300" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="270" y="110" width="220" height="300" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="510" y="110" width="190" height="300" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="155" y="134" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11" fill="#25211D" letter-spacing="2">从行</text>
+  <text x="76" y="176" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#9A9186" letter-spacing="1">路</text>
+  <line x1="84" y1="190" x2="236" y2="190" stroke="#7C6D5C" stroke-width="1.4"/>
+  <line x1="84" y1="198" x2="236" y2="198" stroke="#7C6D5C" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <g transform="translate(118,194) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(127,191) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <line x1="168" y1="190" x2="232" y2="160" stroke="#994433" stroke-width="1" stroke-dasharray="4 3"/>
+  <line x1="231" y1="153" x2="241" y2="163" stroke="#994433" stroke-width="1.4"/>
+  <line x1="231" y1="163" x2="241" y2="153" stroke="#994433" stroke-width="1.4"/>
+  <text x="155" y="238" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10" fill="#25211D" letter-spacing="1.5">不越路而与人言</text>
+  <text x="155" y="268" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="1">尊不二也</text>
+  <rect x="84" y="290" width="142" height="42" fill="#F7F4EE" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="155" y="308" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9.5" fill="#994433" letter-spacing="1">心不两属</text>
+  <text x="155" y="324" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.5">——非禁其言</text>
+  <text x="155" y="356" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.5">同行之时，不分其心</text>
+  <text x="380" y="134" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11" fill="#25211D" letter-spacing="2">遭于道</text>
+  <line x1="300" y1="152" x2="460" y2="152" stroke="#994433" stroke-width="1.2"/>
+  <g transform="translate(320,196) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(329,193) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <line x1="344" y1="192" x2="392" y2="192" stroke="#994433" stroke-width="1.2"/>
+  <line x1="392" y1="192" x2="385.857" y2="195.356" stroke="#994433" stroke-width="1.2"/>
+  <line x1="392" y1="192" x2="385.857" y2="188.644" stroke="#994433" stroke-width="1.2"/>
+  <circle cx="408" cy="190" r="5" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.7"/>
+  <line x1="402" y1="180" x2="416" y2="172" stroke="#994433" stroke-width="0.9"/>
+  <line x1="402" y1="200" x2="416" y2="208" stroke="#994433" stroke-width="0.9"/>
+  <text x="380" y="238" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10" fill="#25211D" letter-spacing="1.5">趋而进，正立拱手</text>
+  <text x="380" y="268" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="1">为有教使；不敢斥问</text>
+  <text x="380" y="300" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#994433" letter-spacing="0.5">疾趋非奔</text>
+  <text x="380" y="322" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.5">拱手者，不追问</text>
+  <text x="605" y="134" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11" fill="#25211D" letter-spacing="2">言与不言</text>
+  <line x1="530" y1="152" x2="680" y2="152" stroke="#994433" stroke-width="1.2"/>
+  <text x="605" y="182" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="1">先生与之言</text>
+  <text x="605" y="206" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10" fill="#25211D" letter-spacing="1">则对</text>
+  <line x1="560" y1="214" x2="650" y2="214" stroke="#7C6D5C" stroke-width="0.8"/>
+  <text x="605" y="236" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.5">不问大事则辞让</text>
+  <text x="605" y="270" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="1">不与之言</text>
+  <text x="605" y="294" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10" fill="#25211D" letter-spacing="1">则趋而退</text>
+  <text x="605" y="318" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.5">为其不欲与己并行</text>
+  <text x="605" y="356" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.5">退者，不强陪</text>
+  <line x1="250" y1="260" x2="270" y2="260" stroke="#994433" stroke-width="1.2"/>
+  <line x1="270" y1="260" x2="263.857" y2="263.356" stroke="#994433" stroke-width="1.2"/>
+  <line x1="270" y1="260" x2="263.857" y2="256.644" stroke="#994433" stroke-width="1.2"/>
+  <line x1="490" y1="260" x2="510" y2="260" stroke="#994433" stroke-width="1.2"/>
+  <line x1="510" y1="260" x2="503.857" y2="263.356" stroke="#994433" stroke-width="1.2"/>
+  <line x1="510" y1="260" x2="503.857" y2="256.644" stroke="#994433" stroke-width="1.2"/>
+  <line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="380" y="468" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="2">走不旁顾，见不追问，无话即退</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186" letter-spacing="1">图二 · 事师三步：趋、立、退 · lj026b</text>
+</svg>

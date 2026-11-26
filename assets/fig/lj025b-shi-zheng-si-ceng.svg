@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="#DCD5C8"/>
+  <rect x="16" y="16" width="728" height="488" fill="#DCD5C8"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">示以正：五节之教</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <rect x="70" y="112" width="620" height="50" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="88" y="134" text-anchor="start" font-family="Noto Serif SC,serif" font-size="11" fill="#25211D" letter-spacing="1.2">常视毋诳</text>
+  <text x="88" y="152" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.5">视，今之示字；常示以正物，以正教之无诳欺</text>
+  <line x1="70" y1="112" x2="70" y2="162" stroke="#994433" stroke-width="3"/>
+  <rect x="70" y="178" width="620" height="50" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="88" y="200" text-anchor="start" font-family="Noto Serif SC,serif" font-size="11" fill="#25211D" letter-spacing="1.2">童子不衣裘裳</text>
+  <text x="88" y="218" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.5">裘大温，消阴气，使不堪苦；不衣裘裳，便易</text>
+  <line x1="70" y1="178" x2="70" y2="228" stroke="#994433" stroke-width="3"/>
+  <rect x="70" y="244" width="620" height="50" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="88" y="266" text-anchor="start" font-family="Noto Serif SC,serif" font-size="11" fill="#25211D" letter-spacing="1.2">立必正方，不倾听</text>
+  <text x="88" y="284" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.5">习其自端正</text>
+  <line x1="70" y1="244" x2="70" y2="294" stroke="#7C6D5C" stroke-width="3"/>
+  <rect x="70" y="310" width="620" height="50" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="88" y="332" text-anchor="start" font-family="Noto Serif SC,serif" font-size="11" fill="#25211D" letter-spacing="1.2">长者提携，两手奉其手</text>
+  <text x="88" y="350" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.5">为儿长大，方当供养扶持长者，故先使学之</text>
+  <line x1="70" y1="310" x2="70" y2="360" stroke="#7C6D5C" stroke-width="3"/>
+  <rect x="70" y="376" width="620" height="50" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="88" y="398" text-anchor="start" font-family="Noto Serif SC,serif" font-size="11" fill="#25211D" letter-spacing="1.2">负剑辟咡诏之，则掩口而对</text>
+  <text x="88" y="416" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.5">不正向之，令气不触儿</text>
+  <line x1="70" y1="376" x2="70" y2="426" stroke="#7C6D5C" stroke-width="3"/>
+  <line x1="56" y1="112" x2="56" y2="228" stroke="#DCD5C8" stroke-width="1"/>
+  <line x1="48" y1="112" x2="56" y2="112" stroke="#DCD5C8" stroke-width="1"/>
+  <line x1="48" y1="228" x2="56" y2="228" stroke="#DCD5C8" stroke-width="1"/>
+  <line x1="56" y1="244" x2="56" y2="426" stroke="#DCD5C8" stroke-width="1"/>
+  <line x1="48" y1="244" x2="56" y2="244" stroke="#DCD5C8" stroke-width="1"/>
+  <line x1="48" y1="426" x2="56" y2="426" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="44" y="190" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9" fill="#994433" letter-spacing="2" transform="rotate(-90 44 190)">大人之示</text>
+  <text x="44" y="335" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="2" transform="rotate(-90 44 335)">童子之习</text>
+  <line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="380" y="468" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="2">先示以正，再给以苦，末习以敬</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186" letter-spacing="1">图二 · 示以正：五节之教 · lj025b</text>
+</svg>

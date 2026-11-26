@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="#DCD5C8"/>
+  <rect x="16" y="16" width="728" height="488" fill="#DCD5C8"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">五让：门、席、阶、登、足</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <rect x="70" y="352" width="118" height="44" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="129" y="372" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11.5" fill="#25211D" letter-spacing="2">让门</text>
+  <text x="129" y="388" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8" fill="#7C6D5C" letter-spacing="0.2">每门让客</text>
+  <rect x="188" y="308" width="118" height="44" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="247" y="328" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11.5" fill="#25211D" letter-spacing="2">让席</text>
+  <text x="247" y="344" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8" fill="#7C6D5C" letter-spacing="0.2">入为席，出迎</text>
+  <rect x="306" y="264" width="118" height="44" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="365" y="284" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11.5" fill="#25211D" letter-spacing="2">让阶</text>
+  <text x="365" y="300" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8" fill="#7C6D5C" letter-spacing="0.2">主东客西</text>
+  <rect x="424" y="220" width="118" height="44" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="483" y="240" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11.5" fill="#25211D" letter-spacing="2">让登</text>
+  <text x="483" y="256" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8" fill="#7C6D5C" letter-spacing="0.2">主人先登</text>
+  <rect x="542" y="176" width="118" height="44" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="601" y="196" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11.5" fill="#25211D" letter-spacing="2">让足</text>
+  <text x="601" y="212" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8" fill="#7C6D5C" letter-spacing="0.2">东先右，西先左</text>
+  <line x1="70" y1="404" x2="692" y2="404" stroke="#7C6D5C" stroke-width="1"/>
+  <line x1="110" y1="414" x2="650" y2="414" stroke="#994433" stroke-width="1.2"/>
+  <line x1="650" y1="414" x2="643.857" y2="417.356" stroke="#994433" stroke-width="1.2"/>
+  <line x1="650" y1="414" x2="643.857" y2="410.644" stroke="#994433" stroke-width="1.2"/>
+  <text x="380" y="434" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9.5" fill="#994433" letter-spacing="1">每上一级，让深一层</text>
+  <text x="74" y="150" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.5">让必以三，三竟而客不从，主人才先。</text>
+  <text x="74" y="170" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.5">拾级聚足，连步而上：足相随，不相过。</text>
+  <line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="380" y="468" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="2">不是客气，是把对方的尊位落到动作里</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186" letter-spacing="1">图二 · 五让：门、席、阶、登、足 · lj030b</text>
+</svg>

@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="#DCD5C8"/>
+  <rect x="16" y="16" width="728" height="488" fill="#DCD5C8"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">步之度：三不趋与两种武</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <rect x="60" y="110" width="400" height="120" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="74" y="128" text-anchor="start" font-family="Noto Serif SC,serif" font-size="10" fill="#994433" letter-spacing="1.5">堂上接武</text>
+  <g transform="translate(96,168) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(105,165) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(128,168) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(137,165) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(160,168) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(169,165) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(192,168) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(201,165) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(224,168) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(233,165) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <text x="330" y="168" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="1">武，迹也</text>
+  <text x="330" y="186" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="1">步迹相接</text>
+  <rect x="60" y="244" width="400" height="120" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="74" y="262" text-anchor="start" font-family="Noto Serif SC,serif" font-size="10" fill="#994433" letter-spacing="1.5">堂下布武</text>
+  <g transform="translate(96,302) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(105,299) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(174,302) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(183,299) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(252,302) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(261,299) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(330,302) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(339,299) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <text x="368" y="286" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="1">各成其迹</text>
+  <text x="368" y="304" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="1">不半相蹑</text>
+  <rect x="488" y="110" width="212" height="254" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="502" y="130" text-anchor="start" font-family="Noto Serif SC,serif" font-size="10" fill="#994433" letter-spacing="1.5">三不趋</text>
+  <text x="502" y="160" text-anchor="start" font-family="Noto Serif SC,serif" font-size="10" fill="#25211D" letter-spacing="1">帷薄之外</text>
+  <text x="502" y="178" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.5">不见尊者，不为容</text>
+  <line x1="502" y1="188" x2="686" y2="188" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="502" y="224" text-anchor="start" font-family="Noto Serif SC,serif" font-size="10" fill="#25211D" letter-spacing="1">堂上</text>
+  <text x="502" y="242" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.5">地狭有陈，趋则易碰</text>
+  <line x1="502" y1="252" x2="686" y2="252" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="502" y="288" text-anchor="start" font-family="Noto Serif SC,serif" font-size="10" fill="#25211D" letter-spacing="1">执玉</text>
+  <text x="502" y="306" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.5">手有所执，趋则易失</text>
+  <line x1="502" y1="316" x2="686" y2="316" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="86" y="388" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.5">室中不翔，并坐不横肱：不占他人之地</text>
+  <text x="86" y="410" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.5">授立不跪，授坐不立：不敢以长临之</text>
+  <line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="380" y="468" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="2">快慢看场域，舒展看邻人</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186" letter-spacing="1">图二 · 步之度：三不趋与两种武 · lj031b</text>
+</svg>
