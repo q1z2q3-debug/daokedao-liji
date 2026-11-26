@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">常在其心　變在其事</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <rect x="320" y="94" width="120" height="54" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="380" y="119" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#25211D">敬</text>
+  <text x="380" y="139" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C">常也</text>
+  <line x1="380" y1="148" x2="170" y2="196" stroke="#994433" stroke-width="0.9"/>
+  <line x1="380" y1="148" x2="590" y2="196" stroke="#994433" stroke-width="0.9"/>
+  <rect x="90" y="196" width="160" height="64" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="170" y="226" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D">宜</text>
+  <text x="170" y="246" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C">事不可常</text>
+  <rect x="510" y="196" width="160" height="64" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="590" y="226" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="16" fill="#25211D">俗</text>
+  <text x="590" y="246" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C">土俗牲幣</text>
+  <text x="170" y="294" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="1">事：此時此事</text>
+  <rect x="100" y="310" width="140" height="40" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="170" y="328" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11" fill="#25211D">士匄還師</text>
+  <text x="590" y="294" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="1">物：其土所出</text>
+  <rect x="520" y="310" width="140" height="40" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="590" y="328" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11" fill="#25211D">天不生不養</text>
+  <line x1="52" y1="376" x2="708" y2="376" stroke="#994433" stroke-width="0.9"/>
+  <text x="380" y="412" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="16" fill="#25211D" letter-spacing="3">守常在心　變法在事</text>
+  <text x="380" y="442" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="1">宜有判準：知可而進，知難而退</text>
+  <text x="380" y="466" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="1">界在事與物　不在是與非</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186">图二 · 礼从宜　使从俗 · lj008b</text>
+</svg>

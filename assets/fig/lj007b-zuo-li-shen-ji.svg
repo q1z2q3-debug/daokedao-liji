@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">坐取神靜　立取祭折</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <rect x="130" y="112" width="140" height="72" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="200" y="146" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#25211D">尸　神位</text>
+  <text x="200" y="166" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C">坐必矜莊</text>
+  <line x1="118" y1="208" x2="272" y2="208" stroke="#994433" stroke-width="0.9"/>
+  <line x1="118" y1="204" x2="118" y2="212" stroke="#994433" stroke-width="0.9"/>
+  <line x1="272" y1="204" x2="272" y2="212" stroke="#994433" stroke-width="0.9"/>
+  <text x="200" y="238" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="12" fill="#994433" letter-spacing="3">視貌正</text>
+  <text x="200" y="270" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="1">不必為尸，而可坐如尸</text>
+  <path d="M 472 198 L 560 158 L 648 212" fill="none" stroke="#994433" stroke-width="1.5"/>
+  <path d="M 472 209 L 560 169 L 648 223" fill="none" stroke="#994433" stroke-width="1.5"/>
+  <path d="M 472 198 L 472 209" fill="none" stroke="#994433" stroke-width="1.0"/>
+  <path d="M 648 212 L 648 223" fill="none" stroke="#994433" stroke-width="1.0"/>
+  <text x="584" y="148" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#994433" letter-spacing="2">聽</text>
+  <text x="560" y="250" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="12" fill="#994433" letter-spacing="3">磬折</text>
+  <text x="560" y="280" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="1">正立自定，不跛不倚</text>
+  <text x="560" y="308" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="1">不必主祭，而可立如齊</text>
+  <line x1="52" y1="336" x2="708" y2="336" stroke="#994433" stroke-width="0.9"/>
+  <text x="380" y="372" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11" fill="#994433" letter-spacing="1">尸不動，故坐取靜　｜　齋待神，故立取聽</text>
+  <text x="380" y="410" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="16" fill="#25211D" letter-spacing="3">日常之坐立，取法於祭</text>
+  <text x="380" y="440" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="1">借重就輕：祭之容，搬入平居</text>
+  <text x="380" y="464" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="1">童子立必正方　成人立如齊　此成人之善</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186">图二 · 坐如尸　立如齐 · lj007b</text>
+</svg>

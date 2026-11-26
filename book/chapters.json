@@ -1,7 +1,7 @@
 {
- "version": "0.1.1",
+ "version": "0.1.2",
  "total_pian": 49,
- "count": 6,
+ "count": 8,
  "chapters": [
   {
    "no": 1,
@@ -38,6 +38,18 @@
    "key": "lj006",
    "title": "疑事毋质",
    "pian": "曲礼上 · 一·七"
+  },
+  {
+   "no": 7,
+   "key": "lj007",
+   "title": "坐如尸",
+   "pian": "曲礼上 · 一·八"
+  },
+  {
+   "no": 8,
+   "key": "lj008",
+   "title": "礼从宜",
+   "pian": "曲礼上 · 一·九"
   }
  ]
 }
