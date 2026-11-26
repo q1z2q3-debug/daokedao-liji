@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">禮尚往來</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <rect x="95" y="205" width="110" height="70" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="150" y="246" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D">我</text>
+  <rect x="555" y="205" width="110" height="70" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="610" y="246" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D">人</text>
+  <path d="M 205 222 C 268 126, 492 126, 545 222" fill="none" stroke="#994433" stroke-width="1.4"/>
+  <polygon points="545,222 531,215 534,229" fill="#994433"/>
+  <text x="380" y="112" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#994433" letter-spacing="1">往而不來，非禮也</text>
+  <path d="M 555 258 C 492 354, 268 354, 215 258" fill="none" stroke="#994433" stroke-width="1.4"/>
+  <polygon points="215,258 229,265 226,251" fill="#994433"/>
+  <text x="380" y="378" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#994433" letter-spacing="1">來而不往，亦非禮也</text>
+  <line x1="52" y1="406" x2="708" y2="406" stroke="#994433" stroke-width="1"/>
+  <text x="380" y="438" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="14" fill="#25211D" letter-spacing="2">兩頭皆非禮，一禮治兩極</text>
+  <text x="380" y="462" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="1">富不驕淫，貧不懾怯</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186">图二 · 太上贵德　其次务施报 · lj017b</text>
+</svg>

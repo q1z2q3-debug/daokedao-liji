@@ -1,7 +1,7 @@
 {
- "version": "0.1.6",
+ "version": "0.1.7",
  "total_pian": 49,
- "count": 16,
+ "count": 17,
  "chapters": [
   {
    "no": 1,
@@ -98,6 +98,12 @@
    "key": "lj016",
    "title": "鹦鹉能言",
    "pian": "曲礼上 · 一·十七"
+  },
+  {
+   "no": 17,
+   "key": "lj017",
+   "title": "太上贵德",
+   "pian": "曲礼上 · 一·十八"
   }
  ]
 }
