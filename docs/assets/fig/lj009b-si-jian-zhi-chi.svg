@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">四判：禮是器，只定形</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <rect x="60" y="108" width="140" height="88" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="130" y="150" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="14" fill="#25211D">定親疏</text>
+  <text x="130" y="170" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C">五服粗細</text>
+  <rect x="225" y="108" width="140" height="88" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="295" y="150" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="14" fill="#25211D">決嫌疑</text>
+  <text x="295" y="170" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C">妾為女君</text>
+  <rect x="390" y="108" width="140" height="88" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="460" y="150" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="14" fill="#25211D">別同異</text>
+  <text x="460" y="170" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C">本同今異</text>
+  <rect x="555" y="108" width="140" height="88" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="625" y="150" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="14" fill="#25211D">明是非</text>
+  <text x="625" y="170" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C">裼裘為非</text>
+  <line x1="70" y1="250" x2="690" y2="250" stroke="#994433" stroke-width="0.9" stroke-dasharray="5 5"/>
+  <polyline points="680,244 690,250 680,256" fill="none" stroke="#994433" stroke-width="1"/>
+  <text x="380" y="274" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="2">由數入判</text>
+  <line x1="52" y1="316" x2="708" y2="316" stroke="#994433" stroke-width="0.9"/>
+  <text x="380" y="352" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#25211D" letter-spacing="2">禮是器：不生產，只定形</text>
+  <text x="380" y="382" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11" fill="#994433" letter-spacing="3">情生禮　禮定情</text>
+  <text x="380" y="414" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="1">決非折中，是造第三條</text>
+  <text x="380" y="440" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="1">斷是非者，先不悅人、不多言</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186">图二 · 定亲疏　决嫌疑　别同异　明是非 · lj009b</text>
+</svg>
