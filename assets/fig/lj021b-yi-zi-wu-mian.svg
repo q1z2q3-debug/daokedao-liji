@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">一子五面</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <line x1="380" y1="265" x2="380" y2="125" stroke="#994433" stroke-width="0.9"/>
+  <line x1="380" y1="265" x2="513" y2="221" stroke="#994433" stroke-width="0.9"/>
+  <line x1="380" y1="265" x2="462" y2="378" stroke="#994433" stroke-width="0.9"/>
+  <line x1="380" y1="265" x2="297" y2="378" stroke="#994433" stroke-width="0.9"/>
+  <line x1="380" y1="265" x2="246" y2="221" stroke="#994433" stroke-width="0.9"/>
+  <rect x="305" y="102" width="150" height="46" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="380" y="121" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="1">州閭鄉黨</text>
+  <text x="380" y="137" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#994433" letter-spacing="1">稱其孝</text>
+  <rect x="438" y="198" width="150" height="46" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="513" y="217" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="1">兄弟親戚</text>
+  <text x="513" y="233" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#994433" letter-spacing="1">稱其慈</text>
+  <rect x="387" y="355" width="150" height="46" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="462" y="374" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="1">僚友</text>
+  <text x="462" y="390" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#994433" letter-spacing="1">稱其弟</text>
+  <rect x="222" y="355" width="150" height="46" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="297" y="374" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="1">執友</text>
+  <text x="297" y="390" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#994433" letter-spacing="1">稱其仁</text>
+  <rect x="171" y="198" width="150" height="46" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="246" y="217" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="1">交遊</text>
+  <text x="246" y="233" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#994433" letter-spacing="1">稱其信</text>
+  <circle cx="380" cy="265" r="44" fill="#F7F4EE" stroke="#994433" stroke-width="1.2"/>
+  <text x="380" y="261" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#25211D" letter-spacing="2">孝子</text>
+  <text x="380" y="285" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="12" fill="#7C6D5C" letter-spacing="2">之行</text>
+  <line x1="52" y1="420" x2="708" y2="420" stroke="#994433" stroke-width="1"/>
+  <text x="380" y="446" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="14" fill="#25211D" letter-spacing="2">三賜不及車馬</text>
+  <text x="380" y="466" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">命光顯祖父故受，車馬安身不關先祖故不受</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186">图二 · 三赐不及车马 · lj021b</text>
+</svg>
