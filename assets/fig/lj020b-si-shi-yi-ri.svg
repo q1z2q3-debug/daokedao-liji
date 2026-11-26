@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">四時與一日</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <text x="112" y="176" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11" fill="#7C6D5C" letter-spacing="1">四時之法</text>
+  <text x="112" y="306" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11" fill="#7C6D5C" letter-spacing="1">一日之法</text>
+  <rect x="180" y="128" width="200" height="86" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="280" y="165" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="22" fill="#25211D" letter-spacing="2">冬</text>
+  <text x="280" y="191" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="12" fill="#7C6D5C" letter-spacing="1">使之暖</text>
+  <rect x="420" y="128" width="200" height="86" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="520" y="165" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="22" fill="#25211D" letter-spacing="2">夏</text>
+  <text x="520" y="191" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="12" fill="#7C6D5C" letter-spacing="1">使之涼</text>
+  <rect x="180" y="258" width="200" height="86" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="280" y="295" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="22" fill="#25211D" letter-spacing="2">昏</text>
+  <text x="280" y="321" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="12" fill="#7C6D5C" letter-spacing="1">定　安床衽</text>
+  <rect x="420" y="258" width="200" height="86" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="520" y="295" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="22" fill="#25211D" letter-spacing="2">晨</text>
+  <text x="520" y="321" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="12" fill="#7C6D5C" letter-spacing="1">省　問安否</text>
+  <line x1="390" y1="124" x2="390" y2="348" stroke="#994433" stroke-width="1"/>
+  <line x1="52" y1="382" x2="708" y2="382" stroke="#994433" stroke-width="1"/>
+  <text x="380" y="418" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="14" fill="#25211D" letter-spacing="2">四時管冷熱，一日管起臥</text>
+  <text x="380" y="444" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">溫是代其感覺，定省是代其起居</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186">图二 · 为人子之礼 · lj020b</text>
+</svg>
