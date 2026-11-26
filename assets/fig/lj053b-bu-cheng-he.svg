@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="19" fill="#25211D" letter-spacing="3">贺而不称贺：辞的三层</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <rect x="60.0" y="110.0" width="420.0" height="160.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="270.0" y="146.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="12.0" fill="#7C6D5C" letter-spacing="2.0">贺</text>
+  <line x1="256.0" y1="134.0" x2="284.0" y2="158.0" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="284.0" y1="134.0" x2="256.0" y2="158.0" stroke="#7C6D5C" stroke-width="1.2"/>
+  <text x="270.0" y="172.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#994433">昏礼不贺，人之序也</text>
+  <line x1="90.0" y1="188.0" x2="450.0" y2="188.0" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="96.0" y="212.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.0" fill="#25211D">某子使某　——谁派我</text>
+  <text x="96.0" y="236.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.0" fill="#25211D">闻子有客　——我为何来</text>
+  <text x="96.0" y="260.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.0" fill="#25211D">使某羞　　——我带什么来</text>
+  <rect x="520.0" y="130.0" width="170.0" height="110.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <ellipse cx="572" cy="204" rx="16" ry="13" fill="none" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="565.0" y="186.0" width="14.0" height="9.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <rect x="561.0" y="179.0" width="22.0" height="7.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <rect x="604.0" y="182.0" width="48.0" height="22.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="610.0" y1="188.0" x2="646.0" y2="188.0" stroke="#7C6D5C" stroke-width="0.7"/>
+  <line x1="610.0" y1="194.0" x2="646.0" y2="194.0" stroke="#7C6D5C" stroke-width="0.7"/>
+  <line x1="610.0" y1="200.0" x2="646.0" y2="200.0" stroke="#7C6D5C" stroke-width="0.7"/>
+  <text x="605.0" y="262.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C">壶酒、束脩若犬</text>
+  <line x1="60.0" y1="290.0" x2="700.0" y2="290.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="314.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">礼定其不可，辞济其可行：不许说的，绕开说。</text>
+  <text x="80.0" y="336.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.0" fill="#994433" letter-spacing="0.4">不斥主人：把话说到事上，不说到人上。</text>
+  <text x="80.0" y="358.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">三层全是事实，没有一句评断。</text>
+  <line x1="60" y1="444" x2="700" y2="444" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="470" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="14" fill="#25211D" letter-spacing="2">贺者不必称贺</text>
+  <text x="700" y="492" text-anchor="end" font-family="Noto Serif SC,serif" font-size="10" fill="#9A9186">图二 · 贺而不称贺：辞的三层 · lj053b</text>
+</svg>

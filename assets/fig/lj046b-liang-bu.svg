@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="19" fill="#25211D" letter-spacing="3">两不：一远别，一尊崇</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <rect x="60.0" y="110.0" width="280.0" height="80.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="200.0" y="140.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.0" fill="#9A9186" letter-spacing="1.0">嫂</text>
+  <rect x="60.0" y="210.0" width="280.0" height="80.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="200.0" y="252.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.0" fill="#9A9186" letter-spacing="1.0">叔</text>
+  <line x1="200.0" y1="158.0" x2="200.0" y2="202.0" stroke="#DCD5C8" stroke-width="0.0" stroke-dasharray="4 4"/>
+  <line x1="193.0" y1="193.0" x2="207.0" y2="207.0" stroke="#994433" stroke-width="1.4"/>
+  <line x1="207.0" y1="193.0" x2="193.0" y2="207.0" stroke="#994433" stroke-width="1.4"/>
+  <text x="200.0" y="180.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.0" fill="#9A9186"></text>
+  <text x="200.0" y="316.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9.0" fill="#25211D" letter-spacing="0.4">不通问：不相称谢</text>
+  <text x="200.0" y="336.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">所断者是「单独的往来」</text>
+  <line x1="370.0" y1="100.0" x2="370.0" y2="360.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <rect x="410.0" y="110.0" width="280.0" height="64.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="550.0" y="134.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.0" fill="#25211D" letter-spacing="1.0">衣：可浣</text>
+  <rect x="520.0" y="146.0" width="60.0" height="20.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <rect x="410.0" y="190.0" width="280.0" height="64.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="550.0" y="214.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.0" fill="#994433" letter-spacing="1.0">裳：不可浣</text>
+  <path d="M536,226 L562,226 L572,244 L526,244 Z" fill="none" stroke="#994433" stroke-width="0.9"/>
+  <line x1="593.0" y1="229.0" x2="607.0" y2="243.0" stroke="#994433" stroke-width="1.4"/>
+  <line x1="607.0" y1="229.0" x2="593.0" y2="243.0" stroke="#994433" stroke-width="1.4"/>
+  <text x="550.0" y="276.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">裳卑亵：尊兄弟之母，又欲远别</text>
+  <text x="550.0" y="294.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">使庶母漱裳，是使尊长就最卑处</text>
+  <line x1="60.0" y1="360.0" x2="700.0" y2="360.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="384.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">两处「不」，方向相反：一为远别，一为尊崇。</text>
+  <text x="80.0" y="404.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">诸母，庶母也；父之诸妾有子者。</text>
+  <line x1="60" y1="444" x2="700" y2="444" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="470" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="14" fill="#25211D" letter-spacing="2">一头护己，一头护人</text>
+  <text x="700" y="492" text-anchor="end" font-family="Noto Serif SC,serif" font-size="10" fill="#9A9186">图二 · 两不：一远别，一尊崇 · lj046b</text>
+</svg>

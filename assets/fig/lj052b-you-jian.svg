@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="19" fill="#25211D" letter-spacing="3">有见：往来何以可解</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <line x1="60.0" y1="180.0" x2="340.0" y2="180.0" stroke="#7C6D5C" stroke-width="1.4"/>
+  <line x1="420.0" y1="180.0" x2="700.0" y2="180.0" stroke="#7C6D5C" stroke-width="1.4"/>
+  <rect x="340.0" y="180.0" width="80.0" height="150.0" fill="#F7F4EE" stroke="#DCD5C8" stroke-width="1.0"/>
+  <rect x="344.0" y="184.0" width="30.0" height="142.0" fill="#F7F4EE" stroke="#DCD5C8" stroke-width="1.0"/>
+  <circle cx="390.0" cy="230.0" r="3.5" fill="#7C6D5C"/>
+  <text x="380.0" y="352.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C">寡妇之门</text>
+  <rect x="440.0" y="120.0" width="110.0" height="54.0" fill="#F7F4EE" stroke="#994433" stroke-width="1.0"/>
+  <text x="495.0" y="146.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.0" fill="#994433" letter-spacing="1.0">榜</text>
+  <text x="495.0" y="164.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.0" fill="#7C6D5C">众人所知</text>
+  <circle cx="448.0" cy="128.0" r="2.5" fill="#7C6D5C"/>
+  <circle cx="542.0" cy="128.0" r="2.5" fill="#7C6D5C"/>
+  <circle cx="448.0" cy="166.0" r="2.5" fill="#7C6D5C"/>
+  <circle cx="542.0" cy="166.0" r="2.5" fill="#7C6D5C"/>
+  <ellipse cx="130.0" cy="320.0" rx="5" ry="9" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <ellipse cx="146.0" cy="320.0" rx="5" ry="9" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <ellipse cx="170.0" cy="300.0" rx="5" ry="9" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <ellipse cx="186.0" cy="300.0" rx="5" ry="9" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <ellipse cx="210.0" cy="280.0" rx="5" ry="9" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <ellipse cx="226.0" cy="280.0" rx="5" ry="9" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <text x="120.0" y="348.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C">凡庸而频往：折回</text>
+  <path d="M236,262 C260,240 250,222 226,226" fill="none" stroke="#7C6D5C" stroke-width="1.1" stroke-dasharray="5 4"/>
+  <line x1="216.0" y1="228.0" x2="198.0" y2="236.0" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="198.0" y1="236.0" x2="204.0" y2="236.5" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="198.0" y1="236.0" x2="201.6" y2="231.2" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="262.0" y="240.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#994433">无从解释</text>
+  <ellipse cx="560.0" cy="320.0" rx="5" ry="9" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <ellipse cx="576.0" cy="320.0" rx="5" ry="9" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <ellipse cx="520.0" cy="296.0" rx="5" ry="9" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <ellipse cx="536.0" cy="296.0" rx="5" ry="9" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <ellipse cx="470.0" cy="258.0" rx="5" ry="9" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <ellipse cx="486.0" cy="258.0" rx="5" ry="9" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="452.0" y1="248.0" x2="410.0" y2="214.0" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="410.0" y1="214.0" x2="412.3" y2="219.5" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="410.0" y1="214.0" x2="415.9" y2="215.1" stroke="#7C6D5C" stroke-width="1.2"/>
+  <text x="566.0" y="348.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#994433">有见：可入</text>
+  <line x1="60.0" y1="378.0" x2="700.0" y2="378.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="400.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">注先言「辟嫌」，后言才：防的是往来被人怎么读。</text>
+  <text x="80.0" y="420.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.0" fill="#994433" letter-spacing="0.4">「众人所知」——私下的欣赏不构成理由。</text>
+  <line x1="60" y1="444" x2="700" y2="444" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="470" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="14" fill="#25211D" letter-spacing="2">往来得有一个公开的由头</text>
+  <text x="700" y="492" text-anchor="end" font-family="Noto Serif SC,serif" font-size="10" fill="#9A9186">图二 · 有见：往来何以可解 · lj052b</text>
+</svg>

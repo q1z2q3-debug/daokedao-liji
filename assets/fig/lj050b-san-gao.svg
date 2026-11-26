@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="19" fill="#25211D" letter-spacing="3">三告：君、鬼神、乡党</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <rect x="60.0" y="120.0" width="180.0" height="170.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="150.0" y="146.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#994433" letter-spacing="1.5">告君</text>
+  <rect x="280.0" y="120.0" width="180.0" height="170.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="370.0" y="146.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#994433" letter-spacing="1.5">告鬼神</text>
+  <rect x="500.0" y="120.0" width="180.0" height="170.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="590.0" y="146.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#994433" letter-spacing="1.5">告乡党</text>
+  <rect x="84.0" y="164.0" width="56.0" height="10.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="112.0" y="190.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#9A9186">简</text>
+  <line x1="146.0" y1="169.0" x2="152.0" y2="169.0" stroke="#994433" stroke-width="1.2"/>
+  <text x="158.0" y="174.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.0" fill="#9A9186">笔</text>
+  <text x="150.0" y="214.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9.0" fill="#25211D">日月以告君</text>
+  <text x="150.0" y="232.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.0" fill="#7C6D5C">书取妇年月日时</text>
+  <text x="150.0" y="250.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.0" fill="#7C6D5C">《周礼》媒氏书之</text>
+  <rect x="304.0" y="162.0" width="132.0" height="38.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="370.0" y="182.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#9A9186">庙　神席</text>
+  <text x="370.0" y="214.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9.0" fill="#25211D">齐戒以告鬼神</text>
+  <text x="370.0" y="232.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.0" fill="#7C6D5C">嫁女之家告先祖</text>
+  <text x="370.0" y="250.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.0" fill="#7C6D5C">女是先祖遗体</text>
+  <ellipse cx="536" cy="194" rx="17" ry="14" fill="none" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="529.0" y="174.0" width="14.0" height="10.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <rect x="525.0" y="167.0" width="22.0" height="7.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <rect x="580.0" y="170.0" width="58.0" height="22.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="588.0" y1="176.0" x2="630.0" y2="176.0" stroke="#7C6D5C" stroke-width="0.7"/>
+  <line x1="588.0" y1="182.0" x2="630.0" y2="182.0" stroke="#7C6D5C" stroke-width="0.7"/>
+  <line x1="588.0" y1="188.0" x2="630.0" y2="188.0" stroke="#7C6D5C" stroke-width="0.7"/>
+  <line x1="566.0" y1="181.0" x2="578.0" y2="181.0" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="609.0" y="206.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.0" fill="#9A9186">束脩</text>
+  <text x="580.0" y="226.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9.0" fill="#25211D">酒食召乡党僚友</text>
+  <text x="580.0" y="244.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.0" fill="#7C6D5C">会宾客也</text>
+  <text x="580.0" y="262.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.0" fill="#7C6D5C">婚成而众知</text>
+  <line x1="60.0" y1="306.0" x2="700.0" y2="306.0" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="80.0" y="330.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">三告不全，别就不厚：登记、承祖、公开，各管一层。</text>
+  <text x="80.0" y="352.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">取妇不告庙——「示不必人女也」（《白虎通》）。</text>
+  <text x="80.0" y="374.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">无父母则三月庙见，亦是告鬼神（疏）。</text>
+  <line x1="60" y1="444" x2="700" y2="444" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="470" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="14" fill="#25211D" letter-spacing="2">把两个人的事，变成众人的事</text>
+  <text x="700" y="492" text-anchor="end" font-family="Noto Serif SC,serif" font-size="10" fill="#9A9186">图二 · 三告：君、鬼神、乡党 · lj050b</text>
+</svg>

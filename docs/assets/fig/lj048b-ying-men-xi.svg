@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="19" fill="#25211D" letter-spacing="3">缨、门、席：三处之界</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <text x="150.0" y="108.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.0" fill="#25211D" letter-spacing="1.0">缨</text>
+  <line x1="134.0" y1="122.0" x2="166.0" y2="122.0" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="150.0" y1="122.0" x2="150.0" y2="150.0" stroke="#994433" stroke-width="1.2"/>
+  <circle cx="150.0" cy="152.0" r="3.5" fill="#994433" stroke="#994433" stroke-width="1"/>
+  <path d="M150,154 C139,168 130,182 128,196" fill="none" stroke="#994433" stroke-width="1"/>
+  <path d="M150,154 C144,168 140,182 139,196" fill="none" stroke="#994433" stroke-width="1"/>
+  <path d="M150,154 C150,168 150,182 150,196" fill="none" stroke="#994433" stroke-width="1"/>
+  <path d="M150,154 C156,168 160,182 161,196" fill="none" stroke="#994433" stroke-width="1"/>
+  <path d="M150,154 C161,168 170,182 172,196" fill="none" stroke="#994433" stroke-width="1"/>
+  <text x="150.0" y="218.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C">有从人之端</text>
+  <text x="150.0" y="236.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.0" fill="#7C6D5C">系在头上，人人可辨</text>
+  <text x="360.0" y="108.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.0" fill="#25211D" letter-spacing="1.0">门</text>
+  <rect x="320.0" y="124.0" width="80.0" height="96.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <rect x="324.0" y="128.0" width="32.0" height="88.0" fill="#F7F4EE" stroke="#DCD5C8" stroke-width="1.0"/>
+  <circle cx="348.0" cy="172.0" r="3.5" fill="#7C6D5C"/>
+  <text x="360.0" y="240.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C">非大故，不入其门</text>
+  <text x="360.0" y="258.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.0" fill="#7C6D5C">大故：灾变、疾病</text>
+  <text x="590.0" y="108.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.0" fill="#25211D" letter-spacing="1.0">席</text>
+  <rect x="505.0" y="130.0" width="68.0" height="44.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <rect x="515.0" y="152.0" width="20.0" height="12.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <rect x="600.0" y="130.0" width="68.0" height="44.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <rect x="640.0" y="152.0" width="20.0" height="12.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="590.0" y="214.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C">各一器</text>
+  <text x="590.0" y="236.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#994433" letter-spacing="0.3">已嫁而反：犹不同席</text>
+  <line x1="60.0" y1="272.0" x2="700.0" y2="272.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="296.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">缨是记号：婚事未成，状态已明。</text>
+  <text x="80.0" y="318.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">缨有二时：少时佩香缨，许嫁系缨（疏）。</text>
+  <text x="80.0" y="342.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.0" fill="#994433" letter-spacing="0.4">「犹」字最重：回来了，礼不改。</text>
+  <text x="80.0" y="364.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">同节于兄弟亦有「弗与」之责，非只约女。</text>
+  <line x1="60" y1="444" x2="700" y2="444" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="470" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="14" fill="#25211D" letter-spacing="2">记号、界限、分寸</text>
+  <text x="700" y="492" text-anchor="end" font-family="Noto Serif SC,serif" font-size="10" fill="#9A9186">图二 · 缨、门、席：三处之界 · lj048b</text>
+</svg>

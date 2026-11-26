@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="19" fill="#25211D" letter-spacing="3">本系：可追与已断</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <text x="180.0" y="110.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.0" fill="#25211D" letter-spacing="1.0">谱：姓可追</text>
+  <line x1="90.0" y1="150.0" x2="270.0" y2="150.0" stroke="#7C6D5C" stroke-width="1.1"/>
+  <circle cx="100.0" cy="150.0" r="4.0" fill="#7C6D5C"/>
+  <line x1="100.0" y1="150.0" x2="100.0" y2="166.0" stroke="#7C6D5C" stroke-width="0.6"/>
+  <circle cx="100.0" cy="172.0" r="3.0" fill="#9A9186"/>
+  <circle cx="142.0" cy="150.0" r="4.0" fill="#7C6D5C"/>
+  <line x1="142.0" y1="150.0" x2="142.0" y2="166.0" stroke="#7C6D5C" stroke-width="0.6"/>
+  <circle cx="142.0" cy="172.0" r="3.0" fill="#9A9186"/>
+  <circle cx="184.0" cy="150.0" r="4.0" fill="#7C6D5C"/>
+  <line x1="184.0" y1="150.0" x2="184.0" y2="166.0" stroke="#7C6D5C" stroke-width="0.6"/>
+  <circle cx="184.0" cy="172.0" r="3.0" fill="#9A9186"/>
+  <circle cx="226.0" cy="150.0" r="4.0" fill="#7C6D5C"/>
+  <line x1="226.0" y1="150.0" x2="226.0" y2="166.0" stroke="#7C6D5C" stroke-width="0.6"/>
+  <circle cx="226.0" cy="172.0" r="3.0" fill="#9A9186"/>
+  <circle cx="268.0" cy="150.0" r="4.0" fill="#7C6D5C"/>
+  <line x1="268.0" y1="150.0" x2="268.0" y2="166.0" stroke="#7C6D5C" stroke-width="0.6"/>
+  <circle cx="268.0" cy="172.0" r="3.0" fill="#9A9186"/>
+  <text x="180.0" y="204.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C">世有本系，则知来处</text>
+  <text x="180.0" y="224.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#994433">同姓不取：为其近禽兽</text>
+  <text x="520.0" y="110.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.0" fill="#994433" letter-spacing="1.0">妾：本系已断</text>
+  <line x1="430.0" y1="150.0" x2="510.0" y2="150.0" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="556.0" y1="150.0" x2="636.0" y2="150.0" stroke="#7C6D5C" stroke-width="1.1" stroke-dasharray="5 5"/>
+  <circle cx="442.0" cy="150.0" r="4.0" fill="#7C6D5C"/>
+  <circle cx="480.0" cy="150.0" r="4.0" fill="#7C6D5C"/>
+  <circle cx="566.0" cy="150.0" r="4.0" fill="#9A9186"/>
+  <circle cx="606.0" cy="150.0" r="4.0" fill="#9A9186"/>
+  <line x1="526.0" y1="143.0" x2="540.0" y2="157.0" stroke="#994433" stroke-width="1.4"/>
+  <line x1="540.0" y1="143.0" x2="526.0" y2="157.0" stroke="#994433" stroke-width="1.4"/>
+  <text x="520.0" y="204.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C">世无本系，则无从守</text>
+  <text x="520.0" y="224.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#994433">不知其姓，则卜之</text>
+  <path d="M470,286 C470,258 530,258 530,286 C530,318 470,318 470,286 Z" fill="none" stroke="#7C6D5C" stroke-width="1"/>
+  <line x1="478.0" y1="282.0" x2="522.0" y2="282.0" stroke="#7C6D5C" stroke-width="0.6"/>
+  <line x1="474.0" y1="292.0" x2="526.0" y2="292.0" stroke="#7C6D5C" stroke-width="0.6"/>
+  <line x1="486.0" y1="300.0" x2="514.0" y2="300.0" stroke="#7C6D5C" stroke-width="0.6"/>
+  <line x1="492.0" y1="308.0" x2="508.0" y2="308.0" stroke="#7C6D5C" stroke-width="0.6"/>
+  <text x="500.0" y="340.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.0" fill="#7C6D5C">卜甲</text>
+  <line x1="560.0" y1="286.0" x2="566.0" y2="320.0" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="572.0" y1="286.0" x2="578.0" y2="320.0" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="584.0" y1="286.0" x2="590.0" y2="320.0" stroke="#7C6D5C" stroke-width="0.8"/>
+  <line x1="596.0" y1="286.0" x2="602.0" y2="320.0" stroke="#7C6D5C" stroke-width="0.8"/>
+  <text x="594.0" y="340.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.0" fill="#7C6D5C">蓍草</text>
+  <text x="530.0" y="366.0" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#994433">卜吉则取之（熊氏）</text>
+  <line x1="60.0" y1="384.0" x2="700.0" y2="384.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="406.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">禁所守者是「有本系」，补所济者是「本系已失」。</text>
+  <text x="80.0" y="426.0" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">注只五字「为其近禽兽」——义在无别，不在卫生。</text>
+  <line x1="60" y1="444" x2="700" y2="444" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="380" y="470" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="14" fill="#25211D" letter-spacing="2">守得住就守，守不住则有补</text>
+  <text x="700" y="492" text-anchor="end" font-family="Noto Serif SC,serif" font-size="10" fill="#9A9186">图二 · 本系：可追与已断 · lj051b</text>
+</svg>
