@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">年為尺，兩端不刑</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <line x1="64" y1="222" x2="706" y2="222" stroke="#25211D" stroke-width="1.2"/>
+  <line x1="96" y1="214" x2="96" y2="230" stroke="#25211D" stroke-width="1.2"/>
+  <text x="96" y="192" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">十歲</text>
+  <text x="96" y="170" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="1.5">幼</text>
+  <text x="96" y="254" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">學</text>
+  <line x1="160" y1="214" x2="160" y2="230" stroke="#25211D" stroke-width="1.2"/>
+  <text x="160" y="192" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">二十</text>
+  <text x="160" y="170" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="1.5">弱</text>
+  <text x="160" y="254" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">冠</text>
+  <line x1="224" y1="214" x2="224" y2="230" stroke="#25211D" stroke-width="1.2"/>
+  <text x="224" y="192" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">三十</text>
+  <text x="224" y="170" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="1.5">壯</text>
+  <text x="224" y="254" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">有室</text>
+  <line x1="288" y1="214" x2="288" y2="230" stroke="#25211D" stroke-width="1.2"/>
+  <text x="288" y="192" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">四十</text>
+  <text x="288" y="170" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="1.5">強</text>
+  <text x="288" y="254" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">仕</text>
+  <line x1="352" y1="214" x2="352" y2="230" stroke="#25211D" stroke-width="1.2"/>
+  <text x="352" y="192" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">五十</text>
+  <text x="352" y="170" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="1.5">艾</text>
+  <text x="352" y="254" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">服官政</text>
+  <line x1="416" y1="214" x2="416" y2="230" stroke="#25211D" stroke-width="1.2"/>
+  <text x="416" y="192" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">六十</text>
+  <text x="416" y="170" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="1.5">耆</text>
+  <text x="416" y="254" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">指使</text>
+  <line x1="480" y1="214" x2="480" y2="230" stroke="#25211D" stroke-width="1.2"/>
+  <text x="480" y="192" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">七十</text>
+  <text x="480" y="170" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="1.5">老</text>
+  <text x="480" y="254" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">而傳</text>
+  <line x1="556" y1="214" x2="556" y2="230" stroke="#25211D" stroke-width="1.2"/>
+  <text x="556" y="192" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">八十、九十</text>
+  <text x="556" y="170" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="1.5">耄</text>
+  <text x="556" y="254" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">不加刑</text>
+  <line x1="660" y1="214" x2="660" y2="230" stroke="#25211D" stroke-width="1.2"/>
+  <text x="660" y="192" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">百歲</text>
+  <text x="660" y="170" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="1.5">期</text>
+  <text x="660" y="254" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">頤</text>
+  <text x="556" y="318" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="12" fill="#994433" letter-spacing="1">七年曰悼</text>
+  <text x="556" y="340" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">同不加刑</text>
+  <line x1="556" y1="264" x2="556" y2="304" stroke="#994433" stroke-width="1" stroke-dasharray="4 5"/>
+  <text x="572" y="290" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10" fill="#994433" letter-spacing="0">同</text>
+  <line x1="52" y1="360" x2="708" y2="360" stroke="#994433" stroke-width="1"/>
+  <text x="380" y="398" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="14" fill="#25211D" letter-spacing="2">禮以年為尺，尺之兩端不加刑</text>
+  <text x="380" y="424" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="0.5">七歲曰悼，書在八十九十之後——以其同</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186">图二 · 人生十年曰幼 · lj018b</text>
+</svg>
