@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="#DCD5C8"/>
+  <rect x="16" y="16" width="728" height="488" fill="#DCD5C8"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">立言三则：不偷、不随、有据</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <rect x="60" y="112" width="196" height="146" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="158" y="138" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11" fill="#25211D" letter-spacing="1.5">毋剿说</text>
+  <text x="158" y="158" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">剿犹揽也</text>
+  <rect x="78" y="186" width="42" height="14" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="99" y="196" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8" fill="#9A9186" letter-spacing="0">他人</text>
+  <line x1="124" y1="193" x2="168" y2="193" stroke="#994433" stroke-width="1.2"/>
+  <line x1="168" y1="193" x2="161.857" y2="196.356" stroke="#994433" stroke-width="1.2"/>
+  <line x1="168" y1="193" x2="161.857" y2="189.644" stroke="#994433" stroke-width="1.2"/>
+  <line x1="140" y1="187" x2="152" y2="199" stroke="#994433" stroke-width="1.4"/>
+  <line x1="140" y1="199" x2="152" y2="187" stroke="#994433" stroke-width="1.4"/>
+  <circle cx="180" cy="193" r="5" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.7"/>
+  <text x="180" y="216" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0">我</text>
+  <text x="158" y="240" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9" fill="#994433" letter-spacing="0.3">取人之说为己说</text>
+  <rect x="274" y="112" width="196" height="146" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="372" y="138" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11" fill="#25211D" letter-spacing="1.5">毋雷同</text>
+  <text x="372" y="158" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">雷发声，物无不同时应</text>
+  <line x1="300" y1="206" x2="444" y2="206" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="312" y1="204" x2="312" y2="184" stroke="#994433" stroke-width="1.2"/>
+  <line x1="312" y1="184" x2="315.356" y2="190.143" stroke="#994433" stroke-width="1.2"/>
+  <line x1="312" y1="184" x2="308.644" y2="190.143" stroke="#994433" stroke-width="1.2"/>
+  <line x1="352" y1="204" x2="352" y2="184" stroke="#994433" stroke-width="1.2"/>
+  <line x1="352" y1="184" x2="355.356" y2="190.143" stroke="#994433" stroke-width="1.2"/>
+  <line x1="352" y1="184" x2="348.644" y2="190.143" stroke="#994433" stroke-width="1.2"/>
+  <line x1="392" y1="204" x2="392" y2="184" stroke="#994433" stroke-width="1.2"/>
+  <line x1="392" y1="184" x2="395.356" y2="190.143" stroke="#994433" stroke-width="1.2"/>
+  <line x1="392" y1="184" x2="388.644" y2="190.143" stroke="#994433" stroke-width="1.2"/>
+  <line x1="432" y1="204" x2="432" y2="184" stroke="#994433" stroke-width="1.2"/>
+  <line x1="432" y1="184" x2="435.356" y2="190.143" stroke="#994433" stroke-width="1.2"/>
+  <line x1="432" y1="184" x2="428.644" y2="190.143" stroke="#994433" stroke-width="1.2"/>
+  <text x="372" y="232" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9" fill="#994433" letter-spacing="0.3">当各由己，不当然</text>
+  <rect x="488" y="112" width="212" height="146" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="594" y="138" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11" fill="#25211D" letter-spacing="1.5">必则古昔，称先王</text>
+  <circle cx="510" cy="196" r="5" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.7"/>
+  <text x="510" y="216" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0">我</text>
+  <line x1="524" y1="196" x2="556" y2="196" stroke="#7C6D5C" stroke-width="1" stroke-dasharray="5 4"/>
+  <rect x="560" y="188" width="52" height="14" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="586" y="198" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8" fill="#9A9186" letter-spacing="0">古昔</text>
+  <text x="594" y="232" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9" fill="#994433" letter-spacing="0.3">言必有依据</text>
+  <text x="594" y="248" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8" fill="#7C6D5C" letter-spacing="0.3">虽不雷同，亦不专辄</text>
+  <line x1="60" y1="282" x2="700" y2="282" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="86" y="306" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">剿说是偷主，雷同是弃主，则古昔是另立一个更高的主。</text>
+  <text x="86" y="330" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.4">郑注引《孟子》「人无是非之心，非人也」。</text>
+  <text x="86" y="356" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#994433" letter-spacing="0.4">《孝经》称「先王有至德」：话头抬到可查可驳之处。</text>
+  <text x="86" y="380" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.4">今日二病：搬运（洗稿）与合唱（同温层皆曰然）。</text>
+  <line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="380" y="468" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="2">言有主，则有据</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186" letter-spacing="1">图二 · 立言三则：不偷、不随、有据 · lj037b</text>
+</svg>

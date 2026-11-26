@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="#DCD5C8"/>
+  <rect x="16" y="16" width="728" height="488" fill="#DCD5C8"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">容止十二戒：不倾、不张、不露</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <rect x="60" y="116" width="200" height="268" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="160" y="142" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10" fill="#994433" letter-spacing="1.5">耳目口身</text>
+  <line x1="84" y1="156" x2="236" y2="156" stroke="#DCD5C8" stroke-width="0.8"/>
+  <circle cx="88" cy="182" r="3" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.7"/>
+  <text x="100" y="186" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.3">毋侧听</text>
+  <text x="100" y="202" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8" fill="#7C6D5C" letter-spacing="0.3">耳属于垣</text>
+  <circle cx="88" cy="234" r="3" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.7"/>
+  <text x="100" y="238" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.3">毋噭应</text>
+  <text x="100" y="254" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8" fill="#7C6D5C" letter-spacing="0.3">号呼之声</text>
+  <circle cx="88" cy="286" r="3" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.7"/>
+  <text x="100" y="290" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.3">毋淫视</text>
+  <text x="100" y="306" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8" fill="#7C6D5C" letter-spacing="0.3">睇眄流动</text>
+  <circle cx="88" cy="338" r="3" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.7"/>
+  <text x="100" y="342" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.3">毋怠荒</text>
+  <text x="100" y="358" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8" fill="#7C6D5C" letter-spacing="0.3">放散身体</text>
+  <rect x="276" y="116" width="200" height="268" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="376" y="142" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10" fill="#994433" letter-spacing="1.5">行立坐卧</text>
+  <line x1="300" y1="156" x2="452" y2="156" stroke="#DCD5C8" stroke-width="0.8"/>
+  <circle cx="304" cy="182" r="3" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.7"/>
+  <text x="316" y="186" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.3">游毋倨</text>
+  <text x="316" y="202" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8" fill="#7C6D5C" letter-spacing="0.3">行而慢</text>
+  <circle cx="304" cy="234" r="3" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.7"/>
+  <text x="316" y="238" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.3">立毋跛</text>
+  <text x="316" y="254" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8" fill="#7C6D5C" letter-spacing="0.3">偏任一足</text>
+  <circle cx="304" cy="286" r="3" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.7"/>
+  <text x="316" y="290" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.3">坐毋箕</text>
+  <text x="316" y="306" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8" fill="#7C6D5C" letter-spacing="0.3">舒足如箕舌</text>
+  <circle cx="304" cy="338" r="3" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.7"/>
+  <text x="316" y="342" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.3">寝毋伏</text>
+  <text x="316" y="358" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8" fill="#7C6D5C" letter-spacing="0.3">覆面而卧</text>
+  <rect x="492" y="116" width="200" height="268" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="592" y="142" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10" fill="#994433" letter-spacing="1.5">发冠衣裳</text>
+  <line x1="516" y1="156" x2="668" y2="156" stroke="#DCD5C8" stroke-width="0.8"/>
+  <circle cx="520" cy="182" r="3" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.7"/>
+  <text x="532" y="186" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.3">敛发毋髢</text>
+  <text x="532" y="202" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8" fill="#7C6D5C" letter-spacing="0.3">垂余如髲</text>
+  <circle cx="520" cy="234" r="3" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.7"/>
+  <text x="532" y="238" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.3">冠毋免</text>
+  <text x="532" y="254" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8" fill="#7C6D5C" letter-spacing="0.3">去冠</text>
+  <circle cx="520" cy="286" r="3" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.7"/>
+  <text x="532" y="290" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.3">劳毋袒</text>
+  <text x="532" y="306" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8" fill="#7C6D5C" letter-spacing="0.3">露身</text>
+  <circle cx="520" cy="338" r="3" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.7"/>
+  <text x="532" y="342" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.3">暑毋褰裳</text>
+  <text x="532" y="358" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8" fill="#7C6D5C" letter-spacing="0.3">掀裳取凉</text>
+  <line x1="60" y1="402" x2="700" y2="402" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="86" y="414" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">十二戒本诫「左右屏隐之人」：一退到暗处，人便放肆（疏）。</text>
+  <text x="86" y="432" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.4">故礼先在那里立规，亦可通戒为人之法。</text>
+  <line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="380" y="468" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="2">不倾、不张、不露</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186" letter-spacing="1">图二 · 容止十二戒：不倾、不张、不露 · lj042b</text>
+</svg>

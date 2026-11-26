@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="#DCD5C8"/>
+  <rect x="16" y="16" width="728" height="488" fill="#DCD5C8"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">解屦纳屦：四步之节</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <rect x="60" y="110" width="420" height="60" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="270" y="146" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11" fill="#9A9186" letter-spacing="1">堂</text>
+  <rect x="180" y="170" width="180" height="18" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="180" y="188" width="180" height="18" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="180" y="206" width="180" height="18" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="270" y="214" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9" fill="#9A9186" letter-spacing="0">阶</text>
+  <line x1="180" y1="226" x2="180" y2="296" stroke="#7C6D5C" stroke-width="1" stroke-dasharray="4 3"/>
+  <line x1="360" y1="226" x2="360" y2="296" stroke="#7C6D5C" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="270" y="244" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9" fill="#994433" letter-spacing="0.4">阶心空</text>
+  <line x1="264" y1="256" x2="276" y2="268" stroke="#994433" stroke-width="1.4"/>
+  <line x1="264" y1="268" x2="276" y2="256" stroke="#994433" stroke-width="1.4"/>
+  <rect x="112" y="236" width="28" height="10" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="404" y="236" width="28" height="10" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="112" y="252" width="28" height="10" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="404" y="252" width="28" height="10" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="126" y="232" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0">屦</text>
+  <text x="418" y="232" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0">屦</text>
+  <text x="126" y="296" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">侧就阶边而解</text>
+  <text x="430" y="296" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">屏于侧，不当阶</text>
+  <text x="270" y="300" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">人与屦并不当阶（疏）</text>
+  <line x1="60" y1="318" x2="700" y2="318" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="86" y="344" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">一　屦不上于堂</text>
+  <text x="330" y="344" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.3">屦贱，不陈于尊者之侧</text>
+  <text x="86" y="368" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">二　解屦不当阶</text>
+  <text x="330" y="368" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.3">为妨后升者</text>
+  <text x="86" y="392" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">三　就屦跪举，屏侧</text>
+  <text x="330" y="392" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.3">谓独退也</text>
+  <text x="86" y="416" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">四　乡长者而屦，俯而纳</text>
+  <text x="330" y="416" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#7C6D5C" letter-spacing="0.3">长者送之，不得背</text>
+  <line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="380" y="468" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="2">鞋是最贱的物，礼用它量出上下</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186" letter-spacing="1">图二 · 解屦纳屦：四步之节 · lj043b</text>
+</svg>

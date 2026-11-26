@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="#DCD5C8"/>
+  <rect x="16" y="16" width="728" height="488" fill="#DCD5C8"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">入席三节：色、衣、足</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <rect x="60" y="112" width="150" height="140" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="135" y="140" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#25211D" letter-spacing="2">色</text>
+  <text x="135" y="164" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">容毋怍</text>
+  <text x="135" y="232" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">颜色宜庄，不得变动</text>
+  <rect x="230" y="112" width="170" height="140" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="315" y="140" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#25211D" letter-spacing="2">衣</text>
+  <text x="315" y="164" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">抠衣去齐尺</text>
+  <text x="315" y="232" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">裳下缉去地一尺，恐蹑履</text>
+  <rect x="420" y="112" width="170" height="140" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="505" y="140" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#25211D" letter-spacing="2">足</text>
+  <text x="505" y="164" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">衣毋拨，足毋蹶</text>
+  <text x="505" y="232" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">拨，发扬；蹶，行遽</text>
+  <line x1="96" y1="188" x2="204" y2="188" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="150" y="212" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#9A9186" letter-spacing="0.3">先定其色</text>
+  <g transform="translate(470,206) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g transform="translate(479,203) rotate(0)">
+  <ellipse cx="0" cy="0" rx="5.5" ry="9" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <line x1="462" y1="190" x2="486" y2="190" stroke="#DCD5C8" stroke-width="0.8"/>
+  <rect x="610" y="152" width="80" height="88" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="618" y="176" width="30" height="8" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <rect x="618" y="196" width="62" height="7" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="650" y="144" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#25211D" letter-spacing="0.3">书策琴瑟在前</text>
+  <text x="650" y="262" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="9" fill="#994433" letter-spacing="0.4">坐而迁之，戒勿越</text>
+  <line x1="60" y1="286" x2="700" y2="286" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="86" y="310" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">三者皆在「走过去」这一段路上：脸先定，衣再提，脚最后慢。</text>
+  <text x="86" y="332" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">物在前则不越，跪而挪开——敬由膝盖落地。</text>
+  <text x="86" y="362" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#994433" letter-spacing="0.4">弟子讲问初来之法（疏）</text>
+  <text x="86" y="384" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">坐亦跪也，坐通名跪，跪名不通坐（疏辨名）</text>
+  <line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="380" y="468" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="2">敬不在远，在这一小段路上</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186" letter-spacing="1">图二 · 入席三节：色、衣、足 · lj034b</text>
+</svg>

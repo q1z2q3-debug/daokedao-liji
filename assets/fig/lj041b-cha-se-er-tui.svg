@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="#DCD5C8"/>
+  <rect x="16" y="16" width="728" height="488" fill="#DCD5C8"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">察色而退：一请二起三屏</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <text x="86" y="132" text-anchor="start" font-family="Noto Serif SC,serif" font-size="10" fill="#25211D" letter-spacing="1">四个信号：君子倦矣</text>
+  <circle cx="96" cy="162" r="4" fill="#F7F4EE" stroke="#994433" stroke-width="0.7"/>
+  <text x="112" y="166" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">欠伸</text>
+  <text x="250" y="166" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">志疲则欠，体疲则伸</text>
+  <circle cx="96" cy="206" r="4" fill="#F7F4EE" stroke="#994433" stroke-width="0.7"/>
+  <text x="112" y="210" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">撰杖屦</text>
+  <text x="250" y="210" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">撰犹持也</text>
+  <circle cx="96" cy="250" r="4" fill="#F7F4EE" stroke="#994433" stroke-width="0.7"/>
+  <text x="112" y="254" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">视日蚤莫</text>
+  <text x="250" y="254" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">瞻视庭影，望日早晚</text>
+  <rect x="430" y="152" width="180" height="52" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="520" y="176" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="12" fill="#25211D" letter-spacing="2">请出</text>
+  <text x="520" y="196" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#994433" letter-spacing="0.3">退由尊者，故请</text>
+  <line x1="392" y1="178" x2="424" y2="178" stroke="#994433" stroke-width="1.2"/>
+  <line x1="424" y1="178" x2="417.857" y2="181.356" stroke="#994433" stroke-width="1.2"/>
+  <line x1="424" y1="178" x2="417.857" y2="174.644" stroke="#994433" stroke-width="1.2"/>
+  <text x="520" y="224" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">《论语》：杖者出，斯出矣</text>
+  <line x1="60" y1="286" x2="700" y2="286" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="86" y="310" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">二　问更端，则起而对</text>
+  <text x="86" y="330" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">离席对，敬异事也；君子必令复坐（注）</text>
+  <text x="86" y="362" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9.5" fill="#25211D" letter-spacing="0.4">三　有告者曰少间愿有复，则左右屏而待</text>
+  <text x="86" y="382" text-anchor="start" font-family="Noto Serif SC,serif" font-size="8.5" fill="#7C6D5C" letter-spacing="0.3">屏犹退也，隐也；不得远（疏）</text>
+  <text x="86" y="410" text-anchor="start" font-family="Noto Serif SC,serif" font-size="9" fill="#994433" letter-spacing="0.4">退的技术：看信号、请准、离席、屏避。</text>
+  <line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="380" y="468" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="2">一半在看，一半在退</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186" letter-spacing="1">图二 · 察色而退：一请二起三屏 · lj041b</text>
+</svg>
