@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">道可來取　不可往授</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <text x="380" y="102" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11" fill="#7C6D5C" letter-spacing="2">門</text>
+  <line x1="380" y1="112" x2="380" y2="300" stroke="#994433" stroke-width="0.9" stroke-dasharray="5 5"/>
+  <rect x="80" y="140" width="180" height="86" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="170" y="181" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="16" fill="#25211D">我</text>
+  <text x="170" y="201" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C">德可取法</text>
+  <rect x="500" y="140" width="180" height="86" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="590" y="181" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="16" fill="#25211D">人</text>
+  <text x="590" y="201" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C">待其自來</text>
+  <line x1="660" y1="330" x2="404" y2="330" stroke="#994433" stroke-width="0.9"/>
+  <polyline points="412,324 402,330 412,336" fill="none" stroke="#994433" stroke-width="0.9"/>
+  <text x="534" y="320" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#994433" letter-spacing="2">來學</text>
+  <line x1="392" y1="372" x2="646" y2="372" stroke="#994433" stroke-width="0.9"/>
+  <polyline points="638,366 648,372 638,378" fill="none" stroke="#994433" stroke-width="0.9"/>
+  <text x="520" y="362" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#994433" letter-spacing="2">往教</text>
+  <line x1="524" y1="366" x2="536" y2="378" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="536" y1="366" x2="524" y2="378" stroke="#25211D" stroke-width="1.1"/>
+  <line x1="52" y1="404" x2="708" y2="404" stroke="#994433" stroke-width="0.9"/>
+  <text x="380" y="440" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#25211D" letter-spacing="2">學的主權在學者</text>
+  <text x="380" y="466" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="1">門開著，人來了就教；人不來，不推</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186">图二 · 取于人　来学 · lj013b</text>
+</svg>
