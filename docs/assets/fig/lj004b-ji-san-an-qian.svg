@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">積而能散　安安而能遷</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <rect x="80" y="110" width="150" height="70" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="155" y="143" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#25211D">積</text>
+  <text x="155" y="163" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C">蓄積也</text>
+  <rect x="80" y="262" width="150" height="70" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="155" y="295" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#25211D">散</text>
+  <text x="155" y="315" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C">見貧窮者，賙救之</text>
+  <line x1="155" y1="180" x2="155" y2="262" stroke="#994433" stroke-width="0.9"/>
+  <text x="176" y="226" text-anchor="start" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="1">有其出</text>
+  <rect x="430" y="110" width="150" height="70" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="505" y="143" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#25211D">安</text>
+  <text x="505" y="163" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C">安此之安</text>
+  <rect x="430" y="262" width="150" height="70" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="505" y="295" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#25211D">遷</text>
+  <text x="505" y="315" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C">圖後有害，則遷</text>
+  <line x1="505" y1="180" x2="505" y2="262" stroke="#994433" stroke-width="0.9"/>
+  <text x="526" y="226" text-anchor="start" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="1">有其動</text>
+  <text x="380" y="378" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="1">無對象的散是敗家　無後患的遷是躁動</text>
+  <line x1="52" y1="400" x2="708" y2="400" stroke="#994433" stroke-width="0.9"/>
+  <text x="380" y="434" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="1.5">晉舅犯與姜氏醉重耳而行　近之</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186">图二 · 积而能散 · lj004b</text>
+</svg>

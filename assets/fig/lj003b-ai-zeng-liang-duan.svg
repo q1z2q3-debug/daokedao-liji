@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">愛而知其惡　憎而知其善</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <text x="380" y="110" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11" fill="#7C6D5C" letter-spacing="2">一箇「知」字，兩頭都不許偏</text>
+  <line x1="150" y1="196" x2="610" y2="196" stroke="#994433" stroke-width="0.9"/>
+  <rect x="90" y="132" width="120" height="62" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="150" y="161" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="18" fill="#25211D">愛</text>
+  <rect x="550" y="132" width="120" height="62" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="610" y="161" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="18" fill="#25211D">憎</text>
+  <line x1="150" y1="196" x2="150" y2="224" stroke="#994433" stroke-width="0.9"/>
+  <line x1="610" y1="196" x2="610" y2="224" stroke="#994433" stroke-width="0.9"/>
+  <rect x="90" y="224" width="120" height="60" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="150" y="252" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D">其惡</text>
+  <text x="150" y="272" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C">短處不掩</text>
+  <rect x="550" y="224" width="120" height="60" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="610" y="252" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D">其善</text>
+  <text x="610" y="272" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C">長處不沒</text>
+  <text x="380" y="196" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10" fill="#25211D" letter-spacing="1"></text>
+  <text x="380" y="318" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="12" fill="#994433" letter-spacing="1">不可因愛諱短　不可因憎沒長</text>
+  <text x="380" y="346" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11" fill="#7C6D5C" letter-spacing="1">誣：以己心之愛憎，改人之善惡</text>
+  <line x1="52" y1="380" x2="708" y2="380" stroke="#994433" stroke-width="0.9"/>
+  <text x="380" y="416" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="14" fill="#25211D" letter-spacing="2">好而知其惡　惡而知其美　天下鮮矣</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186">图二 · 爱而知其恶 · lj003b</text>
+</svg>
