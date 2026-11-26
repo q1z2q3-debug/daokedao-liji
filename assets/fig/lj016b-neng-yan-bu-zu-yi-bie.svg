@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">能言不足以別</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <rect x="60" y="112" width="140" height="50" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="130" y="142" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#25211D" letter-spacing="1">鸚鵡</text>
+  <rect x="230" y="112" width="130" height="50" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="295" y="142" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#25211D" letter-spacing="1">能言</text>
+  <rect x="400" y="112" width="230" height="50" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="515" y="142" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#25211D" letter-spacing="1">不離飛鳥</text>
+  <rect x="60" y="172" width="140" height="50" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="130" y="202" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#25211D" letter-spacing="1">猩猩</text>
+  <rect x="230" y="172" width="130" height="50" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="295" y="202" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#25211D" letter-spacing="1">能言</text>
+  <rect x="400" y="172" width="230" height="50" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="515" y="202" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#25211D" letter-spacing="1">不離禽獸</text>
+  <rect x="60" y="232" width="140" height="50" fill="#F7F4EE" stroke="#994433" stroke-width="1"/>
+  <text x="130" y="262" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#994433" letter-spacing="1">人而無禮</text>
+  <rect x="230" y="232" width="130" height="50" fill="#F7F4EE" stroke="#994433" stroke-width="1"/>
+  <text x="295" y="262" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#994433" letter-spacing="1">雖能言</text>
+  <rect x="400" y="232" width="230" height="50" fill="#F7F4EE" stroke="#994433" stroke-width="1"/>
+  <text x="515" y="262" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#994433" letter-spacing="1">禽獸之心</text>
+  <rect x="60" y="300" width="640" height="56" fill="#F7F4EE" stroke="#994433" stroke-width="1"/>
+  <text x="380" y="333" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="13" fill="#25211D" letter-spacing="1">聖人作為禮以教人　有禮　知自別於禽獸</text>
+  <line x1="52" y1="384" x2="708" y2="384" stroke="#994433" stroke-width="0.9"/>
+  <text x="380" y="418" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#25211D" letter-spacing="2">能言，同；有禮，別</text>
+  <text x="380" y="444" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="1">別者，自別也</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186">图二 · 鹦鹉能言　不离飞鸟 · lj016b</text>
+</svg>
