@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">三收一明</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <rect x="60" y="120" width="100" height="54" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="110" y="145" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="16" fill="#25211D">慢</text>
+  <rect x="210" y="120" width="130" height="54" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="275" y="145" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="16" fill="#25211D">恭敬</text>
+  <line x1="162" y1="147" x2="204" y2="147" stroke="#994433" stroke-width="0.9"/>
+  <polyline points="196,141 204,147 196,153" fill="none" stroke="#994433" stroke-width="0.9"/>
+  <line x1="340" y1="147" x2="466" y2="231" stroke="#994433" stroke-width="0.9"/>
+  <rect x="60" y="204" width="100" height="54" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="110" y="229" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="16" fill="#25211D">侈</text>
+  <rect x="210" y="204" width="130" height="54" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="275" y="229" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="16" fill="#25211D">撙節</text>
+  <line x1="162" y1="231" x2="204" y2="231" stroke="#994433" stroke-width="0.9"/>
+  <polyline points="196,225 204,231 196,237" fill="none" stroke="#994433" stroke-width="0.9"/>
+  <line x1="340" y1="231" x2="466" y2="231" stroke="#994433" stroke-width="0.9"/>
+  <rect x="60" y="288" width="100" height="54" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="110" y="313" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="16" fill="#25211D">傲</text>
+  <rect x="210" y="288" width="130" height="54" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="275" y="313" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="16" fill="#25211D">退讓</text>
+  <line x1="162" y1="315" x2="204" y2="315" stroke="#994433" stroke-width="0.9"/>
+  <polyline points="196,309 204,315 196,321" fill="none" stroke="#994433" stroke-width="0.9"/>
+  <line x1="340" y1="315" x2="466" y2="231" stroke="#994433" stroke-width="0.9"/>
+  <rect x="470" y="196" width="140" height="70" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+  <text x="540" y="229" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D">明禮</text>
+  <line x1="52" y1="380" x2="708" y2="380" stroke="#994433" stroke-width="0.9"/>
+  <text x="380" y="414" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="11" fill="#994433" letter-spacing="3">三收一明</text>
+  <text x="380" y="450" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="14" fill="#25211D" letter-spacing="2">禮主其減：裁抑而後明</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186">图二 · 恭敬撙节　退让明礼 · lj015b</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="730" height="490" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="17" fill="#25211D" letter-spacing="3">一禮貫七事</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="0.8"/>
+  <line x1="380" y1="106" x2="380" y2="404" stroke="#994433" stroke-width="1.4"/>
+  <text x="96" y="130" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10" fill="#7C6D5C" letter-spacing="2">成己</text>
+  <text x="352" y="130" text-anchor="end" font-family="Noto Serif SC,serif" font-size="12" fill="#25211D" letter-spacing="1">道德仁義</text>
+  <circle cx="380" cy="126" r="2.2" fill="#994433"/>
+  <text x="408" y="130" text-anchor="start" font-family="Noto Serif SC,serif" font-size="12" fill="#994433" letter-spacing="1">非禮不成</text>
+  <text x="96" y="174" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10" fill="#7C6D5C" letter-spacing="2">成人</text>
+  <text x="352" y="174" text-anchor="end" font-family="Noto Serif SC,serif" font-size="12" fill="#25211D" letter-spacing="1">教訓正俗</text>
+  <circle cx="380" cy="170" r="2.2" fill="#994433"/>
+  <text x="408" y="174" text-anchor="start" font-family="Noto Serif SC,serif" font-size="12" fill="#994433" letter-spacing="1">非禮不備</text>
+  <text x="96" y="218" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10" fill="#7C6D5C" letter-spacing="2">決疑</text>
+  <text x="352" y="218" text-anchor="end" font-family="Noto Serif SC,serif" font-size="12" fill="#25211D" letter-spacing="1">分爭辨訟</text>
+  <circle cx="380" cy="214" r="2.2" fill="#994433"/>
+  <text x="408" y="218" text-anchor="start" font-family="Noto Serif SC,serif" font-size="12" fill="#994433" letter-spacing="1">非禮不決</text>
+  <text x="96" y="262" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10" fill="#7C6D5C" letter-spacing="2">正倫</text>
+  <text x="352" y="262" text-anchor="end" font-family="Noto Serif SC,serif" font-size="12" fill="#25211D" letter-spacing="1">君臣上下父子兄弟</text>
+  <circle cx="380" cy="258" r="2.2" fill="#994433"/>
+  <text x="408" y="262" text-anchor="start" font-family="Noto Serif SC,serif" font-size="12" fill="#994433" letter-spacing="1">非禮不定</text>
+  <text x="96" y="306" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10" fill="#7C6D5C" letter-spacing="2">事師</text>
+  <text x="352" y="306" text-anchor="end" font-family="Noto Serif SC,serif" font-size="12" fill="#25211D" letter-spacing="1">宦學事師</text>
+  <circle cx="380" cy="302" r="2.2" fill="#994433"/>
+  <text x="408" y="306" text-anchor="start" font-family="Noto Serif SC,serif" font-size="12" fill="#994433" letter-spacing="1">非禮不親</text>
+  <text x="96" y="350" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10" fill="#7C6D5C" letter-spacing="2">治眾</text>
+  <text x="352" y="350" text-anchor="end" font-family="Noto Serif SC,serif" font-size="12" fill="#25211D" letter-spacing="1">班朝治軍涖官行法</text>
+  <circle cx="380" cy="346" r="2.2" fill="#994433"/>
+  <text x="408" y="350" text-anchor="start" font-family="Noto Serif SC,serif" font-size="12" fill="#994433" letter-spacing="1">非禮威嚴不行</text>
+  <text x="96" y="394" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10" fill="#7C6D5C" letter-spacing="2">交神</text>
+  <text x="352" y="394" text-anchor="end" font-family="Noto Serif SC,serif" font-size="12" fill="#25211D" letter-spacing="1">禱祠祭祀</text>
+  <circle cx="380" cy="390" r="2.2" fill="#994433"/>
+  <text x="408" y="394" text-anchor="start" font-family="Noto Serif SC,serif" font-size="12" fill="#994433" letter-spacing="1">非禮不誠不莊</text>
+  <line x1="52" y1="414" x2="708" y2="414" stroke="#994433" stroke-width="0.9"/>
+  <text x="380" y="444" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="15" fill="#25211D" letter-spacing="2">七事待禮而成</text>
+  <text x="380" y="468" text-anchor="middle" font-family="Noto Serif SC,serif" font-size="10.5" fill="#7C6D5C" letter-spacing="1">禮不是七事之外的一件</text>
+  <text x="708" y="486" text-anchor="end" font-family="Noto Serif SC,serif" font-size="9.5" fill="#9A9186">图二 · 道德仁义　非礼不成 · lj014b</text>
+</svg>
