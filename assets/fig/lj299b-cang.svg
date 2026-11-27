@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">藏者使人弗见，封者使人易见</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<rect x="120" y="120" width="300" height="210" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="152" y="146" width="236" height="158" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="184" y="172" width="172" height="106" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="214" y="196" width="112" height="58" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="270" y="232" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">衣</text>
+<text x="270" y="158" font-size="8" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">棺</text>
+<text x="270" y="134" font-size="8" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">椁</text>
+<text x="400" y="134" font-size="8" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">土</text>
+<text x="96" y="210" font-size="11" fill="#25211D" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">四道周</text>
+<text x="96" y="232" font-size="9" fill="#9A9186" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">层层相扣</text>
+<line x1="500" y1="340" x2="500" y2="196" stroke="#7C6D5C" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="500" y1="196" x2="500" y2="168" stroke="#7C6D5C" stroke-width="1.0"/>
+<circle cx="500" cy="156" r="11" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="493" y1="243" x2="507" y2="257" stroke="#994433" stroke-width="1.4"/>
+<line x1="493" y1="257" x2="507" y2="243" stroke="#994433" stroke-width="1.4"/>
+<text x="566" y="226" font-size="10" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">壤</text>
+<text x="566" y="246" font-size="10" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">树</text>
+<text x="566" y="300" font-size="9" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">既已藏之</text>
+<text x="566" y="320" font-size="9" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">何又标之</text>
+<text x="380" y="392" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">四层只求「周」——恰好围住，不多不少</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">注断六字：意在於俭，非周礼</text>
+</svg>

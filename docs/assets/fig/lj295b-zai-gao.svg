@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">一告为礼，再告为录</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<rect x="88" y="118" width="54" height="54" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="115" y="152" font-size="16" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">一</text>
+<rect x="160" y="118" width="520" height="54" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="200" y="142" font-size="12" fill="#25211D" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">祖而读赗</text>
+<text x="200" y="162" font-size="9" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">致命将行，告于将行之柩</text>
+<text x="650" y="150" font-size="11" fill="#7C6D5C" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">礼</text>
+<rect x="88" y="232" width="54" height="54" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="115" y="266" font-size="16" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">再</text>
+<rect x="160" y="232" width="520" height="54" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="200" y="256" font-size="12" fill="#25211D" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">主人之吏又读</text>
+<text x="200" y="276" font-size="9" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">所以存录之</text>
+<text x="650" y="264" font-size="11" fill="#7C6D5C" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">录</text>
+<line x1="688" y1="253" x2="700" y2="265" stroke="#994433" stroke-width="1.4"/>
+<line x1="688" y1="265" x2="700" y2="253" stroke="#994433" stroke-width="1.4"/>
+<text x="115" y="200" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">同一件事</text>
+<text x="115" y="216" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">告两遍</text>
+<text x="420" y="330" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">第一遍已经告了，第二遍告给谁听</text>
+<line x1="300" y1="352" x2="460" y2="352" stroke="#DCD5C8" stroke-width="0.8"/>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">多做一遍不是加强，是把文书塞进了礼的位置</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">共者共其变，各者各其除</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<line x1="100" y1="320" x2="700" y2="320" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="104" y="342" font-size="10" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">既葬</text>
+<line x1="520" y1="200" x2="520" y2="340" stroke="#9A9186" stroke-width="1.0" stroke-dasharray="4,4"/>
+<text x="520" y="186" font-size="10" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">卒哭 · 共节</text>
+<rect x="120" y="130" width="200" height="26" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="320" y1="130" x2="320" y2="156" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="150" y="148" font-size="10" fill="#25211D" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">三月之亲</text>
+<text x="336" y="152" font-size="9" fill="#994433" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">期尽即除</text>
+<circle cx="320" cy="143" r="3" fill="#994433"/>
+<rect x="120" y="200" width="330" height="26" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="450" y1="200" x2="450" y2="226" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="150" y="218" font-size="10" fill="#25211D" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">齐衰之亲</text>
+<text x="466" y="222" font-size="9" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">各以其服</text>
+<rect x="120" y="268" width="470" height="26" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="590" y1="268" x2="590" y2="294" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="150" y="286" font-size="10" fill="#25211D" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">斩衰之亲</text>
+<text x="606" y="290" font-size="9" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">至期而除</text>
+<text x="120" y="372" font-size="11" fill="#25211D" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">不视主人：我的节拍不跟着你</text>
+<text x="120" y="396" font-size="10" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">服期是我与死者的关系，不是我与主人的关系</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">统一的日子有用处，但不是唯一的正</text>
+</svg>
