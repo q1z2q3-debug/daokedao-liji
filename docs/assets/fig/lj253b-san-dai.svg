@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">周之墙翣披，殷之崇，夏之旐</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<text x="140" y="164" font-size="12" fill="#25211D" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">周</text>
+<rect x="160" y="140" width="200" height="44" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="260" y="164" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">墙·翣·披</text>
+<text x="384" y="164" font-size="9.5" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">护柩之具</text>
+<text x="140" y="252" font-size="12" fill="#25211D" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">殷</text>
+<rect x="160" y="228" width="200" height="44" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="260" y="252" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">崇牙</text>
+<text x="384" y="252" font-size="9.5" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">旗旁齿饰</text>
+<text x="140" y="340" font-size="12" fill="#25211D" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">夏</text>
+<rect x="160" y="316" width="200" height="44" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="260" y="340" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">绸练设旐</text>
+<text x="384" y="340" font-size="9.5" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">素锦缠杠，垂旐</text>
+<line x1="160" y1="116" x2="160" y2="396" stroke="#DCD5C8" stroke-width="0.9"/>
+<text x="560" y="160" font-size="10.5" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">三代之饰</text>
+<text x="560" y="184" font-size="9.5" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">德备则备</text>
+<text x="560" y="300" font-size="10.5" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">不为僣者</text>
+<text x="560" y="324" font-size="9.5" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">用大夫之礼</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">器可以备，备在其人所当</text>
+</svg>

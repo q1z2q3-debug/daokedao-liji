@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">墓而不坟，故无所用其易</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<line x1="100" y1="330" x2="660" y2="330" stroke="#7C6D5C" stroke-width="1.0"/>
+<path d="M 150,330 Q 210,318 270,330" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="170" y1="330" x2="168" y2="306" stroke="#9A9186" stroke-width="0.9"/>
+<line x1="188" y1="330" x2="186" y2="306" stroke="#9A9186" stroke-width="0.9"/>
+<line x1="206" y1="330" x2="204" y2="306" stroke="#9A9186" stroke-width="0.9"/>
+<line x1="224" y1="330" x2="222" y2="306" stroke="#9A9186" stroke-width="0.9"/>
+<line x1="242" y1="330" x2="240" y2="306" stroke="#9A9186" stroke-width="0.9"/>
+<text x="210" y="356" font-size="10" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">古：墓而不坟</text>
+<text x="210" y="378" font-size="9.5" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">草木如丘陵</text>
+<path d="M 470,330 Q 530,238 590,330" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="474" y1="322" x2="586" y2="322" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="4,4"/>
+<text x="530" y="356" font-size="10" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">今：起坟而芟治</text>
+<text x="530" y="378" font-size="9.5" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">非古所有</text>
+<line x1="340" y1="300" x2="420" y2="300" stroke="#DCD5C8" stroke-width="0.9"/>
+<text x="380" y="288" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">非古也</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">非谓今不可为，谓此非古所有</text>
+</svg>

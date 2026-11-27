@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">三喻一死，知命不乱</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<path d="M 116,190 L 156,140 L 196,190" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.2"/>
+<text x="156" y="210" font-size="10" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">泰山其颓</text>
+<text x="156" y="230" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">众山所仰</text>
+<line x1="300" y1="140" x2="436" y2="140" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="316" y1="150" x2="316" y2="190" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="420" y1="150" x2="420" y2="190" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="368" y="210" font-size="10" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">梁木其坏</text>
+<text x="368" y="230" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">众木所放</text>
+<path d="M 560,150 Q 568,178 560,192" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<path d="M 586,150 Q 594,178 586,192" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<path d="M 612,150 Q 620,178 612,192" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<text x="576" y="210" font-size="10" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">哲人其萎</text>
+<text x="576" y="230" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">众人所仰放</text>
+<line x1="120" y1="268" x2="640" y2="268" stroke="#DCD5C8" stroke-width="0.9"/>
+<line x1="330" y1="296" x2="330" y2="372" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="450" y1="296" x2="450" y2="372" stroke="#7C6D5C" stroke-width="1.2"/>
+<text x="390" y="340" font-size="10" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">两楹之间</text>
+<text x="390" y="386" font-size="9.5" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">梦坐奠于此</text>
+<text x="390" y="410" font-size="9.5" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">殷家奠殡之象</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">知命者，知其将死而不乱其容</text>
+</svg>
