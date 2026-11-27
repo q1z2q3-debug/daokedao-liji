@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#25211D" letter-spacing="3">祭随所进：先进先祭，殽则遍祭</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <rect x="70.0" y="116.0" width="120.0" height="44.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="130.0" y="144.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.5" fill="#25211D" letter-spacing="0.4">先进</text>
+  <line x1="194.0" y1="138.0" x2="246.0" y2="138.0" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="239.5" y1="135.4" x2="246.0" y2="138.0" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="239.5" y1="140.6" x2="246.0" y2="138.0" stroke="#7C6D5C" stroke-width="1.1"/>
+  <rect x="250.0" y="116.0" width="110.0" height="44.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="305.0" y="144.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.5" fill="#25211D" letter-spacing="0.4">先祭</text>
+  <rect x="70.0" y="196.0" width="120.0" height="44.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="130.0" y="224.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.5" fill="#25211D" letter-spacing="0.4">后进</text>
+  <line x1="194.0" y1="218.0" x2="246.0" y2="218.0" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="239.5" y1="215.4" x2="246.0" y2="218.0" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="239.5" y1="220.6" x2="246.0" y2="218.0" stroke="#7C6D5C" stroke-width="1.1"/>
+  <rect x="250.0" y="196.0" width="110.0" height="44.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="305.0" y="224.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.5" fill="#25211D" letter-spacing="0.4">后祭</text>
+  <text x="70.0" y="282.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">殽：胾、炙、脍</text>
+  <rect x="190.0" y="266.0" width="60.0" height="26.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="220.0" y="283.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.0" fill="#25211D" letter-spacing="0.4">胾</text>
+  <rect x="262.0" y="266.0" width="60.0" height="26.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="292.0" y="283.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.0" fill="#25211D" letter-spacing="0.4">炙</text>
+  <rect x="334.0" y="266.0" width="60.0" height="26.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="364.0" y="283.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.0" fill="#25211D" letter-spacing="0.4">脍</text>
+  <line x1="404.0" y1="279.0" x2="448.0" y2="279.0" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="441.5" y1="276.4" x2="448.0" y2="279.0" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="441.5" y1="281.6" x2="448.0" y2="279.0" stroke="#7C6D5C" stroke-width="1.1"/>
+  <text x="462.0" y="283.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#994433" letter-spacing="0.4">遍祭之（出牲体）</text>
+  <rect x="70.0" y="320.0" width="300.0" height="34.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="86.0" y="342.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">鱼、腊、湆、酱</text>
+  <line x1="392.0" y1="329.0" x2="408.0" y2="345.0" stroke="#7C6D5C" stroke-width="1.1"/>
+  <line x1="408.0" y1="329.0" x2="392.0" y2="345.0" stroke="#7C6D5C" stroke-width="1.1"/>
+  <text x="420.0" y="342.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#994433" letter-spacing="0.4">不祭（非牲体之正）</text>
+  <line x1="60.0" y1="444.0" x2="700.0" y2="444.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="468.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="13.0" fill="#25211D" letter-spacing="0.6">结论　祭的序即上的序；不另立一套。</text>
+  <text x="700" y="486" text-anchor="end" font-family="Noto Serif CJK SC" font-size="8" fill="#9A9186" letter-spacing="0.6">图二 · 主人延客祭</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#25211D" letter-spacing="3">三饭→胾→殽：由卑而尊，至肩而止</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <rect x="80.0" y="300.0" width="170.0" height="56.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="120.0" y="332.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="12.0" fill="#25211D" letter-spacing="0.4">三饭</text>
+  <text x="120.0" y="352.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="8.5" fill="#7C6D5C" letter-spacing="0.4">正馔</text>
+  <rect x="250.0" y="246.0" width="170.0" height="110.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="290.0" y="290.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="12.0" fill="#25211D" letter-spacing="0.4">胾</text>
+  <text x="290.0" y="310.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="8.5" fill="#7C6D5C" letter-spacing="0.4">纯肉，阴卑</text>
+  <rect x="420.0" y="178.0" width="210.0" height="178.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="460.0" y="216.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="12.0" fill="#25211D" letter-spacing="0.4">殽</text>
+  <text x="460.0" y="238.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="8.5" fill="#7C6D5C" letter-spacing="0.4">带骨，阳尊</text>
+  <circle cx="560.0" cy="300.0" r="4.0" fill="#994433"/>
+  <text x="570.0" y="296.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="10.0" fill="#994433" letter-spacing="0.4">肩</text>
+  <text x="570.0" y="316.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="8.5" fill="#994433" letter-spacing="0.4">食肩则饱</text>
+  <line x1="250.0" y1="354.0" x2="246.0" y2="354.0" stroke="#DCD5C8" stroke-width="0.9"/>
+  <line x1="252.5" y1="356.6" x2="246.0" y2="354.0" stroke="#DCD5C8" stroke-width="0.9"/>
+  <line x1="252.5" y1="351.4" x2="246.0" y2="354.0" stroke="#DCD5C8" stroke-width="0.9"/>
+  <text x="60.0" y="150.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="10.0" fill="#25211D" letter-spacing="0.4">先食胾，后食殽。</text>
+  <text x="60.0" y="172.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">胾为加馔，故三饭前未食。</text>
+  <text x="60.0" y="404.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">主人延：每一进皆由主人导，客不自专。</text>
+  <line x1="60.0" y1="444.0" x2="700.0" y2="444.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="468.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="13.0" fill="#25211D" letter-spacing="0.6">结论　由卑而尊，至肩而止：止在一处，不在感觉。</text>
+  <text x="700" y="486" text-anchor="end" font-family="Noto Serif CJK SC" font-size="8" fill="#9A9186" letter-spacing="0.6">图二 · 三饭</text>
+</svg>
