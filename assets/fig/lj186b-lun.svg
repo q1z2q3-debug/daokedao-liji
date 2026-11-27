@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">儗人必于其伦</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<rect x="150" y="236" width="60" height="70" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="218" y="236" width="60" height="70" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="286" y="236" width="60" height="70" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="140" y1="318" x2="388" y2="318" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="140" y1="318" x2="140" y2="250" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="140" y1="250" x2="150" y2="250" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="388" y1="318" x2="388" y2="250" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="388" y1="250" x2="378" y2="250" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="264" y="362" font-size="11" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">同类相并</text>
+<rect x="492" y="236" width="60" height="70" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="556" y="196" width="60" height="110" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="620" y="236" width="60" height="70" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="556" y="330" font-size="11" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">以贵比贱</text>
+<line x1="470" y1="300" x2="552" y2="300" stroke="#994433" stroke-width="1.2" stroke-dasharray="3,3"/>
+<line x1="534" y1="294" x2="546" y2="306" stroke="#994433" stroke-width="1.2"/>
+<line x1="534" y1="306" x2="546" y2="294" stroke="#994433" stroke-width="1.2"/>
+<line x1="60" y1="392" x2="700" y2="392" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="420" font-size="11" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">比大夫当于大夫，比士当于士</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">放错排不是抬高，是两伤</text>
+</svg>

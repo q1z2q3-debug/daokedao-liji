@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">同一个数字，两种收场</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<rect x="60" y="110" width="300" height="300" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="210" y="142" font-size="12" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="2">臣</text>
+<rect x="196" y="170" width="48" height="190" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="160" y1="360" x2="160" y2="326" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="174" y1="360" x2="174" y2="334" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="188" y1="360" x2="188" y2="342" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="174" y="392" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">三谏</text>
+<line x1="252" y1="286" x2="352" y2="286" stroke="#994433" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="300" y="330" font-size="11" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">逃之</text>
+<rect x="400" y="110" width="300" height="300" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="550" y="142" font-size="12" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="2">子</text>
+<rect x="492" y="196" width="48" height="164" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="556" y="196" width="48" height="164" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="456" y1="360" x2="456" y2="326" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="470" y1="360" x2="470" y2="334" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="484" y1="360" x2="484" y2="342" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="470" y="392" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">三谏</text>
+<text x="530" y="392" font-size="11" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">随之</text>
+<line x1="380" y1="120" x2="380" y2="400" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">同一个数字，两种收场</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">至亲无去：臣能走，子无处可走</text>
+</svg>
