@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">一名有其时</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<line x1="110" y1="290" x2="690" y2="290" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="140" y="314" font-size="10" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">始死</text>
+<text x="600" y="314" font-size="10" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">既敛</text>
+<rect x="190" y="200" width="100" height="44" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="240" y="228" font-size="10" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">复：呼名</text>
+<line x1="240" y1="246" x2="240" y2="286" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="240" y="330" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">冀其闻名而反</text>
+<rect x="470" y="200" width="100" height="44" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="520" y="228" font-size="10" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">哭：呼名</text>
+<line x1="520" y1="246" x2="520" y2="286" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="513" y1="261" x2="527" y2="275" stroke="#994433" stroke-width="1.2"/>
+<line x1="513" y1="275" x2="527" y2="261" stroke="#994433" stroke-width="1.2"/>
+<text x="520" y="330" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">敬鬼神，不复呼其名</text>
+<text x="380" y="378" font-size="11" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">同是一个「灭」字，用在两个时刻</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">名用错了时刻，称呼就成了失礼</text>
+</svg>

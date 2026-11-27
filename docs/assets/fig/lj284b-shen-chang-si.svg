@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">方向一倒，孝就成了奉命</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<rect x="90" y="110" width="260" height="190" fill="#F7F4EE" stroke="#DCD5C8" stroke-width="0.9"/>
+<text x="220" y="132" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">子自主</text>
+<rect x="190" y="240" width="60" height="40" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="220" y="265" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">子</text>
+<rect x="190" y="156" width="60" height="40" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="220" y="181" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">亲</text>
+<line x1="220" y1="238" x2="220" y2="200" stroke="#7C6D5C" stroke-width="1.2" marker-end="url(#ah)"/>
+<text x="220" y="322" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">这孝子之事</text>
+<rect x="410" y="110" width="260" height="190" fill="#F7F4EE" stroke="#DCD5C8" stroke-width="0.9"/>
+<text x="540" y="132" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">父预托</text>
+<rect x="510" y="156" width="60" height="40" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="540" y="181" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">父</text>
+<rect x="510" y="240" width="60" height="40" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="540" y="265" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">子</text>
+<line x1="540" y1="200" x2="540" y2="238" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="534" y1="213" x2="546" y2="225" stroke="#994433" stroke-width="1.2"/>
+<line x1="534" y1="225" x2="546" y2="213" stroke="#994433" stroke-width="1.2"/>
+<text x="540" y="322" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">非所托</text>
+<text x="380" y="366" font-size="11" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">注只三字：此孝子之事，非所托也</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">同一句话，从我要做变成要你做，性质就变了</text>
+</svg>
