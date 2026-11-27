@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">四称之序，义用兼备</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<line x1="90" y1="250" x2="670" y2="250" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="96" y="168" font-size="10" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">周道</text>
+<text x="96" y="300" font-size="10" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">殷道</text>
+<rect x="170" y="170" width="80" height="60" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="210" y="224" font-size="12" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">名</text>
+<text x="210" y="162" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">生三月</text>
+<rect x="290" y="150" width="80" height="80" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="330" y="224" font-size="12" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">字</text>
+<text x="330" y="142" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">二十</text>
+<rect x="410" y="130" width="80" height="100" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="450" y="224" font-size="12" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">伯仲</text>
+<text x="450" y="122" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">五十</text>
+<rect x="530" y="110" width="80" height="120" fill="#F7F4EE" stroke="#994433" stroke-width="1.2"/>
+<text x="570" y="224" font-size="12" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">谥</text>
+<text x="570" y="102" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">死</text>
+<text x="650" y="224" font-size="9" fill="#7C6D5C" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">称谓四易</text>
+<rect x="130" y="300" width="170" height="104" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="215" y="324" font-size="10" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">掘中霤而浴</text>
+<line x1="150" y1="336" x2="280" y2="336" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="215" y="360" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">示此室无用</text>
+<text x="215" y="382" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">承浴汁</text>
+<rect x="330" y="300" width="170" height="104" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="415" y="324" font-size="10" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">毁灶以缀足</text>
+<line x1="350" y1="336" x2="480" y2="336" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="415" y="360" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">示不复饮食</text>
+<text x="415" y="382" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">取甓缀足</text>
+<rect x="530" y="300" width="170" height="104" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="615" y="324" font-size="10" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">毁宗躐行</text>
+<line x1="550" y1="336" x2="680" y2="336" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="615" y="360" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">示此庙无事</text>
+<text x="615" y="382" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">躐坛祈安</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">礼者，名与事，皆所以别亲疏</text>
+</svg>
