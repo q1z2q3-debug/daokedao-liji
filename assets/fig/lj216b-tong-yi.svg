@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">三事同，一事异</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<rect x="150" y="115" width="420" height="18" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.9"/>
+<text x="138" y="128" font-size="10.5" fill="#25211D" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">哭泣之哀</text>
+<text x="586" y="128" font-size="10" fill="#7C6D5C" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">自天子达</text>
+<rect x="150" y="163" width="420" height="18" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.9"/>
+<text x="138" y="176" font-size="10.5" fill="#25211D" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">齐斩之情</text>
+<text x="586" y="176" font-size="10" fill="#7C6D5C" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">自天子达</text>
+<rect x="150" y="211" width="420" height="18" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.9"/>
+<text x="138" y="224" font-size="10.5" fill="#25211D" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">饘粥之食</text>
+<text x="586" y="224" font-size="10" fill="#7C6D5C" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">自天子达</text>
+<line x1="150" y1="256" x2="570" y2="256" stroke="#DCD5C8" stroke-width="0.7"/>
+<text x="150" y="274" font-size="10" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">同者三：与爵位无关</text>
+<line x1="360" y1="292" x2="360" y2="310" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="380" y="306" font-size="10" fill="#7C6D5C" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">幕·覆棺</text>
+<path d="M360,310 L240,362" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<path d="M360,310 L480,362" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="186" y="362" width="108" height="26" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.9"/>
+<text x="240" y="380" font-size="10.5" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">布幕·卫</text>
+<rect x="426" y="362" width="108" height="26" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.9"/>
+<text x="480" y="380" font-size="10.5" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">縿幕·鲁</text>
+<text x="480" y="406" font-size="9.5" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">天子之制，诸侯僭之</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">哀同而幕异，鲁则僭已久矣</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">说在人前，正在人后</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<circle cx="96" cy="128" r="5" fill="#25211D"/>
+<text x="112" y="132" font-size="10.5" fill="#25211D" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">子路在：抑其责</text>
+<rect x="236" y="116" width="400" height="24" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.9"/>
+<text x="436" y="133" font-size="10.5" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">尔责于人，终无已夫</text>
+<circle cx="96" cy="200" r="6" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+<text x="112" y="204" font-size="10.5" fill="#25211D" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">子路出：正其失</text>
+<rect x="236" y="188" width="400" height="24" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.9"/>
+<text x="436" y="205" font-size="10.5" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">又多乎哉，逾月则其善</text>
+<line x1="70" y1="232" x2="690" y2="232" stroke="#DCD5C8" stroke-width="0.8"/>
+<line x1="120" y1="340" x2="660" y2="340" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="300" y1="326" x2="300" y2="354" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="300" y="370" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">祥·二十五月</text>
+<line x1="450" y1="326" x2="450" y2="354" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="450" y="370" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">逾月·二十六月</text>
+<path d="M270,262 C282,244 318,244 330,262" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="294" y1="256" x2="306" y2="268" stroke="#994433" stroke-width="1.2"/>
+<line x1="294" y1="268" x2="306" y2="256" stroke="#994433" stroke-width="1.2"/>
+<text x="300" y="288" font-size="9.5" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">朝祥暮歌：过在速</text>
+<path d="M420,262 C432,244 468,244 480,262" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<text x="450" y="288" font-size="9.5" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">逾月而歌：其善</text>
+<text x="120" y="380" font-size="10" fill="#7C6D5C" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">祥日得鼓素琴，而不歌</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">对人之宽说在人前，对事之正说在人后</text>
+</svg>
