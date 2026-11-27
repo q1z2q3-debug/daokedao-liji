@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#25211D" letter-spacing="3">辞的资格：对等才推，相悬则受</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <rect x="60.0" y="112.0" width="300.0" height="118.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="210.0" y="142.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.0" fill="#25211D" letter-spacing="0.4">位相敌</text>
+  <text x="210.0" y="214.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#994433" letter-spacing="0.4">敌者亢而有辞</text>
+  <rect x="400.0" y="112.0" width="300.0" height="118.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="550.0" y="142.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.0" fill="#25211D" letter-spacing="0.4">位相悬</text>
+  <text x="550.0" y="214.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#994433" letter-spacing="0.4">少者以年，贱者以役</text>
+  <line x1="212.0" y1="240.0" x2="212.0" y2="282.0" stroke="#DCD5C8" stroke-width="0.9"/>
+  <line x1="214.6" y1="275.5" x2="212.0" y2="282.0" stroke="#DCD5C8" stroke-width="0.9"/>
+  <line x1="209.4" y1="275.5" x2="212.0" y2="282.0" stroke="#DCD5C8" stroke-width="0.9"/>
+  <line x1="548.0" y1="240.0" x2="548.0" y2="282.0" stroke="#DCD5C8" stroke-width="0.9"/>
+  <line x1="550.6" y1="275.5" x2="548.0" y2="282.0" stroke="#DCD5C8" stroke-width="0.9"/>
+  <line x1="545.4" y1="275.5" x2="548.0" y2="282.0" stroke="#DCD5C8" stroke-width="0.9"/>
+  <rect x="60.0" y="286.0" width="300.0" height="70.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="210.0" y="316.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.5" fill="#25211D" letter-spacing="0.4">辞为其正</text>
+  <text x="210.0" y="340.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#994433" letter-spacing="0.4">推让有着落</text>
+  <rect x="400.0" y="286.0" width="300.0" height="70.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="550.0" y="316.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.5" fill="#25211D" letter-spacing="0.4">不敢亢礼</text>
+  <text x="550.0" y="340.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#994433" letter-spacing="0.4">辞则与尊者相抗</text>
+  <text x="60.0" y="392.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">辞让预设「可以相推」；位既悬绝，推即成犯。</text>
+  <line x1="60.0" y1="444.0" x2="700.0" y2="444.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="468.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="13.0" fill="#25211D" letter-spacing="0.6">结论　不是不知谦，是知位。</text>
+  <text x="700" y="486" text-anchor="end" font-family="Noto Serif CJK SC" font-size="8" fill="#9A9186" letter-spacing="0.6">图二 · 长者赐</text>
+</svg>

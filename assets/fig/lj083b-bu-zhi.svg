@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#25211D" letter-spacing="3">九事一归：忧不在别处，而收有度</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <circle cx="380" cy="228" r="44" fill="none" stroke="#994433" stroke-width="1.4"/>
+  <text x="380.0" y="224.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="17.0" fill="#994433" letter-spacing="0.4">忧</text>
+  <text x="380.0" y="248.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.0" fill="#9A9186" letter-spacing="0.4">在心</text>
+  <text x="120.0" y="100.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">冠者不栉</text>
+  <text x="120.0" y="118.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.0" fill="#9A9186" letter-spacing="0.4">不暇修饰</text>
+  <line x1="200.0" y1="104.0" x2="336.0" y2="196.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="332.1" y1="190.2" x2="336.0" y2="196.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="329.2" y1="194.5" x2="336.0" y2="196.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="120.0" y="152.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">行不翔</text>
+  <text x="120.0" y="170.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.0" fill="#9A9186" letter-spacing="0.4">步不张臂</text>
+  <line x1="200.0" y1="156.0" x2="336.0" y2="196.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="330.5" y1="191.7" x2="336.0" y2="196.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="329.0" y1="196.7" x2="336.0" y2="196.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="120.0" y="204.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">言不惰</text>
+  <text x="120.0" y="222.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.0" fill="#9A9186" letter-spacing="0.4">不作戏辞</text>
+  <line x1="200.0" y1="208.0" x2="336.0" y2="228.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="329.9" y1="224.5" x2="336.0" y2="228.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="329.2" y1="229.6" x2="336.0" y2="228.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="120.0" y="256.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">琴瑟不御</text>
+  <text x="120.0" y="274.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.0" fill="#9A9186" letter-spacing="0.4">忧不在乐</text>
+  <line x1="200.0" y1="260.0" x2="336.0" y2="228.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="329.1" y1="227.0" x2="336.0" y2="228.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="330.3" y1="232.0" x2="336.0" y2="228.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="640.0" y="100.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">肉不至变味</text>
+  <text x="640.0" y="118.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.0" fill="#9A9186" letter-spacing="0.4">犹许食肉</text>
+  <line x1="560.0" y1="104.0" x2="424.0" y2="196.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="430.8" y1="194.5" x2="424.0" y2="196.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="427.9" y1="190.2" x2="424.0" y2="196.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="640.0" y="152.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">酒不至变貌</text>
+  <text x="640.0" y="170.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.0" fill="#9A9186" letter-spacing="0.4">饮有常度</text>
+  <line x1="560.0" y1="156.0" x2="424.0" y2="196.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="431.0" y1="196.7" x2="424.0" y2="196.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="429.5" y1="191.7" x2="424.0" y2="196.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="640.0" y="204.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">笑不至矧</text>
+  <text x="640.0" y="222.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.0" fill="#9A9186" letter-spacing="0.4">不大笑</text>
+  <line x1="560.0" y1="208.0" x2="424.0" y2="228.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="430.8" y1="229.6" x2="424.0" y2="228.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="430.1" y1="224.5" x2="424.0" y2="228.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="640.0" y="256.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">怒不至詈</text>
+  <text x="640.0" y="274.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.0" fill="#9A9186" letter-spacing="0.4">不至骂</text>
+  <line x1="560.0" y1="260.0" x2="424.0" y2="228.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="429.7" y1="232.0" x2="424.0" y2="228.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="430.9" y1="227.0" x2="424.0" y2="228.0" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="380.0" y="316.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">注：「忧不为容」｜「不在私好」｜「不在乐」｜「不在味」</text>
+  <text x="60.0" y="352.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">四条以「不至」为界：不禁食饮喜怒，只禁其过。</text>
+  <text x="60.0" y="376.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">疾止复故：忧有尽，尽则复常；不复常，则忧成了一副形貌。</text>
+  <line x1="60.0" y1="444.0" x2="700.0" y2="444.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="468.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="13.0" fill="#25211D" letter-spacing="0.6">结论　把心从别处收回来，而不必做出悲伤的样子。</text>
+  <text x="700" y="486" text-anchor="end" font-family="Noto Serif CJK SC" font-size="8" fill="#9A9186" letter-spacing="0.6">图二 · 父母有疾</text>
+</svg>

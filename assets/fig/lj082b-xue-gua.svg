@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#25211D" letter-spacing="3">一瓜五等：刀口越细，则所受越尊</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <rect x="70.0" y="100.0" width="160.0" height="56.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="150.0" y="132.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.0" fill="#25211D" letter-spacing="0.4">天子</text>
+  <text x="248.0" y="134.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">副之：四析再横断</text>
+  <text x="470.0" y="134.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">巾以絺（细葛）</text>
+  <rect x="600.0" y="122.0" width="16.0" height="12.0" fill="#7C6D5C" stroke="#F7F4EE" stroke-width="0.6"/>
+  <rect x="622.0" y="122.0" width="16.0" height="12.0" fill="#7C6D5C" stroke="#F7F4EE" stroke-width="0.6"/>
+  <rect x="644.0" y="122.0" width="16.0" height="12.0" fill="#7C6D5C" stroke="#F7F4EE" stroke-width="0.6"/>
+  <rect x="666.0" y="122.0" width="16.0" height="12.0" fill="#7C6D5C" stroke="#F7F4EE" stroke-width="0.6"/>
+  <text x="660.0" y="134.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="7.5" fill="#9A9186" letter-spacing="0.4">工序</text>
+  <rect x="70.0" y="162.0" width="160.0" height="56.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="150.0" y="194.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.0" fill="#25211D" letter-spacing="0.4">国君</text>
+  <text x="248.0" y="196.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">华之：中裂为二</text>
+  <text x="470.0" y="196.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">巾以绤（粗葛）</text>
+  <rect x="600.0" y="184.0" width="16.0" height="12.0" fill="#7C6D5C" stroke="#F7F4EE" stroke-width="0.6"/>
+  <rect x="622.0" y="184.0" width="16.0" height="12.0" fill="#7C6D5C" stroke="#F7F4EE" stroke-width="0.6"/>
+  <rect x="644.0" y="184.0" width="16.0" height="12.0" fill="#7C6D5C" stroke="#F7F4EE" stroke-width="0.6"/>
+  <rect x="666.0" y="184.0" width="16.0" height="12.0" fill="#DCD5C8" stroke="#EFE9DD" stroke-width="0.6"/>
+  <text x="660.0" y="196.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="7.5" fill="#9A9186" letter-spacing="0.4">工序</text>
+  <rect x="70.0" y="224.0" width="160.0" height="56.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="150.0" y="256.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.0" fill="#25211D" letter-spacing="0.4">大夫</text>
+  <text x="248.0" y="258.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">中裂横断</text>
+  <text x="470.0" y="258.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">累之，不巾</text>
+  <rect x="600.0" y="246.0" width="16.0" height="12.0" fill="#7C6D5C" stroke="#F7F4EE" stroke-width="0.6"/>
+  <rect x="622.0" y="246.0" width="16.0" height="12.0" fill="#7C6D5C" stroke="#F7F4EE" stroke-width="0.6"/>
+  <rect x="644.0" y="246.0" width="16.0" height="12.0" fill="#DCD5C8" stroke="#EFE9DD" stroke-width="0.6"/>
+  <rect x="666.0" y="246.0" width="16.0" height="12.0" fill="#DCD5C8" stroke="#EFE9DD" stroke-width="0.6"/>
+  <text x="660.0" y="258.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="7.5" fill="#9A9186" letter-spacing="0.4">工序</text>
+  <rect x="70.0" y="286.0" width="160.0" height="56.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="150.0" y="318.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.0" fill="#25211D" letter-spacing="0.4">士</text>
+  <text x="248.0" y="320.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">不中裂，去疐横断</text>
+  <text x="470.0" y="320.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">不覆</text>
+  <rect x="600.0" y="308.0" width="16.0" height="12.0" fill="#7C6D5C" stroke="#F7F4EE" stroke-width="0.6"/>
+  <rect x="622.0" y="308.0" width="16.0" height="12.0" fill="#DCD5C8" stroke="#EFE9DD" stroke-width="0.6"/>
+  <rect x="644.0" y="308.0" width="16.0" height="12.0" fill="#DCD5C8" stroke="#EFE9DD" stroke-width="0.6"/>
+  <rect x="666.0" y="308.0" width="16.0" height="12.0" fill="#DCD5C8" stroke="#EFE9DD" stroke-width="0.6"/>
+  <text x="660.0" y="320.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="7.5" fill="#9A9186" letter-spacing="0.4">工序</text>
+  <rect x="70.0" y="348.0" width="160.0" height="56.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="150.0" y="380.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.0" fill="#25211D" letter-spacing="0.4">庶人</text>
+  <text x="248.0" y="382.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">不横断，啮食</text>
+  <text x="470.0" y="382.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">不覆</text>
+  <rect x="600.0" y="370.0" width="16.0" height="12.0" fill="#DCD5C8" stroke="#EFE9DD" stroke-width="0.6"/>
+  <rect x="622.0" y="370.0" width="16.0" height="12.0" fill="#DCD5C8" stroke="#EFE9DD" stroke-width="0.6"/>
+  <rect x="644.0" y="370.0" width="16.0" height="12.0" fill="#DCD5C8" stroke="#EFE9DD" stroke-width="0.6"/>
+  <rect x="666.0" y="370.0" width="16.0" height="12.0" fill="#DCD5C8" stroke="#EFE9DD" stroke-width="0.6"/>
+  <text x="660.0" y="382.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="7.5" fill="#9A9186" letter-spacing="0.4">工序</text>
+  <text x="60.0" y="418.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#25211D" letter-spacing="0.4">疏：此削瓜等级，非平常之日，当是公庭大会之时。</text>
+  <line x1="60.0" y1="444.0" x2="700.0" y2="444.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="468.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="13.0" fill="#25211D" letter-spacing="0.6">结论　礼之等，写在刀上。</text>
+  <text x="700" y="486" text-anchor="end" font-family="Noto Serif CJK SC" font-size="8" fill="#9A9186" letter-spacing="0.6">图二 · 为天子削瓜者</text>
+</svg>

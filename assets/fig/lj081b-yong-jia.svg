@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#25211D" letter-spacing="3">器从物：有菜则箸，无菜则歠</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <rect x="60.0" y="110.0" width="196.0" height="150.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="158.0" y="140.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.5" fill="#25211D" letter-spacing="0.4">鉶羹</text>
+  <text x="158.0" y="168.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">有菜交横</text>
+  <text x="158.0" y="206.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="12.0" fill="#994433" letter-spacing="0.4">梜（箸）</text>
+  <text x="158.0" y="236.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#7C6D5C" letter-spacing="0.4">非箸不可取</text>
+  <rect x="272.0" y="110.0" width="196.0" height="150.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="370.0" y="140.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.5" fill="#25211D" letter-spacing="0.4">大羹湆</text>
+  <text x="370.0" y="168.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">清汁无菜</text>
+  <text x="370.0" y="206.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="12.0" fill="#994433" letter-spacing="0.4">歠</text>
+  <text x="370.0" y="236.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#7C6D5C" letter-spacing="0.4">直歠而已</text>
+  <rect x="484.0" y="110.0" width="196.0" height="150.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="582.0" y="140.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.5" fill="#25211D" letter-spacing="0.4">肉调之羹</text>
+  <text x="582.0" y="168.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">犬羹兔羹</text>
+  <text x="582.0" y="206.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="12.0" fill="#994433" letter-spacing="0.4">匕</text>
+  <text x="582.0" y="236.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#7C6D5C" letter-spacing="0.4">箸取不起</text>
+  <text x="60.0" y="300.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">经只言梜与不梜；「或用匕」为疏家据物性推补。</text>
+  <text x="60.0" y="324.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">同名为羹，其物不同，其取亦不同。</text>
+  <line x1="60.0" y1="444.0" x2="700.0" y2="444.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="468.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="13.0" fill="#25211D" letter-spacing="0.6">结论　礼之细，往往就是「合用」二字。</text>
+  <text x="700" y="486" text-anchor="end" font-family="Noto Serif CJK SC" font-size="8" fill="#9A9186" letter-spacing="0.6">图二 · 羹之有菜者</text>
+</svg>
