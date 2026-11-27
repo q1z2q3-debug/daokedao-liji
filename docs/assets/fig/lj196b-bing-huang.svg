@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">死寇曰兵，祭王父曰皇祖考</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<rect x="348" y="112" width="54" height="74" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="330" y1="104" x2="424" y2="190" stroke="#994433" stroke-width="2.4"/>
+<text x="300" y="120" font-size="11" fill="#25211D" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">兵</text>
+<rect x="356" y="214" width="40" height="52" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="376" y1="190" x2="376" y2="210" stroke="#7C6D5C" stroke-width="1.0" marker-end="url(#ah)"/>
+<text x="414" y="244" font-size="10" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">飨禄其后</text>
+<line x1="60" y1="282" x2="700" y2="282" stroke="#DCD5C8" stroke-width="0.9"/>
+<rect x="170" y="320" width="34" height="44" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="216" y="312" width="34" height="58" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="204" y1="340" x2="216" y2="340" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="370" y="320" width="34" height="44" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="416" y="312" width="34" height="58" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="404" y1="340" x2="416" y2="340" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="560" y="320" width="34" height="44" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="606" y="312" width="34" height="58" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="594" y1="340" x2="606" y2="340" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="280" y="410" font-size="11" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">旧称改尊号，加皇于祭</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">一以死法定名，一以祭位定名</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">支子不祭，祭必告于宗子</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<rect x="310" y="118" width="150" height="78" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<path d="M296,118 L385,80 L474,118" fill="none" stroke="#7C6D5C" stroke-width="1.3"/>
+<text x="385" y="168" font-size="11" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">祖祢之庙</text>
+<text x="385" y="232" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">宗子</text>
+<rect x="362" y="246" width="46" height="120" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="196" y="272" width="42" height="94" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="217" y="262" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">支子</text>
+<rect x="556" y="272" width="42" height="94" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="577" y="262" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">支子</text>
+<line x1="217" y1="270" x2="332" y2="120" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="258" y="190" width="18" height="18" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.2"/>
+<text x="267" y="182" font-size="10" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">告</text>
+<line x1="577" y1="270" x2="452" y2="120" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="505" y1="182" x2="518" y2="172" stroke="#F7F4EE" stroke-width="4"/>
+<text x="545" y="196" font-size="10" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">不祭</text>
+<line x1="160" y1="376" x2="600" y2="376" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="556" y1="376" x2="592" y2="376" stroke="#F7F4EE" stroke-width="4"/>
+<text x="380" y="404" font-size="11" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">庙在适子之家，支子无主祭之名</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">庙在谁家，祭权就在谁手</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">大飨不问卜，不饶富</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<ellipse cx="360" cy="170" rx="96" ry="46" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="330" y1="150" x2="350" y2="168" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="350" y1="168" x2="362" y2="162" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="354" y1="158" x2="374" y2="176" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="374" y1="176" x2="386" y2="170" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="304" y1="160" x2="324" y2="178" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="324" y1="178" x2="336" y2="172" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="508" y1="132" x2="508" y2="200" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="501" y1="197" x2="515" y2="211" stroke="#994433" stroke-width="1.4"/>
+<line x1="501" y1="211" x2="515" y2="197" stroke="#994433" stroke-width="1.4"/>
+<text x="524" y="196" font-size="10" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">不问卜</text>
+<line x1="60" y1="250" x2="700" y2="250" stroke="#DCD5C8" stroke-width="0.9"/>
+<rect x="250" y="300" width="100" height="70" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="250" y1="300" x2="350" y2="300" stroke="#7C6D5C" stroke-width="1.4"/>
+<rect x="450" y="300" width="100" height="70" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="450" y="272" width="100" height="28" fill="#F7F4EE" stroke="#994433" stroke-width="1.0"/>
+<line x1="450" y1="300" x2="550" y2="300" stroke="#994433" stroke-width="1.4"/>
+<line x1="492" y1="264" x2="508" y2="280" stroke="#994433" stroke-width="1.4"/>
+<line x1="492" y1="280" x2="508" y2="264" stroke="#994433" stroke-width="1.4"/>
+<text x="350" y="392" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">备而已</text>
+<text x="500" y="392" font-size="10" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">多于礼</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">礼所谓富，不是多，是全</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">生曰父、母、妻，死曰考、妣、嫔</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<text x="258" y="132" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="2">生称</text>
+<text x="498" y="132" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="2">死称</text>
+<rect x="230" y="150" width="56" height="58" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="470" y="150" width="56" height="64" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="288" y1="179" x2="470" y2="179" stroke="#7C6D5C" stroke-width="0.9"/>
+<line x1="370" y1="179" x2="384" y2="179" stroke="#F7F4EE" stroke-width="3"/>
+<rect x="230" y="240" width="56" height="58" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="470" y="240" width="56" height="64" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="288" y1="269" x2="470" y2="269" stroke="#7C6D5C" stroke-width="0.9"/>
+<line x1="370" y1="269" x2="384" y2="269" stroke="#F7F4EE" stroke-width="3"/>
+<rect x="230" y="330" width="56" height="58" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="470" y="330" width="56" height="64" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="288" y1="359" x2="470" y2="359" stroke="#7C6D5C" stroke-width="0.9"/>
+<line x1="370" y1="359" x2="384" y2="359" stroke="#F7F4EE" stroke-width="3"/>
+<circle cx="546" cy="374" r="4" fill="#994433"/>
+<text x="556" y="378" font-size="10" fill="#994433" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">有法度</text>
+<text x="380" y="428" font-size="10" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">三对六名，同一人不可共一称</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">一字的距离，就是生死的距离</text>
+</svg>
