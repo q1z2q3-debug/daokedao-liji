@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">达与不达：杖与不杖</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<text x="250" y="132" font-size="11" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">达官之长</text>
+<text x="560" y="132" font-size="11" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">府史之属</text>
+<line x1="200" y1="190" x2="200" y2="262" stroke="#7C6D5C" stroke-width="1.2"/>
+<circle cx="200" cy="184" r="4" fill="#25211D"/>
+<line x1="186" y1="200" x2="186" y2="290" stroke="#994433" stroke-width="1.4"/>
+<line x1="181" y1="198" x2="191" y2="198" stroke="#994433" stroke-width="1.0"/>
+<line x1="250" y1="190" x2="250" y2="262" stroke="#7C6D5C" stroke-width="1.2"/>
+<circle cx="250" cy="184" r="4" fill="#25211D"/>
+<line x1="236" y1="200" x2="236" y2="290" stroke="#994433" stroke-width="1.4"/>
+<line x1="231" y1="198" x2="241" y2="198" stroke="#994433" stroke-width="1.0"/>
+<line x1="300" y1="190" x2="300" y2="262" stroke="#7C6D5C" stroke-width="1.2"/>
+<circle cx="300" cy="184" r="4" fill="#25211D"/>
+<line x1="286" y1="200" x2="286" y2="290" stroke="#994433" stroke-width="1.4"/>
+<line x1="281" y1="198" x2="291" y2="198" stroke="#994433" stroke-width="1.0"/>
+<text x="250" y="320" font-size="10" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">斩衰持杖</text>
+<text x="200" y="300" font-size="9" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">杖</text>
+<line x1="480" y1="190" x2="480" y2="262" stroke="#7C6D5C" stroke-width="1.2"/>
+<circle cx="480" cy="184" r="4" fill="#25211D"/>
+<line x1="530" y1="190" x2="530" y2="262" stroke="#7C6D5C" stroke-width="1.2"/>
+<circle cx="530" cy="184" r="4" fill="#25211D"/>
+<line x1="580" y1="190" x2="580" y2="262" stroke="#7C6D5C" stroke-width="1.2"/>
+<circle cx="580" cy="184" r="4" fill="#25211D"/>
+<text x="560" y="320" font-size="10" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">齐衰三月</text>
+<text x="480" y="300" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">无</text>
+<line x1="400" y1="160" x2="400" y2="300" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,4"/>
+<text x="400" y="330" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">达于君与否</text>
+<rect x="320" y="348" width="160" height="44" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="400" y="368" font-size="10" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">近臣：君斩则亦斩</text>
+<text x="400" y="384" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">近，亦一达</text>
+<text x="380" y="412" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">服不以同处为据，以被命为据</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">达者服斩，不达者齐衰三月</text>
+</svg>

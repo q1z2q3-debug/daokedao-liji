@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">门与道：守礼于势前</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<rect x="270" y="156" width="220" height="10" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="280" y1="166" x2="280" y2="330" stroke="#7C6D5C" stroke-width="1.6"/>
+<line x1="480" y1="166" x2="480" y2="330" stroke="#7C6D5C" stroke-width="1.6"/>
+<path d="M480,170 L520,178 L520,320 L480,318" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="350" y1="190" x2="350" y2="300" stroke="#7C6D5C" stroke-width="1.2"/>
+<circle cx="350" cy="182" r="4" fill="#25211D"/>
+<line x1="342" y1="210" x2="358" y2="210" stroke="#994433" stroke-width="1.2"/>
+<text x="350" y="322" font-size="9" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">蟜固·不去衰</text>
+<line x1="190" y1="340" x2="190" y2="300" stroke="#7C6D5C" stroke-width="1.2"/>
+<circle cx="190" cy="332" r="4" fill="#9A9186"/>
+<line x1="160" y1="340" x2="160" y2="300" stroke="#7C6D5C" stroke-width="1.2"/>
+<circle cx="160" cy="332" r="4" fill="#9A9186"/>
+<text x="175" y="356" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">门外皆说衰</text>
+<text x="380" y="130" font-size="11" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">士唯公门说齐衰</text>
+<text x="380" y="382" font-size="10" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">斯道也将亡矣：知者不敢行，则道亡</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">礼取照礼而行，不取佯善</text>
+</svg>
