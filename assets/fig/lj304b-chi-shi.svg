@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">池视重霤：数从屋来</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<text x="96" y="154" font-size="11" fill="#25211D" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">天子</text>
+<line x1="150" y1="141" x2="150" y2="159" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="168" y1="141" x2="168" y2="159" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="186" y1="141" x2="186" y2="159" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="204" y1="141" x2="204" y2="159" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="240" y="154" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">重霤</text>
+<line x1="330" y1="141" x2="330" y2="159" stroke="#994433" stroke-width="1.0"/>
+<line x1="348" y1="141" x2="348" y2="159" stroke="#994433" stroke-width="1.0"/>
+<line x1="366" y1="141" x2="366" y2="159" stroke="#994433" stroke-width="1.0"/>
+<line x1="384" y1="141" x2="384" y2="159" stroke="#994433" stroke-width="1.0"/>
+<text x="420" y="154" font-size="9" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">池</text>
+<line x1="286" y1="150" x2="322" y2="150" stroke="#DCD5C8" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="96" y="204" font-size="11" fill="#25211D" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">诸侯</text>
+<line x1="150" y1="191" x2="150" y2="209" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="168" y1="191" x2="168" y2="209" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="186" y1="191" x2="186" y2="209" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="240" y="204" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">重霤</text>
+<line x1="330" y1="191" x2="330" y2="209" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="348" y1="191" x2="348" y2="209" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="366" y1="191" x2="366" y2="209" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="420" y="204" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">池</text>
+<line x1="286" y1="200" x2="322" y2="200" stroke="#DCD5C8" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="96" y="254" font-size="11" fill="#25211D" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">大夫</text>
+<line x1="150" y1="241" x2="150" y2="259" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="168" y1="241" x2="168" y2="259" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="240" y="254" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">重霤</text>
+<line x1="330" y1="241" x2="330" y2="259" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="348" y1="241" x2="348" y2="259" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="420" y="254" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">池</text>
+<line x1="286" y1="250" x2="322" y2="250" stroke="#DCD5C8" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="96" y="304" font-size="11" fill="#25211D" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">士</text>
+<line x1="150" y1="291" x2="150" y2="309" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="240" y="304" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">重霤</text>
+<line x1="330" y1="291" x2="330" y2="309" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="420" y="304" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">池</text>
+<line x1="286" y1="300" x2="322" y2="300" stroke="#DCD5C8" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="380" y="348" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">此数不问爵等表，只问其生时那间屋</text>
+<text x="380" y="372" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">各视生时重霤</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">丧车象宫室：形似而用废，取其数与名</text>
+</svg>

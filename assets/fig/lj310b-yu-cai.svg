@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">殡后十日布材：木宜干腊</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<line x1="110" y1="250" x2="470" y2="250" stroke="#7C6D5C" stroke-width="1.0"/>
+<circle cx="140" cy="250" r="4" fill="#25211D"/>
+<text x="140" y="232" font-size="10" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">殡</text>
+<circle cx="300" cy="250" r="4" fill="#25211D"/>
+<text x="300" y="232" font-size="10" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">旬</text>
+<line x1="300" y1="250" x2="456" y2="250" stroke="#994433" stroke-width="1.2" marker-end="url(#ah)"/>
+<circle cx="456" cy="250" r="4" fill="#994433"/>
+<text x="456" y="232" font-size="10" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">布材</text>
+<text x="300" y="282" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">十日</text>
+<line x1="520" y1="300" x2="700" y2="300" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="520" y1="322" x2="700" y2="322" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="520" y1="344" x2="700" y2="344" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="520" y1="366" x2="700" y2="366" stroke="#7C6D5C" stroke-width="1.2"/>
+<text x="610" y="296" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">椁材 · 明器之材</text>
+<text x="610" y="396" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">堆而曝之，待其干</text>
+<text x="300" y="340" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">期尚有余：三月而葬</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">不早则木不能用——礼的权威，一大半来自可验</text>
+</svg>
