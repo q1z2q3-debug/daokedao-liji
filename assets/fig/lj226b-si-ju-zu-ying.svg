@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">提前一步，便是失</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<line x1="200" y1="132" x2="200" y2="400" stroke="#7C6D5C" stroke-width="1.0"/>
+<circle cx="200" cy="190" r="4" fill="#25211D"/>
+<circle cx="200" cy="368" r="4" fill="#25211D"/>
+<text x="188" y="122" font-size="10.5" fill="#25211D" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">禫</text>
+<text x="188" y="390" font-size="10.5" fill="#25211D" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">祥</text>
+<rect x="252" y="344" width="76" height="24" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="290" y="361" font-size="9.5" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">丝屦</text>
+<line x1="340" y1="348" x2="396" y2="348" stroke="#994433" stroke-width="1.6"/>
+<text x="368" y="338" font-size="9.5" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">组缨</text>
+<line x1="362" y1="360" x2="374" y2="372" stroke="#994433" stroke-width="1.2"/>
+<line x1="362" y1="372" x2="374" y2="360" stroke="#994433" stroke-width="1.2"/>
+<text x="452" y="352" font-size="9.5" fill="#7C6D5C" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">禫后之服，著于祥则早</text>
+<rect x="252" y="176" width="76" height="24" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="290" y="193" font-size="9.5" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">白屦</text>
+<text x="290" y="166" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">无絇</text>
+<path d="M356,200 C356,172 400,172 400,200" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="366" y1="202" x2="390" y2="202" stroke="#7C6D5C" stroke-width="1.4"/>
+<text x="378" y="220" font-size="9" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">缟冠素纰</text>
+<line x1="252" y1="300" x2="470" y2="300" stroke="#DCD5C8" stroke-width="0.7"/>
+<text x="252" y="320" font-size="9.5" fill="#7C6D5C" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">既祥：白屦无絇，缟冠素纰</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">早一步亦是失，服各有时</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">非理横死，礼不吊</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<rect x="88" y="100" width="180" height="240" fill="#F7F4EE" stroke="#DCD5C8" stroke-width="0.7"/>
+<text x="178" y="124" font-size="12" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">畏</text>
+<text x="178" y="300" font-size="8.8" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">非罪攻己，不能自说</text>
+<text x="178" y="318" font-size="8.8" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">皆不吊</text>
+<rect x="296" y="100" width="180" height="240" fill="#F7F4EE" stroke="#DCD5C8" stroke-width="0.7"/>
+<text x="386" y="124" font-size="12" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">厌</text>
+<text x="386" y="300" font-size="8.8" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">行止危险之下</text>
+<text x="386" y="318" font-size="8.8" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">皆不吊</text>
+<rect x="504" y="100" width="180" height="240" fill="#F7F4EE" stroke="#DCD5C8" stroke-width="0.7"/>
+<text x="594" y="124" font-size="12" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">溺</text>
+<text x="594" y="300" font-size="8.8" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">不乘桥舡</text>
+<text x="594" y="318" font-size="8.8" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">皆不吊</text>
+<path d="M172,214 C172,160 244,160 244,214" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.2"/>
+<circle cx="208" cy="214" r="7" fill="#25211D"/>
+<line x1="184" y1="226" x2="232" y2="226" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="196" y1="226" x2="220" y2="226" stroke="#F7F4EE" stroke-width="5"/>
+<line x1="203" y1="221" x2="213" y2="231" stroke="#994433" stroke-width="1.2"/>
+<line x1="203" y1="231" x2="213" y2="221" stroke="#994433" stroke-width="1.2"/>
+<text x="208" y="246" font-size="9" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">无说之路</text>
+<circle cx="410" cy="224" r="7" fill="#25211D"/>
+<line x1="384" y1="176" x2="406" y2="200" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="406" y1="200" x2="410" y2="214" stroke="#7C6D5C" stroke-width="1.1" marker-end="url(#ah)"/>
+<line x1="392" y1="214" x2="428" y2="214" stroke="#7C6D5C" stroke-width="1.4"/>
+<text x="410" y="246" font-size="9" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">自就危地</text>
+<circle cx="612" cy="231" r="7" fill="#25211D"/>
+<path d="M576,222 C590,212 604,232 618,222 C632,212 646,232 660,222" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<path d="M576,240 C590,230 604,250 618,240 C632,230 646,250 660,240" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<text x="612" y="268" font-size="9" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">自入深水</text>
+<line x1="70" y1="352" x2="690" y2="352" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="5,4"/>
+<text x="380" y="376" font-size="9.5" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">轻身忘孝：身非己有，不得轻弃</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">所不与者吊，非不哀其死</text>
+</svg>
