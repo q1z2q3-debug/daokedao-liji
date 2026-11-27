@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#25211D" letter-spacing="3">忧与丧，先在席上做减法</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <rect x="70.0" y="104.0" width="190.0" height="110.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="165.0" y="134.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.0" fill="#25211D" letter-spacing="0.4">侧席</text>
+  <text x="165.0" y="198.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#994433" letter-spacing="0.4">独席，不布他面</text>
+  <rect x="290.0" y="104.0" width="190.0" height="110.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="385.0" y="134.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.0" fill="#25211D" letter-spacing="0.4">专席</text>
+  <text x="385.0" y="198.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#994433" letter-spacing="0.4">单席，不加层</text>
+  <rect x="510.0" y="104.0" width="190.0" height="110.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="605.0" y="134.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.0" fill="#25211D" letter-spacing="0.4">平常</text>
+  <text x="605.0" y="198.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#994433" letter-spacing="0.4">席面展开，有重席</text>
+  <text x="165.0" y="244.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.5" fill="#994433" letter-spacing="0.4">减广度</text>
+  <text x="385.0" y="244.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.5" fill="#994433" letter-spacing="0.4">减层数</text>
+  <text x="605.0" y="244.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.5" fill="#7C6D5C" letter-spacing="0.4">常时</text>
+  <text x="60.0" y="286.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.3" fill="#25211D" letter-spacing="0.4">注：「侧犹特也，不布他面席」「专犹单也」</text>
+  <text x="60.0" y="312.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#25211D" letter-spacing="0.4">疏：吉时贵贱有重席之礼；父母始丧寝苫无席，卒哭后乃有席</text>
+  <text x="60.0" y="338.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">故「专席」已是丧中较后一段，非最重之居处。</text>
+  <line x1="60.0" y1="444.0" x2="700.0" y2="444.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="468.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="13.0" fill="#25211D" letter-spacing="0.6">结论　礼不要求把忧写在脸上，只要求把日子收窄一层。</text>
+  <text x="700" y="486" text-anchor="end" font-family="Noto Serif CJK SC" font-size="8" fill="#9A9186" letter-spacing="0.6">图二 · 有忧者侧席</text>
+</svg>

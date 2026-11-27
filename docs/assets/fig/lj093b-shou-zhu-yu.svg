@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#25211D" letter-spacing="3">不直接用裸手：慎、敬、护</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <rect x="70.0" y="104.0" width="190.0" height="150.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="165.0" y="130.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.5" fill="#25211D" letter-spacing="0.4">受珠玉</text>
+  <path d="M120 196 q45 26 90 0" fill="none" stroke="#7C6D5C" stroke-width="2.2"/>
+  <circle cx="165" cy="184" r="6" fill="#F7F4EE" stroke="#994433" stroke-width="1"/>
+  <text x="165.0" y="230.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.3" fill="#994433" letter-spacing="0.4">以掬：两手承，下以袂垫</text>
+  <rect x="290.0" y="104.0" width="190.0" height="150.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="385.0" y="130.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.5" fill="#25211D" letter-spacing="0.4">受弓剑</text>
+  <line x1="330.0" y1="190.0" x2="440.0" y2="190.0" stroke="#7C6D5C" stroke-width="3.0"/>
+  <text x="385.0" y="214.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.3" fill="#994433" letter-spacing="0.4">以袂承接，不露手</text>
+  <rect x="510.0" y="104.0" width="190.0" height="150.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="605.0" y="130.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.5" fill="#25211D" letter-spacing="0.4">饮玉爵</text>
+  <path d="M585 176 q20 34 40 0" fill="none" stroke="#7C6D5C" stroke-width="1.4"/>
+  <text x="605.0" y="214.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.3" fill="#994433" letter-spacing="0.4">弗挥：不振去余沥</text>
+  <text x="60.0" y="292.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.3" fill="#25211D" letter-spacing="0.4">注：珠玉曰「慎」，弓剑曰「敬」，玉爵曰「为其宝而脆」。</text>
+  <text x="60.0" y="318.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="8.8" fill="#7C6D5C" letter-spacing="0.4">疏：开匣置手中，下用袂承，恐坠落；挥者，振去余酒也。</text>
+  <line x1="60.0" y1="444.0" x2="700.0" y2="444.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="468.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="13.0" fill="#25211D" letter-spacing="0.6">结论　物的价钱，决定手的姿态。</text>
+  <text x="700" y="486" text-anchor="end" font-family="Noto Serif CJK SC" font-size="8" fill="#9A9186" letter-spacing="0.6">图二 · 受珠玉者以掬</text>
+</svg>

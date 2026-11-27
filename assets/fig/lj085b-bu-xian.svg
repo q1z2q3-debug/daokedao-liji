@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#25211D" letter-spacing="3">献以难得：物太易得，则意轻</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <rect x="60.0" y="104.0" width="300.0" height="120.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="210.0" y="136.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.5" fill="#25211D" letter-spacing="0.4">水潦降时</text>
+  <text x="210.0" y="168.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">鱼鳖丰足／或谓难得</text>
+  <text x="210.0" y="200.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.5" fill="#994433" letter-spacing="0.4">此时不宜献</text>
+  <rect x="400.0" y="104.0" width="300.0" height="120.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="550.0" y="136.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.5" fill="#25211D" letter-spacing="0.4">平时</text>
+  <text x="550.0" y="168.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">为献而择，见其心</text>
+  <text x="550.0" y="200.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.5" fill="#994433" letter-spacing="0.4">可献</text>
+  <line x1="360.0" y1="164.0" x2="396.0" y2="164.0" stroke="#DCD5C8" stroke-width="0.9"/>
+  <line x1="389.5" y1="161.4" x2="396.0" y2="164.0" stroke="#DCD5C8" stroke-width="0.9"/>
+  <line x1="389.5" y1="166.6" x2="396.0" y2="164.0" stroke="#DCD5C8" stroke-width="0.9"/>
+  <text x="60.0" y="266.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.3" fill="#25211D" letter-spacing="0.4">注：「不饶多也」——不趁其丰足，不益其多。</text>
+  <text x="60.0" y="292.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#25211D" letter-spacing="0.4">疏并存两解：卢植、庾蔚之谓难得；或解谓丰足不宜趁多。</text>
+  <text x="60.0" y="318.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">两说相反，结论同：此时之鱼鳖，不含「为献而择」的心。</text>
+  <line x1="60.0" y1="444.0" x2="700.0" y2="444.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="468.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="13.0" fill="#25211D" letter-spacing="0.6">结论　献之义在物，更在择物的那一刻。</text>
+  <text x="700" y="486" text-anchor="end" font-family="Noto Serif CJK SC" font-size="8" fill="#9A9186" letter-spacing="0.6">图二 · 水潦降</text>
+</svg>

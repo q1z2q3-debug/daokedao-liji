@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#25211D" letter-spacing="3">设其大者，举其小者：八物各有凭信</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <rect x="60.0" y="110.0" width="78.0" height="120.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="99.0" y="142.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">车马</text>
+  <line x1="70.0" y1="158.0" x2="128.0" y2="158.0" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="99.0" y="186.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.0" fill="#994433" letter-spacing="0.4">策绥</text>
+  <rect x="146.0" y="110.0" width="78.0" height="120.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="185.0" y="142.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">甲</text>
+  <line x1="156.0" y1="158.0" x2="214.0" y2="158.0" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="185.0" y="186.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.0" fill="#994433" letter-spacing="0.4">胄</text>
+  <rect x="232.0" y="110.0" width="78.0" height="120.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="271.0" y="142.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">杖</text>
+  <line x1="242.0" y1="158.0" x2="300.0" y2="158.0" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="271.0" y="186.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.0" fill="#994433" letter-spacing="0.4">末</text>
+  <rect x="318.0" y="110.0" width="78.0" height="120.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="357.0" y="142.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">民虏</text>
+  <line x1="328.0" y1="158.0" x2="386.0" y2="158.0" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="357.0" y="186.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.0" fill="#994433" letter-spacing="0.4">右袂</text>
+  <rect x="404.0" y="110.0" width="78.0" height="120.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="443.0" y="142.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">粟</text>
+  <line x1="414.0" y1="158.0" x2="472.0" y2="158.0" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="443.0" y="186.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.0" fill="#994433" letter-spacing="0.4">右契</text>
+  <rect x="490.0" y="110.0" width="78.0" height="120.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="529.0" y="142.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">米</text>
+  <line x1="500.0" y1="158.0" x2="558.0" y2="158.0" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="529.0" y="186.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.0" fill="#994433" letter-spacing="0.4">量鼓</text>
+  <rect x="576.0" y="110.0" width="78.0" height="120.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="615.0" y="142.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">孰食</text>
+  <line x1="586.0" y1="158.0" x2="644.0" y2="158.0" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="615.0" y="186.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.0" fill="#994433" letter-spacing="0.4">酱齐</text>
+  <rect x="662.0" y="110.0" width="78.0" height="120.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="701.0" y="142.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">田宅</text>
+  <line x1="672.0" y1="158.0" x2="730.0" y2="158.0" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="701.0" y="186.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.0" fill="#994433" letter-spacing="0.4">书致</text>
+  <text x="60.0" y="266.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#25211D" letter-spacing="0.4">注：「凡操、执者，谓手所举以告者也。设其大者，举其小者，便也。」</text>
+  <text x="60.0" y="292.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="8.8" fill="#7C6D5C" letter-spacing="0.4">甲大胄小，小者易举；杖之垢头向己；契分左右，右为尊；米急以量，粟缓以书。</text>
+  <text x="60.0" y="318.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#25211D" letter-spacing="0.4">酱齐为食之主：执主来，则一席可知。</text>
+  <line x1="60.0" y1="444.0" x2="700.0" y2="444.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="468.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="13.0" fill="#25211D" letter-spacing="0.6">结论　大物不可手授，就交一件可握的凭信。</text>
+  <text x="700" y="486" text-anchor="end" font-family="Noto Serif CJK SC" font-size="8" fill="#9A9186" letter-spacing="0.6">图二 · 献车马者执策绥</text>
+</svg>
