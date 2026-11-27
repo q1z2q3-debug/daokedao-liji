@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">五世反葬，服尽而止</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<line x1="120" y1="330" x2="640" y2="330" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="120" y="352" font-size="11" fill="#25211D" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">周</text>
+<text x="640" y="352" font-size="11" fill="#25211D" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">齐</text>
+<circle cx="330" cy="330" r="5" fill="#25211D"/>
+<circle cx="380" cy="330" r="5" fill="#25211D"/>
+<circle cx="430" cy="330" r="5" fill="#25211D"/>
+<circle cx="480" cy="330" r="5" fill="#25211D"/>
+<circle cx="530" cy="330" r="5" fill="#994433"/>
+<line x1="374" y1="322" x2="338" y2="322" stroke="#7C6D5C" stroke-width="1.0" marker-end="url(#ah)"/>
+<line x1="424" y1="322" x2="388" y2="322" stroke="#7C6D5C" stroke-width="1.0" marker-end="url(#ah)"/>
+<line x1="474" y1="322" x2="438" y2="322" stroke="#7C6D5C" stroke-width="1.0" marker-end="url(#ah)"/>
+<line x1="524" y1="322" x2="488" y2="322" stroke="#7C6D5C" stroke-width="1.0" marker-end="url(#ah)"/>
+<text x="430" y="298" font-size="9.5" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">五世皆反葬于周</text>
+<circle cx="596" cy="330" r="6" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="536" y1="338" x2="588" y2="338" stroke="#7C6D5C" stroke-width="1.0" marker-end="url(#ah)"/>
+<text x="596" y="302" font-size="9.5" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">五世之后乃葬于齐</text>
+<text x="120" y="386" font-size="9.5" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">必五世者，五世之外则服尽</text>
+<path d="M556,150 C556,128 588,128 588,150" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<circle cx="600" cy="152" r="4" fill="#25211D"/>
+<text x="572" y="176" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">狐死正丘首</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">乐其所自生，礼不忘其本</text>
+</svg>
