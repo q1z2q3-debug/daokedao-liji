@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#25211D" letter-spacing="3">上下相从，礼刑各有所至</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <rect x="70.0" y="104.0" width="190.0" height="80.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="165.0" y="134.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.0" fill="#25211D" letter-spacing="0.4">君抚式</text>
+  <text x="165.0" y="168.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#994433" letter-spacing="0.4">据式小俯</text>
+  <line x1="262.0" y1="144.0" x2="290.0" y2="144.0" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="283.5" y1="141.4" x2="290.0" y2="144.0" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="283.5" y1="146.6" x2="290.0" y2="144.0" stroke="#7C6D5C" stroke-width="1.0"/>
+  <rect x="292.0" y="104.0" width="190.0" height="80.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="387.0" y="134.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.5" fill="#25211D" letter-spacing="0.4">大夫下车</text>
+  <text x="387.0" y="168.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#994433" letter-spacing="0.4">以更大之动作应之</text>
+  <line x1="484.0" y1="144.0" x2="512.0" y2="144.0" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="505.5" y1="141.4" x2="512.0" y2="144.0" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="505.5" y1="146.6" x2="512.0" y2="144.0" stroke="#7C6D5C" stroke-width="1.0"/>
+  <rect x="514.0" y="104.0" width="190.0" height="80.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="609.0" y="134.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.5" fill="#25211D" letter-spacing="0.4">士下车</text>
+  <text x="609.0" y="168.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#994433" letter-spacing="0.4">等而上之，同一理</text>
+  <line x1="70.0" y1="222.0" x2="700.0" y2="222.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="252.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">礼不下庶人：遽于事，不能备物——非不许行礼</text>
+  <text x="80.0" y="278.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">刑不上大夫：不预设其罪目，犯法则在八议轻重，不在刑书</text>
+  <text x="80.0" y="304.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.2" fill="#7C6D5C" letter-spacing="0.4">刑人不在君侧：为怨恨为害——《春秋传》「近刑人，则轻死之道」</text>
+  <text x="80.0" y="336.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="8.8" fill="#25211D" letter-spacing="0.4">疏引张逸：非是都不行礼也，但以其遽务不能备之，故不著于经文。</text>
+  <line x1="60.0" y1="444.0" x2="700.0" y2="444.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="468.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="13.0" fill="#25211D" letter-spacing="0.6">结论　礼与刑各有所至；而受过刑者，不得近君。</text>
+  <text x="700" y="486" text-anchor="end" font-family="Noto Serif CJK SC" font-size="8" fill="#9A9186" letter-spacing="0.6">图二 · 国君抚式</text>
+</svg>

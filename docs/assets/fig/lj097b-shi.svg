@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#25211D" letter-spacing="3">尸之尊：从庙中一路延伸到路上</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <rect x="60.0" y="104.0" width="150.0" height="84.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="135.0" y="134.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.0" fill="#25211D" letter-spacing="0.4">昭穆同</text>
+  <text x="135.0" y="172.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#994433" letter-spacing="0.4">孙与祖同列</text>
+  <line x1="212.0" y1="146.0" x2="246.0" y2="146.0" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="239.5" y1="143.4" x2="246.0" y2="146.0" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="239.5" y1="148.6" x2="246.0" y2="146.0" stroke="#7C6D5C" stroke-width="1.0"/>
+  <rect x="250.0" y="104.0" width="170.0" height="84.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="335.0" y="134.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.5" fill="#25211D" letter-spacing="0.4">孙为王父尸</text>
+  <text x="335.0" y="172.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#994433" letter-spacing="0.4">子不可为父尸</text>
+  <line x1="422.0" y1="146.0" x2="456.0" y2="146.0" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="449.5" y1="143.4" x2="456.0" y2="146.0" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="449.5" y1="148.6" x2="456.0" y2="146.0" stroke="#7C6D5C" stroke-width="1.0"/>
+  <rect x="460.0" y="104.0" width="150.0" height="84.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="535.0" y="134.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.0" fill="#25211D" letter-spacing="0.4">见者下车</text>
+  <text x="535.0" y="172.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#994433" letter-spacing="0.4">大夫士、君皆下</text>
+  <line x1="612.0" y1="146.0" x2="646.0" y2="146.0" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="639.5" y1="143.4" x2="646.0" y2="146.0" stroke="#7C6D5C" stroke-width="1.0"/>
+  <line x1="639.5" y1="148.6" x2="646.0" y2="146.0" stroke="#7C6D5C" stroke-width="1.0"/>
+  <rect x="60.0" y="222.0" width="640.0" height="60.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="380.0" y="252.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.5" fill="#25211D" letter-spacing="0.4">不下车者，唯尸：式以答敬；乘车必以几</text>
+  <text x="60.0" y="308.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.2" fill="#25211D" letter-spacing="0.4">注：以孙与祖昭穆同｜式谓俯下头｜几在式上，尊者慎也</text>
+  <text x="60.0" y="334.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">疏：无孙则取于同姓；祭殇无尸；祔祭后正用男之一尸。</text>
+  <line x1="60.0" y1="444.0" x2="700.0" y2="444.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="468.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="13.0" fill="#25211D" letter-spacing="0.6">结论　尊尸，即尊其所代之人。</text>
+  <text x="700" y="486" text-anchor="end" font-family="Noto Serif CJK SC" font-size="8" fill="#9A9186" letter-spacing="0.6">图二 · 君子抱孙不抱子</text>
+</svg>

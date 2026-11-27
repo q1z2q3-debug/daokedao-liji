@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#25211D" letter-spacing="3">斋：哀乐两禁，只为收心</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <circle cx="380" cy="238" r="42" fill="none" stroke="#994433" stroke-width="1.2"/>
+  <text x="380.0" y="234.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="16.0" fill="#994433" letter-spacing="0.4">斋</text>
+  <text x="380.0" y="256.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.0" fill="#9A9186" letter-spacing="0.4">正</text>
+  <rect x="90.0" y="110.0" width="190.0" height="86.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="185.0" y="140.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.0" fill="#25211D" letter-spacing="0.4">不乐</text>
+  <text x="185.0" y="180.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#994433" letter-spacing="0.4">乐则心随声走</text>
+  <rect x="480.0" y="110.0" width="190.0" height="86.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="575.0" y="140.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.0" fill="#25211D" letter-spacing="0.4">不吊</text>
+  <text x="575.0" y="180.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#994433" letter-spacing="0.4">哀则心沉于丧</text>
+  <line x1="190.0" y1="200.0" x2="330.0" y2="224.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <line x1="324.0" y1="220.3" x2="330.0" y2="224.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <line x1="323.2" y1="225.5" x2="330.0" y2="224.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <line x1="570.0" y1="200.0" x2="430.0" y2="224.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <line x1="436.8" y1="225.5" x2="430.0" y2="224.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <line x1="436.0" y1="220.3" x2="430.0" y2="224.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="285.0" y="268.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#7C6D5C" letter-spacing="0.4">散其思</text>
+  <text x="475.0" y="268.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#7C6D5C" letter-spacing="0.4">散其思</text>
+  <text x="60.0" y="320.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.2" fill="#25211D" letter-spacing="0.4">注：「为哀乐则失正，散其思也」——斋以收心为体，不以洁身为足。</text>
+  <text x="60.0" y="346.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">不吊近乎无情，礼却把「将祭」置于人情之上：有所承之敬。</text>
+  <line x1="60.0" y1="444.0" x2="700.0" y2="444.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="468.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="13.0" fill="#25211D" letter-spacing="0.6">结论　两件不做的事，护的是一件事：心在一处。</text>
+  <text x="700" y="486" text-anchor="end" font-family="Noto Serif CJK SC" font-size="8" fill="#9A9186" letter-spacing="0.6">图二 · 齐者不乐不吊</text>
+</svg>

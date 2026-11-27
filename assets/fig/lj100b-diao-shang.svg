@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#25211D" letter-spacing="3">两套辞：恩各施于所知</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <rect x="200.0" y="104.0" width="170.0" height="52.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="285.0" y="126.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.0" fill="#25211D" letter-spacing="0.4">识丧主</text>
+  <text x="285.0" y="146.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.0" fill="#994433" letter-spacing="0.4">致吊辞</text>
+  <rect x="390.0" y="104.0" width="170.0" height="52.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="475.0" y="126.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.0" fill="#25211D" letter-spacing="0.4">识死者</text>
+  <text x="475.0" y="146.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.0" fill="#994433" letter-spacing="0.4">致伤辞</text>
+  <rect x="200.0" y="196.0" width="170.0" height="52.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="285.0" y="218.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.0" fill="#25211D" letter-spacing="0.4">只吊</text>
+  <text x="285.0" y="238.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#7C6D5C" letter-spacing="0.4">不虚伤</text>
+  <rect x="390.0" y="196.0" width="170.0" height="52.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="475.0" y="218.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.0" fill="#25211D" letter-spacing="0.4">只伤</text>
+  <text x="475.0" y="238.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.5" fill="#7C6D5C" letter-spacing="0.4">不虚吊</text>
+  <text x="285.0" y="180.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.0" fill="#994433" letter-spacing="0.4">知生而不知死</text>
+  <text x="475.0" y="180.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.0" fill="#994433" letter-spacing="0.4">知死而不知生</text>
+  <text x="60.0" y="286.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#25211D" letter-spacing="0.4">注：吊辞施于生者，伤辞施于死者；伤辞未闻，旧说「皇天降灾，子遭罹之」。</text>
+  <text x="60.0" y="312.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.2" fill="#7C6D5C" letter-spacing="0.4">辞毕，退，皆哭——先言后哭，次序不乱。</text>
+  <line x1="60.0" y1="444.0" x2="700.0" y2="444.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="468.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="13.0" fill="#25211D" letter-spacing="0.6">结论　识谁，就向谁致意；不识，不虚为其辞。</text>
+  <text x="700" y="486" text-anchor="end" font-family="Noto Serif CJK SC" font-size="8" fill="#9A9186" letter-spacing="0.6">图二 · 知生者吊</text>
+</svg>
