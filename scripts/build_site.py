@@ -74,9 +74,9 @@ def main():
         raw = open(os.path.join(BOOK, f), encoding="utf-8").read()
         lines = raw.strip().split("\n")
         pian = ""
-        m = re.search(r"^>\s*(.+?)\s*·\s*第\s*(\d+)\s*课", lines[2] if len(lines) > 2 else "", re.M)
-        if m:
-            pian = m.group(1).strip()
+        l3 = lines[2] if len(lines) > 2 else ""
+        if re.search(r"第\s*\d+\s*课", l3) and "·" in l3:
+            pian = l3.strip().lstrip(">").split("·")[0].strip()
         key = "lj%03d" % num
         page = SHELL.format(
             title="%s · 道可道之礼记" % title,
@@ -103,7 +103,7 @@ def main():
                 '<div style="text-align:center;color:#7C6D5C;font-size:13px;letter-spacing:1.5px">'
                 '润泽说　·　四十九篇　·　v%s</div>'
                 '<p style="text-align:center;font-size:14px"><a href="intro.html">前言</a>　·　'
-                '已刊 <em>%d</em> 课　·　曲礼上起</p><hr><div class="toc">' % (ver, len(entries)))
+                '已刊 <em>%d</em> 课　·　曲礼上起、曲礼下续</p><hr><div class="toc">' % (ver, len(entries)))
         for e in entries:
             body += '<p><a href="k/%s.html">第%03d课　%s</a></p>' % (e["key"], e["no"], e["title"])
         body += "</div>"

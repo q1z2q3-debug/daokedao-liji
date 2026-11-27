@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540"><rect width="760" height="540" fill="#F7F4EE"/><rect x="10" y="10" width="740" height="520" fill="none" stroke="#994433" stroke-width="1.2"/><rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.5"/><text x="380" y="52" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" font-size="20" fill="#25211D" text-anchor="middle" letter-spacing="3">不能则辞以疾</text><line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/><rect x="470" y="130" width="150" height="130" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+<line x1="470" y1="130" x2="470" y2="300" stroke="#7C6D5C" stroke-width="1"/>
+<line x1="620" y1="130" x2="620" y2="300" stroke="#7C6D5C" stroke-width="1"/>
+<circle cx="545" cy="195" r="20" fill="none" stroke="#9A9186" stroke-width="0.7" stroke-dasharray="3 3"/>
+<circle cx="545" cy="195" r="2.2" fill="#9A9186"/>
+<text x="545" y="116" font-size="10" fill="#9A9186" text-anchor="middle">侯 · 射布</text>
+<path d="M150,320 q60,-46 120,0" fill="none" stroke="#994433" stroke-width="1.3"/>
+<line x1="150" y1="320" x2="270" y2="320" stroke="#994433" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="190" y1="344" x2="236" y2="344" stroke="#7C6D5C" stroke-width="0.8"/>
+<line x1="204" y1="344" x2="250" y2="344" stroke="#7C6D5C" stroke-width="0.8"/>
+<line x1="218" y1="344" x2="264" y2="344" stroke="#7C6D5C" stroke-width="0.8"/>
+<line x1="232" y1="344" x2="278" y2="344" stroke="#7C6D5C" stroke-width="0.8"/>
+<text x="210" y="372" font-size="10" fill="#7C6D5C" text-anchor="middle">弓已卸，箭未发</text>
+<line x1="330" y1="300" x2="420" y2="300" stroke="#7C6D5C" stroke-width="1"/>
+<line x1="330" y1="310" x2="420" y2="310" stroke="#7C6D5C" stroke-width="1"/>
+<line x1="330" y1="320" x2="420" y2="320" stroke="#7C6D5C" stroke-width="1"/>
+<path d="M330,300 q45,-26 90,0" fill="none" stroke="#DCD5C8" stroke-width="1.1"/>
+<path d="M352,290 q12,-10 24,0" fill="none" stroke="#994433" stroke-width="0.9"/>
+<text x="375" y="350" font-size="10" fill="#994433" text-anchor="middle">负薪之忧</text>
+<text x="375" y="372" font-size="9.5" fill="#9A9186" text-anchor="middle">檐樵之馀劳，不堪射</text>
+<text x="380" y="108" font-size="10" fill="#7C6D5C" text-anchor="middle">射者所以观德，唯有疾可以辞</text>
+<text x="120" y="140" font-size="11" fill="#25211D" text-anchor="start">不得云「不能」</text>
+<text x="120" y="162" font-size="9.5" fill="#9A9186" text-anchor="start">直云不能，则似素餐，且辱君不知人</text><line x1="70" y1="444" x2="690" y2="444" stroke="#DCD5C8" stroke-width="1.0"/><text x="70" y="468" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" font-size="13" fill="#994433">结论　说病不说不能，是给自己留体面，也给君留体面</text><text x="690" y="486" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" font-size="11" fill="#9A9186" text-anchor="end">图二 · 不能则辞以疾</text></svg>
