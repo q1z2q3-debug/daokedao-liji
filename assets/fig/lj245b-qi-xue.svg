@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">声哭有涕，无声泣血</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<text x="200" y="190" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">声哭</text>
+<line x1="120" y1="206" x2="282" y2="206" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="195" y1="201" x2="205" y2="211" stroke="#994433" stroke-width="1.2"/>
+<line x1="195" y1="211" x2="205" y2="201" stroke="#994433" stroke-width="1.2"/>
+<text x="200" y="236" font-size="9.5" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">发声而涕出</text>
+<text x="200" y="286" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">泣血</text>
+<line x1="120" y1="302" x2="282" y2="302" stroke="#7C6D5C" stroke-width="1.0"/>
+<circle cx="150" cy="302" r="3.4" fill="#994433"/>
+<circle cx="182" cy="302" r="3.4" fill="#994433"/>
+<circle cx="214" cy="302" r="3.4" fill="#994433"/>
+<text x="200" y="330" font-size="9.5" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">悲至而失其声</text>
+<line x1="300" y1="150" x2="300" y2="356" stroke="#DCD5C8" stroke-width="0.9"/>
+<path d="M 390,246 Q 420,288 450,246" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="408" y1="250" x2="408" y2="262" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="420" y1="250" x2="420" y2="262" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="432" y1="250" x2="432" y2="262" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="420" y="306" font-size="9.5" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">大笑</text>
+<text x="420" y="326" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">齿 3</text>
+<path d="M 490,246 Q 520,288 550,246" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="508" y1="250" x2="508" y2="262" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="520" y1="250" x2="520" y2="262" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="520" y="306" font-size="9.5" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">中笑</text>
+<text x="520" y="326" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">齿 2</text>
+<path d="M 590,246 Q 620,288 650,246" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<text x="620" y="306" font-size="9.5" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">微笑</text>
+<text x="620" y="326" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">齿 0</text>
+<circle cx="620" cy="272" r="44" fill="none" stroke="#994433" stroke-width="1.1"/>
+<text x="620" y="196" font-size="9.5" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">三年未尝见齿</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">难者，人之难，非法之难</text>
+</svg>
