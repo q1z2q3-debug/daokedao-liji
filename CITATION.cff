@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "引用本读本时请使用下列信息。"
+type: book
+title: "润泽说 道可道之礼记"
+subtitle: "《礼记》四十九篇通释读本"
+authors:
+  - family-names: "乔"
+    given-names: "忠"
+    alias: "润泽"
+version: "0.1.36"
+date-released: "2026-11-27"
+license: "CC-BY-NC-SA-4.0"
+repository-code: "https://github.com/q1z2q3-debug/daokedao-liji"
+url: "https://q1z2q3-debug.github.io/daokedao-liji/"
+abstract: >-
+  以郑玄注为底，参孔颖达疏与陈澔集说，依郑目次第逐节通释《礼记》四十九篇。
+  一课一节，十一节体例：解题、经文、字义与句读、今译、章旨、礼义、分寸与边界、存疑、跨典、双卡、图。
