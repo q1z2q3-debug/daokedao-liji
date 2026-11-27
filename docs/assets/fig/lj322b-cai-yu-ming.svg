@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">财不出于己，名亦不出于己</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<rect x="110" y="208" width="110" height="76" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.2"/>
+<text x="165" y="244" font-size="12" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">己财</text>
+<text x="165" y="264" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">未仕不专</text>
+<rect x="560" y="208" width="110" height="76" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.2"/>
+<text x="615" y="244" font-size="12" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">人</text>
+<text x="615" y="264" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">受者</text>
+<rect x="330" y="94" width="140" height="52" fill="#F7F4EE" stroke="#994433" stroke-width="1.2"/>
+<text x="400" y="120" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">父兄之命</text>
+<text x="400" y="138" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">经父兄</text>
+<path d="M220,212 L340,146" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+<path d="M460,146 L552,212" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="500" y1="168" x2="556" y2="208" stroke="#7C6D5C" stroke-width="1.0" marker-end="url(#ah)"/>
+<line x1="220" y1="262" x2="560" y2="262" stroke="#7C6D5C" stroke-width="1.0" stroke-dasharray="4,4"/>
+<line x1="400" y1="226" x2="400" y2="300" stroke="#7C6D5C" stroke-width="1.4"/>
+<line x1="395" y1="257" x2="405" y2="267" stroke="#994433" stroke-width="1.2"/>
+<line x1="395" y1="267" x2="405" y2="257" stroke="#994433" stroke-width="1.2"/>
+<text x="400" y="320" font-size="10" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">直：自专</text>
+<text x="380" y="372" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">称命者实有其命；无命而称，是冒</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">你经手，不意味你拥有；你送出，不意味你署名</text>
+</svg>
