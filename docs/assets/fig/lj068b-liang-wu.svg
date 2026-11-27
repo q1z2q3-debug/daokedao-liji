@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#25211D" letter-spacing="3">分、时、器：共食三失</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <rect x="60.0" y="112.0" width="180.0" height="150.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="150.0" y="146.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.0" fill="#25211D" letter-spacing="0.4">毋固获</text>
+  <text x="150.0" y="176.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">欲专曰固</text>
+  <text x="150.0" y="198.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">争取曰获</text>
+  <text x="150.0" y="232.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.5" fill="#994433" letter-spacing="0.4">不廉</text>
+  <rect x="290.0" y="112.0" width="180.0" height="150.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="380.0" y="146.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.0" fill="#25211D" letter-spacing="0.4">毋扬饭</text>
+  <text x="380.0" y="176.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">热当待冷</text>
+  <text x="380.0" y="198.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">扬之则为贪快</text>
+  <text x="380.0" y="232.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.5" fill="#994433" letter-spacing="0.4">伤廉</text>
+  <rect x="520.0" y="112.0" width="180.0" height="150.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="610.0" y="146.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11.0" fill="#25211D" letter-spacing="0.4">饭黍毋以箸</text>
+  <text x="610.0" y="176.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">黍黏，箸夹则散</text>
+  <text x="610.0" y="198.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">当用匕</text>
+  <text x="610.0" y="232.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.5" fill="#994433" letter-spacing="0.4">器之宜</text>
+  <text x="150.0" y="282.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.0" fill="#7C6D5C" letter-spacing="0.4">分</text>
+  <text x="380.0" y="282.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.0" fill="#7C6D5C" letter-spacing="0.4">时</text>
+  <text x="610.0" y="282.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.0" fill="#7C6D5C" letter-spacing="0.4">器</text>
+  <text x="60.0" y="322.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">匕：取黍稷之器，非切割之器。</text>
+  <text x="60.0" y="346.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">三条皆系于「廉」：不苟取。</text>
+  <line x1="60.0" y1="444.0" x2="700.0" y2="444.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="468.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="13.0" fill="#25211D" letter-spacing="0.6">结论　共食之礼，既管人的手，也管人的急。</text>
+  <text x="700" y="486" text-anchor="end" font-family="Noto Serif CJK SC" font-size="8" fill="#9A9186" letter-spacing="0.6">图二 · 毋固获</text>
+</svg>

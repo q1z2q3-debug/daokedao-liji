@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <rect width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#25211D" letter-spacing="3">一餐之尾：客彻，主辞</text>
+  <line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+  <rect x="60.0" y="120.0" width="104.0" height="96.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="112.0" y="152.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.0" fill="#25211D" letter-spacing="0.4">卒食</text>
+  <text x="112.0" y="182.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.0" fill="#994433" letter-spacing="0.4">食已</text>
+  <line x1="166.0" y1="168.0" x2="168.0" y2="168.0" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="161.5" y1="165.4" x2="168.0" y2="168.0" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="161.5" y1="170.6" x2="168.0" y2="168.0" stroke="#7C6D5C" stroke-width="0.9"/>
+  <rect x="168.0" y="120.0" width="104.0" height="96.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="220.0" y="152.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.0" fill="#25211D" letter-spacing="0.4">自前跪</text>
+  <text x="220.0" y="182.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.0" fill="#994433" letter-spacing="0.4">北面前跪</text>
+  <line x1="274.0" y1="168.0" x2="276.0" y2="168.0" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="269.5" y1="165.4" x2="276.0" y2="168.0" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="269.5" y1="170.6" x2="276.0" y2="168.0" stroke="#7C6D5C" stroke-width="0.9"/>
+  <rect x="276.0" y="120.0" width="104.0" height="96.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="328.0" y="152.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.0" fill="#25211D" letter-spacing="0.4">彻饭齐</text>
+  <text x="328.0" y="182.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.0" fill="#994433" letter-spacing="0.4">己所食之饭与酱</text>
+  <line x1="382.0" y1="168.0" x2="384.0" y2="168.0" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="377.5" y1="165.4" x2="384.0" y2="168.0" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="377.5" y1="170.6" x2="384.0" y2="168.0" stroke="#7C6D5C" stroke-width="0.9"/>
+  <rect x="384.0" y="120.0" width="104.0" height="96.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="436.0" y="152.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.0" fill="#25211D" letter-spacing="0.4">授相者</text>
+  <text x="436.0" y="182.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.0" fill="#994433" letter-spacing="0.4">主人赞馔者</text>
+  <line x1="490.0" y1="168.0" x2="492.0" y2="168.0" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="485.5" y1="165.4" x2="492.0" y2="168.0" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="485.5" y1="170.6" x2="492.0" y2="168.0" stroke="#7C6D5C" stroke-width="0.9"/>
+  <rect x="492.0" y="120.0" width="104.0" height="96.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="544.0" y="152.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.0" fill="#25211D" letter-spacing="0.4">主人兴辞</text>
+  <text x="544.0" y="182.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.0" fill="#994433" letter-spacing="0.4">不听亲彻</text>
+  <line x1="598.0" y1="168.0" x2="600.0" y2="168.0" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="593.5" y1="165.4" x2="600.0" y2="168.0" stroke="#7C6D5C" stroke-width="0.9"/>
+  <line x1="593.5" y1="170.6" x2="600.0" y2="168.0" stroke="#7C6D5C" stroke-width="0.9"/>
+  <rect x="600.0" y="120.0" width="104.0" height="96.0" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+  <text x="652.0" y="152.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.0" fill="#25211D" letter-spacing="0.4">客复坐</text>
+  <text x="652.0" y="182.0" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.0" fill="#994433" letter-spacing="0.4">止而坐</text>
+  <text x="60.0" y="262.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.5" fill="#25211D" letter-spacing="0.4">饭齐为食主：主人初所亲馈者，客亦以是还之——一还一报，首尾相应。</text>
+  <text x="60.0" y="290.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="9.0" fill="#7C6D5C" letter-spacing="0.4">此是卑者侍食之礼；敌客则否。</text>
+  <line x1="60.0" y1="444.0" x2="700.0" y2="444.0" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80.0" y="468.0" text-anchor="start" font-family="Noto Serif CJK SC" font-size="13.0" fill="#25211D" letter-spacing="0.6">结论　不让客人做到底，也不让客人白做。</text>
+  <text x="700" y="486" text-anchor="end" font-family="Noto Serif CJK SC" font-size="8" fill="#9A9186" letter-spacing="0.6">图二 · 卒食</text>
+</svg>
