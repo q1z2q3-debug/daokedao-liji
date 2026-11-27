@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="#994433"/></marker></defs>
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+<rect x="10" y="10" width="740" height="520" fill="#F7F4EE" stroke="#25211D" stroke-width="1.1"/>
+<rect x="16" y="16" width="728" height="508" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="380" y="52" font-family="Noto Serif CJK SC" font-size="20" fill="#25211D" text-anchor="middle" letter-spacing="3">车止于门，畜止于堂</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+<line x1="320" y1="110" x2="320" y2="420" stroke="#25211D" stroke-width="1.1"/>
+<line x1="296" y1="196" x2="296" y2="296" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="344" y1="196" x2="344" y2="296" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="296" y1="196" x2="344" y2="196" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="320" y="96" font-family="Noto Serif CJK SC" font-size="10" fill="#9A9186" text-anchor="middle">门</text>
+<rect x="120" y="240" width="120" height="56" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<circle cx="150" cy="310" r="14" fill="none" stroke="#7C6D5C"/>
+<circle cx="210" cy="310" r="14" fill="none" stroke="#7C6D5C"/>
+<text x="180" y="222" font-family="Noto Serif CJK SC" font-size="10" fill="#994433" text-anchor="middle">车止于门外</text>
+<rect x="420" y="130" width="220" height="60" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="530" y="166" font-family="Noto Serif CJK SC" font-size="13" fill="#25211D" text-anchor="middle">堂</text>
+<rect x="470" y="218" width="120" height="18" fill="#F7F4EE" stroke="#DCD5C8" stroke-width="1.0"/>
+<rect x="480" y="236" width="100" height="18" fill="#F7F4EE" stroke="#DCD5C8" stroke-width="1.0"/>
+<rect x="490" y="254" width="80" height="18" fill="#F7F4EE" stroke="#DCD5C8" stroke-width="1.0"/>
+<text x="555" y="290" font-family="Noto Serif CJK SC" font-size="10" fill="#9A9186" text-anchor="middle">阶</text>
+<path d="M400,360 q14,-14 28,0 q14,14 28,0" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+<text x="428" y="384" font-family="Noto Serif CJK SC" font-size="10" fill="#7C6D5C" text-anchor="middle">犬</text>
+<path d="M470,360 l10,-22 l8,22 l10,-22 l8,22" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+<text x="500" y="384" font-family="Noto Serif CJK SC" font-size="10" fill="#7C6D5C" text-anchor="middle">马</text>
+<text x="465" y="340" font-family="Noto Serif CJK SC" font-size="10" fill="#994433" text-anchor="middle">畜止于阶下</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#DCD5C8" stroke-width="1.0"/>
+<text x="60" y="468" font-family="Noto Serif CJK SC" font-size="13" fill="#994433" text-anchor="start">结论　车以门为界，畜以堂为界；界先说出，才不失礼</text>
+<text x="700" y="486" font-family="Noto Serif CJK SC" font-size="11" fill="#9A9186" text-anchor="end">图二 · 车止于门，畜止于堂</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="#994433"/></marker></defs>
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+<rect x="10" y="10" width="740" height="520" fill="#F7F4EE" stroke="#25211D" stroke-width="1.1"/>
+<rect x="16" y="16" width="728" height="508" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="380" y="52" font-family="Noto Serif CJK SC" font-size="20" fill="#25211D" text-anchor="middle" letter-spacing="3">向背之间，避嫌与致敬</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+<circle cx="200" cy="190" r="16" fill="none" stroke="#7C6D5C"/>
+<line x1="200" y1="206" x2="200" y2="270" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="200" y1="220" x2="240" y2="240" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="200" y1="232" x2="168" y2="252" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="168" y1="300" x2="240" y2="300" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="204" y="326" font-family="Noto Serif CJK SC" font-size="10" fill="#994433" text-anchor="middle">御妇人 · 进左手，后右手</text>
+<text x="204" y="348" font-family="Noto Serif CJK SC" font-size="10" fill="#9A9186" text-anchor="middle">形微相背，远嫌</text>
+<circle cx="520" cy="190" r="16" fill="none" stroke="#7C6D5C"/>
+<line x1="520" y1="206" x2="520" y2="270" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="520" y1="220" x2="560" y2="240" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="520" y1="232" x2="488" y2="252" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="504" y1="182" x2="536" y2="182" stroke="#994433" stroke-width="1.0"/>
+<line x1="470" y1="300" x2="570" y2="300" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="520" y="326" font-family="Noto Serif CJK SC" font-size="10" fill="#994433" text-anchor="middle">御国君 · 进右手，后左手</text>
+<text x="520" y="348" font-family="Noto Serif CJK SC" font-size="10" fill="#9A9186" text-anchor="middle">相向为敬，俯以代式</text>
+<line x1="380" y1="170" x2="380" y2="300" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="6 5"/>
+<rect x="620" y="330" width="80" height="40" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="630" y1="330" x2="628" y2="370" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="680" y1="330" x2="684" y2="370" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="660" y="392" font-family="Noto Serif CJK SC" font-size="9" fill="#7C6D5C" text-anchor="middle">奇车不正</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#DCD5C8" stroke-width="1.0"/>
+<text x="60" y="468" font-family="Noto Serif CJK SC" font-size="13" fill="#994433" text-anchor="start">结论　同一双手，向背换序，就是避嫌与致敬</text>
+<text x="700" y="486" font-family="Noto Serif CJK SC" font-size="11" fill="#9A9186" text-anchor="end">图二 · 向背之间，避嫌与致敬</text>
+</svg>

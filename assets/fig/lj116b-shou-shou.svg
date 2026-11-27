@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="#994433"/></marker></defs>
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+<rect x="10" y="10" width="740" height="520" fill="#F7F4EE" stroke="#25211D" stroke-width="1.1"/>
+<rect x="16" y="16" width="728" height="508" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="380" y="52" font-family="Noto Serif CJK SC" font-size="20" fill="#25211D" text-anchor="middle" letter-spacing="3">受与不受，皆有其度</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+<line x1="240" y1="120" x2="240" y2="320" stroke="#7C6D5C" stroke-width="1.1"/>
+<text x="240" y="344" font-family="Noto Serif CJK SC" font-size="11" fill="#25211D" text-anchor="middle">降等则受</text>
+<line x1="540" y1="120" x2="540" y2="320" stroke="#7C6D5C" stroke-width="1.1"/>
+<text x="540" y="344" font-family="Noto Serif CJK SC" font-size="11" fill="#25211D" text-anchor="middle">敌体则否</text>
+<line x1="212" y1="286" x2="268" y2="286" stroke="#7C6D5C" stroke-width="1.2"/>
+<text x="200" y="306" font-family="Noto Serif CJK SC" font-size="10" fill="#994433" text-anchor="end">抚其手，小止之</text>
+<line x1="512" y1="300" x2="540" y2="320" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="540" y1="320" x2="568" y2="300" stroke="#7C6D5C" stroke-width="1.1"/>
+<text x="600" y="340" font-family="Noto Serif CJK SC" font-size="10" fill="#994433" text-anchor="start">自下拘之，示不用其授</text>
+<text x="240" y="368" font-family="Noto Serif CJK SC" font-size="10" fill="#9A9186" text-anchor="middle">受而不骄</text>
+<text x="540" y="368" font-family="Noto Serif CJK SC" font-size="10" fill="#9A9186" text-anchor="middle">取而不屈</text>
+<text x="390" y="180" font-family="Noto Serif CJK SC" font-size="13" fill="#25211D" text-anchor="middle">必授人绥</text>
+<text x="390" y="200" font-family="Noto Serif CJK SC" font-size="10" fill="#7C6D5C" text-anchor="middle">御者之本职，不以尊卑废</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#DCD5C8" stroke-width="1.0"/>
+<text x="60" y="468" font-family="Noto Serif CJK SC" font-size="13" fill="#994433" text-anchor="start">结论　一条绥绳，受与不受见位，怎么受见心</text>
+<text x="700" y="486" font-family="Noto Serif CJK SC" font-size="11" fill="#9A9186" text-anchor="end">图二 · 受与不受，皆有其度</text>
+</svg>
