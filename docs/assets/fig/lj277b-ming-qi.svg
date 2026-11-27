@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">不成之器，不死不生</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<rect x="120" y="92" width="230" height="52" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="235" y="124" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">致死之：不仁</text>
+<line x1="326" y1="98" x2="338" y2="110" stroke="#994433" stroke-width="1.2"/>
+<line x1="326" y1="110" x2="338" y2="98" stroke="#994433" stroke-width="1.2"/>
+<rect x="410" y="92" width="230" height="52" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="525" y="124" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">致生之：不知</text>
+<line x1="616" y1="98" x2="628" y2="110" stroke="#994433" stroke-width="1.2"/>
+<line x1="616" y1="110" x2="628" y2="98" stroke="#994433" stroke-width="1.2"/>
+<rect x="110" y="180" width="170" height="54" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="195" y="202" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">竹</text>
+<text x="195" y="222" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">不成用</text>
+<line x1="128" y1="212" x2="228" y2="212" stroke="#994433" stroke-width="1.4"/>
+<line x1="230" y1="212" x2="262" y2="212" stroke="#F7F4EE" stroke-width="3"/>
+<rect x="295" y="180" width="170" height="54" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="380" y="202" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">瓦</text>
+<text x="380" y="222" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">不成味</text>
+<line x1="313" y1="212" x2="413" y2="212" stroke="#DCD5C8" stroke-width="1.0"/>
+<line x1="415" y1="212" x2="447" y2="212" stroke="#F7F4EE" stroke-width="3"/>
+<rect x="480" y="180" width="170" height="54" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="565" y="202" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">木</text>
+<text x="565" y="222" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">不成斫</text>
+<line x1="498" y1="212" x2="598" y2="212" stroke="#DCD5C8" stroke-width="1.0"/>
+<line x1="600" y1="212" x2="632" y2="212" stroke="#F7F4EE" stroke-width="3"/>
+<rect x="110" y="246" width="170" height="54" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="195" y="268" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">琴瑟</text>
+<text x="195" y="288" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">张而不平</text>
+<line x1="128" y1="278" x2="228" y2="278" stroke="#DCD5C8" stroke-width="1.0"/>
+<line x1="230" y1="278" x2="262" y2="278" stroke="#F7F4EE" stroke-width="3"/>
+<rect x="295" y="246" width="170" height="54" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="380" y="268" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">竽笙</text>
+<text x="380" y="288" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">备而不和</text>
+<line x1="313" y1="278" x2="413" y2="278" stroke="#DCD5C8" stroke-width="1.0"/>
+<line x1="415" y1="278" x2="447" y2="278" stroke="#F7F4EE" stroke-width="3"/>
+<rect x="480" y="246" width="170" height="54" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="565" y="268" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">钟磬</text>
+<text x="565" y="288" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">无簨虡</text>
+<line x1="498" y1="278" x2="598" y2="278" stroke="#DCD5C8" stroke-width="1.0"/>
+<line x1="600" y1="278" x2="632" y2="278" stroke="#F7F4EE" stroke-width="3"/>
+<text x="380" y="330" font-size="11" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">有而不成：做一半，停一半</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">不说有知，不说无知，把器停在半成</text>
+</svg>

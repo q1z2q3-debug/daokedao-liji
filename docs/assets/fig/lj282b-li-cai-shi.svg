@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">礼、财、时：三道门槛</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<rect x="130" y="120" width="80" height="180" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="170" y="110" font-size="12" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">礼</text>
+<text x="170" y="228" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">有这一条</text>
+<rect x="330" y="120" width="80" height="180" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="370" y="110" font-size="12" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">财</text>
+<text x="370" y="228" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">办得起</text>
+<rect x="530" y="120" width="80" height="180" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="570" y="110" font-size="12" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">时</text>
+<text x="570" y="228" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">当此时</text>
+<line x1="130" y1="260" x2="610" y2="260" stroke="#994433" stroke-width="1.2"/>
+<line x1="212" y1="190" x2="328" y2="190" stroke="#7C6D5C" stroke-width="1.0" marker-end="url(#ah)"/>
+<line x1="412" y1="190" x2="528" y2="190" stroke="#7C6D5C" stroke-width="1.0" marker-end="url(#ah)"/>
+<line x1="618" y1="190" x2="690" y2="190" stroke="#994433" stroke-width="1.4" marker-end="url(#ah)"/>
+<text x="380" y="340" font-size="11" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">三者备而后行，缺一则弗行</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">礼、财、时，缺一不行</text>
+</svg>
