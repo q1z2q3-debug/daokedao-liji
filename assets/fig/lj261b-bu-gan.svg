@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">不敢过，不敢不至</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<line x1="380" y1="112" x2="380" y2="396" stroke="#DCD5C8" stroke-width="0.8" stroke-dasharray="4,4"/>
+<text x="228" y="126" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">子夏</text>
+<text x="532" y="126" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">子张</text>
+<rect x="130" y="160" width="196" height="6" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="436" y="160" width="196" height="6" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<path d="M150,172 C168,190 176,206 158,224 C144,240 164,258 150,278" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+<path d="M210,176 C228,194 236,212 218,230 C204,246 224,264 210,284" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+<path d="M270,170 C288,188 296,208 278,226 C264,242 284,260 270,280" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="450" y1="172" x2="450" y2="280" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="510" y1="172" x2="510" y2="280" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="570" y1="172" x2="570" y2="280" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="228" y="308" font-size="10" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">和之不和·弹不成声</text>
+<text x="532" y="308" font-size="10" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">和之而和·弹而成声</text>
+<text x="228" y="344" font-size="12" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">不敢过</text>
+<text x="532" y="344" font-size="12" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">不敢不至</text>
+<text x="380" y="382" font-size="11" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">礼是一段，不是一点</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">情异而礼同，各以其情合于礼</text>
+</svg>
