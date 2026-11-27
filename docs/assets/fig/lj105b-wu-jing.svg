@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="#994433"/></marker></defs>
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+<rect x="10" y="10" width="740" height="520" fill="#F7F4EE" stroke="#25211D" stroke-width="1.1"/>
+<rect x="16" y="16" width="728" height="508" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="380" y="52" font-family="Noto Serif CJK SC" font-size="20" fill="#25211D" text-anchor="middle" letter-spacing="3">以象代言，以天定阵</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+<rect x="80" y="102" width="42" height="36" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<path d="M88,118 q8,-10 14,0 q8,10 14,0" fill="none" stroke="#25211D" stroke-width="1.2"/>
+<text x="134" y="124" font-family="Noto Serif CJK SC" font-size="11" fill="#7C6D5C" text-anchor="start">示有水 · 青旌</text>
+<rect x="80" y="164" width="42" height="36" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<path d="M86,184 q12,-12 26,0" fill="none" stroke="#25211D" stroke-width="1.2"/>
+<circle cx="112" cy="176" r="2" fill="#25211D"/>
+<text x="134" y="186" font-family="Noto Serif CJK SC" font-size="11" fill="#7C6D5C" text-anchor="start">示有尘埃 · 鸣鸢</text>
+<rect x="80" y="226" width="42" height="36" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="88" y1="236" x2="116" y2="236" stroke="#9A9186" stroke-width="1.0"/>
+<line x1="88" y1="242" x2="116" y2="242" stroke="#9A9186" stroke-width="1.0"/>
+<line x1="88" y1="248" x2="116" y2="248" stroke="#9A9186" stroke-width="1.0"/>
+<text x="134" y="248" font-family="Noto Serif CJK SC" font-size="11" fill="#7C6D5C" text-anchor="start">示有车骑 · 飞鸿</text>
+<rect x="80" y="288" width="42" height="36" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="86" y1="294" x2="86" y2="318" stroke="#9A9186" stroke-width="1.0"/>
+<line x1="95" y1="294" x2="95" y2="318" stroke="#9A9186" stroke-width="1.0"/>
+<line x1="104" y1="294" x2="104" y2="318" stroke="#9A9186" stroke-width="1.0"/>
+<line x1="113" y1="294" x2="113" y2="318" stroke="#9A9186" stroke-width="1.0"/>
+<text x="134" y="310" font-family="Noto Serif CJK SC" font-size="11" fill="#7C6D5C" text-anchor="start">示有兵众 · 虎皮</text>
+<rect x="80" y="350" width="42" height="36" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<path d="M88,368 l10,-12 l10,12 M108,368 l10,-12 l10,12" fill="none" stroke="#25211D" stroke-width="1.1"/>
+<text x="134" y="372" font-family="Noto Serif CJK SC" font-size="11" fill="#7C6D5C" text-anchor="start">示有挚兽 · 貔貅</text>
+<rect x="390" y="110" width="300" height="300" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="540" y="138" font-family="Noto Serif CJK SC" font-size="12" fill="#25211D" text-anchor="middle">前 · 朱鸟</text>
+<text x="540" y="404" font-family="Noto Serif CJK SC" font-size="12" fill="#25211D" text-anchor="middle">后 · 玄武</text>
+<text x="404" y="264" font-family="Noto Serif CJK SC" font-size="11" fill="#7C6D5C" text-anchor="start">左 · 青龙</text>
+<text x="676" y="264" font-family="Noto Serif CJK SC" font-size="11" fill="#7C6D5C" text-anchor="end">右 · 白虎</text>
+<circle cx="540" cy="230" r="3" fill="#25211D"/>
+<circle cx="556" cy="240" r="3" fill="#25211D"/>
+<circle cx="572" cy="250" r="3" fill="#25211D"/>
+<circle cx="548" cy="262" r="3" fill="#25211D"/>
+<circle cx="560" cy="276" r="3" fill="#25211D"/>
+<circle cx="576" cy="270" r="3" fill="#25211D"/>
+<circle cx="588" cy="258" r="3" fill="#994433"/>
+<text x="540" y="312" font-family="Noto Serif CJK SC" font-size="12" fill="#994433" text-anchor="middle">招摇在上</text>
+<text x="540" y="332" font-family="Noto Serif CJK SC" font-size="11" fill="#7C6D5C" text-anchor="middle">北斗指方，阵不差</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#DCD5C8" stroke-width="1.0"/>
+<text x="60" y="468" font-family="Noto Serif CJK SC" font-size="13" fill="#994433" text-anchor="start">结论　旗以类象传令，阵以星象定位</text>
+<text x="700" y="486" font-family="Noto Serif CJK SC" font-size="11" fill="#9A9186" text-anchor="end">图二 · 以象代言，以天定阵</text>
+</svg>

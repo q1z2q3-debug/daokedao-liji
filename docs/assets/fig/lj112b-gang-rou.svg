@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="#994433"/></marker></defs>
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+<rect x="10" y="10" width="740" height="520" fill="#F7F4EE" stroke="#25211D" stroke-width="1.1"/>
+<rect x="16" y="16" width="728" height="508" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="380" y="52" font-family="Noto Serif CJK SC" font-size="20" fill="#25211D" text-anchor="middle" letter-spacing="3">日有刚柔，事有先后</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+<line x1="120" y1="250" x2="640" y2="250" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="120" y1="250" x2="120" y2="232" stroke="#994433" stroke-width="1.4"/>
+<line x1="172" y1="250" x2="172" y2="241" stroke="#9A9186" stroke-width="1.0"/>
+<line x1="224" y1="250" x2="224" y2="232" stroke="#994433" stroke-width="1.4"/>
+<line x1="276" y1="250" x2="276" y2="241" stroke="#9A9186" stroke-width="1.0"/>
+<line x1="328" y1="250" x2="328" y2="232" stroke="#994433" stroke-width="1.4"/>
+<line x1="380" y1="250" x2="380" y2="241" stroke="#9A9186" stroke-width="1.0"/>
+<line x1="432" y1="250" x2="432" y2="232" stroke="#994433" stroke-width="1.4"/>
+<line x1="484" y1="250" x2="484" y2="241" stroke="#9A9186" stroke-width="1.0"/>
+<line x1="536" y1="250" x2="536" y2="232" stroke="#994433" stroke-width="1.4"/>
+<line x1="588" y1="250" x2="588" y2="241" stroke="#9A9186" stroke-width="1.0"/>
+<text x="120" y="282" font-family="Noto Serif CJK SC" font-size="10" fill="#7C6D5C" text-anchor="middle">甲</text>
+<text x="172" y="282" font-family="Noto Serif CJK SC" font-size="10" fill="#9A9186" text-anchor="middle">乙</text>
+<text x="224" y="282" font-family="Noto Serif CJK SC" font-size="10" fill="#7C6D5C" text-anchor="middle">丙</text>
+<text x="276" y="282" font-family="Noto Serif CJK SC" font-size="10" fill="#9A9186" text-anchor="middle">丁</text>
+<text x="328" y="282" font-family="Noto Serif CJK SC" font-size="10" fill="#7C6D5C" text-anchor="middle">戊</text>
+<text x="380" y="282" font-family="Noto Serif CJK SC" font-size="10" fill="#9A9186" text-anchor="middle">己</text>
+<text x="432" y="282" font-family="Noto Serif CJK SC" font-size="10" fill="#7C6D5C" text-anchor="middle">庚</text>
+<text x="484" y="282" font-family="Noto Serif CJK SC" font-size="10" fill="#9A9186" text-anchor="middle">辛</text>
+<text x="536" y="282" font-family="Noto Serif CJK SC" font-size="10" fill="#7C6D5C" text-anchor="middle">壬</text>
+<text x="588" y="282" font-family="Noto Serif CJK SC" font-size="10" fill="#9A9186" text-anchor="middle">癸</text>
+<line x1="620" y1="206" x2="140" y2="206" stroke="#994433" stroke-width="1.2" marker-end="url(#ah)"/>
+<text x="380" y="192" font-family="Noto Serif CJK SC" font-size="11" fill="#994433" text-anchor="middle">丧事 · 先远日（不忍速）</text>
+<line x1="140" y1="320" x2="620" y2="320" stroke="#994433" stroke-width="1.2" marker-end="url(#ah)"/>
+<text x="380" y="338" font-family="Noto Serif CJK SC" font-size="11" fill="#994433" text-anchor="middle">吉事 · 先近日（欲速成）</text>
+<text x="150" y="376" font-family="Noto Serif CJK SC" font-size="12" fill="#25211D" text-anchor="start">外事用刚（奇日）</text>
+<text x="470" y="376" font-family="Noto Serif CJK SC" font-size="12" fill="#25211D" text-anchor="start">内事用柔（偶日）</text>
+<text x="380" y="404" font-family="Noto Serif CJK SC" font-size="10" fill="#9A9186" text-anchor="middle">郊用辛、社用甲，尊者不受此限</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#DCD5C8" stroke-width="1.0"/>
+<text x="60" y="468" font-family="Noto Serif CJK SC" font-size="13" fill="#994433" text-anchor="start">结论　同一颗心，丧向远，吉向近</text>
+<text x="700" y="486" font-family="Noto Serif CJK SC" font-size="11" fill="#9A9186" text-anchor="end">图二 · 日有刚柔，事有先后</text>
+</svg>

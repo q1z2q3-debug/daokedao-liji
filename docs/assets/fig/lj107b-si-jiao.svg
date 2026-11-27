@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="#994433"/></marker></defs>
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+<rect x="10" y="10" width="740" height="520" fill="#F7F4EE" stroke="#25211D" stroke-width="1.1"/>
+<rect x="16" y="16" width="728" height="508" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="380" y="52" font-family="Noto Serif CJK SC" font-size="20" fill="#25211D" text-anchor="middle" letter-spacing="3">垒与荒，辱归任事者</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+<rect x="300" y="200" width="120" height="120" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="360" y="266" font-family="Noto Serif CJK SC" font-size="12" fill="#9A9186" text-anchor="middle">城</text>
+<rect x="300" y="158" width="120" height="18" fill="#F7F4EE" stroke="#994433" stroke-width="1.0"/>
+<line x1="304" y1="167.0" x2="416" y2="167.0" stroke="#DCD5C8" stroke-width="0.8"/>
+<rect x="300" y="342" width="120" height="18" fill="#F7F4EE" stroke="#994433" stroke-width="1.0"/>
+<line x1="304" y1="351.0" x2="416" y2="351.0" stroke="#DCD5C8" stroke-width="0.8"/>
+<rect x="248" y="200" width="18" height="120" fill="#F7F4EE" stroke="#994433" stroke-width="1.0"/>
+<line x1="252" y1="260.0" x2="262" y2="260.0" stroke="#DCD5C8" stroke-width="0.8"/>
+<rect x="422" y="200" width="18" height="120" fill="#F7F4EE" stroke="#994433" stroke-width="1.0"/>
+<line x1="426" y1="260.0" x2="436" y2="260.0" stroke="#DCD5C8" stroke-width="0.8"/>
+<line x1="360" y1="176" x2="360" y2="260" stroke="#DCD5C8" stroke-width="0.8" stroke-dasharray="4 4"/>
+<line x1="360" y1="340" x2="360" y2="260" stroke="#DCD5C8" stroke-width="0.8" stroke-dasharray="4 4"/>
+<line x1="266" y1="260" x2="360" y2="260" stroke="#DCD5C8" stroke-width="0.8" stroke-dasharray="4 4"/>
+<line x1="440" y1="260" x2="360" y2="260" stroke="#DCD5C8" stroke-width="0.8" stroke-dasharray="4 4"/>
+<text x="360" y="136" font-family="Noto Serif CJK SC" font-size="13" fill="#25211D" text-anchor="middle">四郊多垒</text>
+<text x="360" y="154" font-family="Noto Serif CJK SC" font-size="10" fill="#7C6D5C" text-anchor="middle">垒，军壁；数见侵伐则多垒</text>
+<text x="360" y="388" font-family="Noto Serif CJK SC" font-size="11" fill="#994433" text-anchor="middle">卿大夫之辱：谋人之国而不能安</text>
+<rect x="520" y="286" width="150" height="96" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="532" y1="300" x2="600" y2="300" stroke="#9A9186" stroke-width="0.9"/>
+<line x1="612" y1="300" x2="660" y2="300" stroke="#9A9186" stroke-width="0.9" stroke-dasharray="3 3"/>
+<line x1="532" y1="322" x2="600" y2="322" stroke="#9A9186" stroke-width="0.9"/>
+<line x1="612" y1="322" x2="660" y2="322" stroke="#9A9186" stroke-width="0.9" stroke-dasharray="3 3"/>
+<line x1="532" y1="344" x2="600" y2="344" stroke="#9A9186" stroke-width="0.9"/>
+<line x1="612" y1="344" x2="660" y2="344" stroke="#9A9186" stroke-width="0.9" stroke-dasharray="3 3"/>
+<line x1="532" y1="366" x2="600" y2="366" stroke="#9A9186" stroke-width="0.9"/>
+<line x1="612" y1="366" x2="660" y2="366" stroke="#9A9186" stroke-width="0.9" stroke-dasharray="3 3"/>
+<text x="595" y="404" font-family="Noto Serif CJK SC" font-size="11" fill="#994433" text-anchor="middle">荒而不治 · 士之辱</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#DCD5C8" stroke-width="1.0"/>
+<text x="60" y="468" font-family="Noto Serif CJK SC" font-size="13" fill="#994433" text-anchor="start">结论　耻辱不落受害者，落任其事者</text>
+<text x="700" y="486" font-family="Noto Serif CJK SC" font-size="11" fill="#9A9186" text-anchor="end">图二 · 垒与荒，辱归任事者</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="#994433"/></marker></defs>
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+<rect x="10" y="10" width="740" height="520" fill="#F7F4EE" stroke="#25211D" stroke-width="1.1"/>
+<rect x="16" y="16" width="728" height="508" fill="#F7F4EE" stroke="#DCD5C8"/>
+<text x="380" y="52" font-family="Noto Serif CJK SC" font-size="20" fill="#25211D" text-anchor="middle" letter-spacing="3">仇有半径，处置有等差</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1"/>
+<circle cx="280" cy="258" r="156" fill="none" stroke="#9A9186" stroke-width="1.0"/>
+<circle cx="280" cy="258" r="96" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+<circle cx="280" cy="258" r="36" fill="none" stroke="#994433" stroke-width="1.2"/>
+<path d="M256,246 a12,12 0 1,1 24,0" fill="none" stroke="#994433" stroke-width="1.2"/>
+<text x="280" y="282" font-family="Noto Serif CJK SC" font-size="13" fill="#994433" text-anchor="middle">父</text>
+<text x="280" y="202" font-family="Noto Serif CJK SC" font-size="11" fill="#7C6D5C" text-anchor="middle">兄弟 · 不反兵</text>
+<text x="280" y="130" font-family="Noto Serif CJK SC" font-size="11" fill="#7C6D5C" text-anchor="middle">交游 · 不同国</text>
+<text x="280" y="408" font-family="Noto Serif CJK SC" font-size="10" fill="#9A9186" text-anchor="middle">天下</text>
+<text x="470" y="170" font-family="Noto Serif CJK SC" font-size="11" fill="#9A9186" text-anchor="start">一</text>
+<text x="492" y="170" font-family="Noto Serif CJK SC" font-size="13" fill="#25211D" text-anchor="start">父之雠</text>
+<text x="492" y="192" font-family="Noto Serif CJK SC" font-size="11" fill="#7C6D5C" text-anchor="start">弗与共戴天</text>
+<text x="470" y="250" font-family="Noto Serif CJK SC" font-size="11" fill="#9A9186" text-anchor="start">二</text>
+<text x="492" y="250" font-family="Noto Serif CJK SC" font-size="13" fill="#25211D" text-anchor="start">兄弟之雠</text>
+<text x="492" y="272" font-family="Noto Serif CJK SC" font-size="11" fill="#7C6D5C" text-anchor="start">恒执杀之备</text>
+<text x="470" y="330" font-family="Noto Serif CJK SC" font-size="11" fill="#9A9186" text-anchor="start">三</text>
+<text x="492" y="330" font-family="Noto Serif CJK SC" font-size="13" fill="#25211D" text-anchor="start">交游之雠</text>
+<text x="492" y="352" font-family="Noto Serif CJK SC" font-size="11" fill="#7C6D5C" text-anchor="start">不共一国，尚可共天下</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#DCD5C8" stroke-width="1.0"/>
+<text x="60" y="468" font-family="Noto Serif CJK SC" font-size="13" fill="#994433" text-anchor="start">结论　亲疏定半径，半径定处置的余地</text>
+<text x="700" y="486" font-family="Noto Serif CJK SC" font-size="11" fill="#9A9186" text-anchor="end">图二 · 仇有半径，处置有等差</text>
+</svg>
