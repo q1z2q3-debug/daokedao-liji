@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540"><rect width="760" height="540" fill="#F7F4EE"/><rect x="10" y="10" width="740" height="520" fill="none" stroke="#994433" stroke-width="1.2"/><rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.5"/><text x="380" y="52" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" font-size="20" fill="#25211D" text-anchor="middle" letter-spacing="3">罚的不是错，是临时</text><line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/><line x1="110" y1="380" x2="660" y2="380" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="110" y1="150" x2="660" y2="150" stroke="#DCD5C8" stroke-width="0.8" stroke-dasharray="5 5"/>
+<text x="380" y="138" font-size="9" fill="#9A9186" text-anchor="middle">君位</text>
+<line x1="200" y1="236" x2="200" y2="340" stroke="#7C6D5C" stroke-width="1"/>
+<line x1="218" y1="244" x2="218" y2="340" stroke="#7C6D5C" stroke-width="1"/>
+<line x1="236" y1="252" x2="236" y2="340" stroke="#7C6D5C" stroke-width="1"/>
+<line x1="254" y1="236" x2="254" y2="340" stroke="#7C6D5C" stroke-width="1"/>
+<line x1="272" y1="244" x2="272" y2="340" stroke="#7C6D5C" stroke-width="1"/>
+<line x1="290" y1="252" x2="290" y2="340" stroke="#7C6D5C" stroke-width="1"/>
+<path d="M196,236 q60,-10 120,4" fill="none" stroke="#9A9186" stroke-width="0.9"/>
+<circle cx="214" cy="228" r="1.2" fill="#9A9186"/>
+<circle cx="236" cy="222" r="1.2" fill="#9A9186"/>
+<circle cx="258" cy="228" r="1.2" fill="#9A9186"/>
+<circle cx="280" cy="222" r="1.2" fill="#9A9186"/>
+<circle cx="302" cy="228" r="1.2" fill="#9A9186"/>
+<text x="258" y="214" font-size="9.5" fill="#9A9186" text-anchor="middle">边角未理，尘未去</text>
+<path d="M480,300 q40,-4 80,0 q-40,10 -80,0" fill="none" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="500" y1="290" x2="500" y2="320" stroke="#9A9186" stroke-width="0.8"/>
+<text x="520" y="336" font-size="9.5" fill="#9A9186" text-anchor="middle">龟甲反侧</text>
+<path d="M620,320 q22,-14 44,0" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="640" y1="320" x2="646" y2="300" stroke="#994433" stroke-width="1"/>
+<line x1="620" y1="320" x2="650" y2="296" stroke="#994433" stroke-width="0.9" stroke-dasharray="3 4"/>
+<text x="640" y="344" font-size="9.5" fill="#994433" text-anchor="middle">临时始正</text>
+<text x="200" y="400" font-size="10" fill="#7C6D5C" text-anchor="start">振书、端书、倒策、侧龟</text><line x1="70" y1="444" x2="690" y2="444" stroke="#DCD5C8" stroke-width="1.0"/><text x="70" y="468" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" font-size="13" fill="#994433">结论　罚的不是错，是临时——敬在君未见之前</text><text x="690" y="486" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" font-size="11" fill="#9A9186" text-anchor="end">图二 · 罚的不是错，是临时</text></svg>

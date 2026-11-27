@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540"><rect width="760" height="540" fill="#F7F4EE"/><rect x="10" y="10" width="740" height="520" fill="none" stroke="#994433" stroke-width="1.2"/><rect x="16" y="16" width="728" height="508" fill="none" stroke="#DCD5C8" stroke-width="0.5"/><text x="380" y="52" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" font-size="20" fill="#25211D" text-anchor="middle" letter-spacing="3">三段丧期，三段读本</text><line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/><line x1="90" y1="320" x2="690" y2="320" stroke="#7C6D5C" stroke-width="1"/>
+<rect x="154" y="212" width="52" height="88" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+<line x1="164" y1="224" x2="196" y2="224" stroke="#9A9186" stroke-width="0.8"/>
+<line x1="164" y1="240" x2="196" y2="240" stroke="#9A9186" stroke-width="0.8"/>
+<line x1="180" y1="300" x2="180" y2="320" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="180" y="344" font-size="10" fill="#25211D" text-anchor="middle">未葬</text>
+<rect x="354" y="226" width="52" height="74" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+<line x1="364" y1="238" x2="396" y2="238" stroke="#9A9186" stroke-width="0.8"/>
+<line x1="364" y1="254" x2="396" y2="254" stroke="#9A9186" stroke-width="0.8"/>
+<line x1="380" y1="300" x2="380" y2="320" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="344" font-size="10" fill="#25211D" text-anchor="middle">既葬</text>
+<rect x="554" y="240" width="52" height="60" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1"/>
+<line x1="564" y1="252" x2="596" y2="252" stroke="#9A9186" stroke-width="0.8"/>
+<line x1="564" y1="268" x2="596" y2="268" stroke="#9A9186" stroke-width="0.8"/>
+<line x1="580" y1="300" x2="580" y2="320" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="580" y="344" font-size="10" fill="#25211D" text-anchor="middle">复常</text>
+<text x="180" y="366" font-size="10" fill="#7C6D5C" text-anchor="middle">读丧礼</text>
+<text x="380" y="366" font-size="10" fill="#7C6D5C" text-anchor="middle">读祭礼</text>
+<text x="580" y="366" font-size="10" fill="#994433" text-anchor="middle">读乐章</text>
+<circle cx="252" cy="250" r="10" fill="none" stroke="#9A9186" stroke-width="0.8"/>
+<text x="252" y="274" font-size="9" fill="#9A9186" text-anchor="middle">奠</text>
+<rect x="452" y="240" width="26" height="18" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.8"/>
+<line x1="452" y1="246" x2="478" y2="246" stroke="#9A9186" stroke-width="0.7"/>
+<text x="465" y="274" font-size="9" fill="#9A9186" text-anchor="middle">俎</text>
+<path d="M640,236 l0,22 M640,236 l-8,22 M640,236 l8,22" fill="none" stroke="#9A9186" stroke-width="0.8"/>
+<text x="646" y="274" font-size="9" fill="#9A9186" text-anchor="middle">钟</text>
+<text x="380" y="400" font-size="10" fill="#7C6D5C" text-anchor="middle">事须预习，故皆许读之</text><line x1="70" y1="444" x2="690" y2="444" stroke="#DCD5C8" stroke-width="1.0"/><text x="70" y="468" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" font-size="13" fill="#994433">结论　书不越时：什么时候读什么，也是礼</text><text x="690" y="486" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" font-size="11" fill="#9A9186" text-anchor="end">图二 · 三段丧期，三段读本</text></svg>
