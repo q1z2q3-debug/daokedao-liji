@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">吊之时：殷吊于圹，周吊于反哭</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<text x="120" y="170" font-size="11" fill="#25211D" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">殷</text>
+<line x1="160" y1="182" x2="660" y2="182" stroke="#7C6D5C" stroke-width="1.3"/>
+<rect x="200" y="168" width="46" height="28" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<text x="223" y="214" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">圹</text>
+<line x1="246" y1="182" x2="246" y2="154" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="246" y1="154" x2="306" y2="154" stroke="#7C6D5C" stroke-width="1.1"/>
+<text x="306" y="148" font-size="9" fill="#7C6D5C" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">吊者至</text>
+<text x="120" y="300" font-size="11" fill="#25211D" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">周</text>
+<line x1="160" y1="312" x2="660" y2="312" stroke="#7C6D5C" stroke-width="1.3"/>
+<line x1="520" y1="288" x2="520" y2="336" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="520" y1="288" x2="566" y2="288" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="566" y1="288" x2="566" y2="336" stroke="#7C6D5C" stroke-width="1.1"/>
+<text x="543" y="356" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">庙</text>
+<line x1="566" y1="312" x2="620" y2="312" stroke="#994433" stroke-width="1.3"/>
+<text x="620" y="300" font-size="9" fill="#994433" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">反哭</text>
+<text x="380" y="402" font-size="10" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">哀的极处不在事最忙时，在事做完之后</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">悫者得哀之始，未见其甚</text>
+</svg>

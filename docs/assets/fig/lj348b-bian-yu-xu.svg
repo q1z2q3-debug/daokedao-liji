@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">周弁殷冔：名异而义同</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<line x1="180" y1="330" x2="580" y2="330" stroke="#7C6D5C" stroke-width="1.3"/>
+<path d="M240,330 L240,238 Q240,196 280,196 Q320,196 320,238 L320,330" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.3"/>
+<text x="280" y="358" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">周弁</text>
+<text x="280" y="378" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">窄而高</text>
+<path d="M420,330 L406,244 Q404,206 470,200 Q542,196 546,240 L556,330" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.3"/>
+<line x1="412" y1="258" x2="550" y2="254" stroke="#9A9186" stroke-width="1.0"/>
+<text x="482" y="358" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">殷冔</text>
+<text x="482" y="378" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">宽而低</text>
+<text x="380" y="208" font-size="10" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">俱象祭冠</text>
+<text x="380" y="412" font-size="10" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">名不同，义相同：都把祭冠戴到葬时</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">素礼同</text>
+</svg>
