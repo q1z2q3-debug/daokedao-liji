@@ -7,7 +7,7 @@ from figkit import Fig, P, INK, OCH, BR, LINE, LG
 OUT = "/home/user/Doubao/chats/38456306325807874/daokedao-liji/assets/fig"
 
 # ---------- 324 白之渐 ----------
-f = Fig("白之渐：哀杀有渐", "lj324b-bai-zhi-jian")
+f = Fig("白之渐：哀杀有渐", "lj324b-bai-zhi-jian-v2")
 for i, (x, fill, nm, sb) in enumerate([
         (110, "#E2DACC", "练", "小祥"), (250, "#EFE8DC", "缟", "大祥"),
         (390, "#FAF7F0", "素", "禫")]):
@@ -28,7 +28,7 @@ f.concl("哀杀有渐，是以乐亦随之")
 f.save(OUT)
 
 # ---------- 325 赐与职供 ----------
-f = Fig("赐与职供：分与恩", "lj325b-ci-yu-zhi-gong")
+f = Fig("赐与职供：分与恩", "lj325b-ci-yu-zhi-gong-v2")
 f.line(200, 132, 560, 132, BR, 1.2)
 for x in (300, 460):
     f.line(x, 132, x, 156, BR, 0.9, "4,3")
@@ -51,7 +51,7 @@ f.concl("制之尽处，恩之起处")
 f.save(OUT)
 
 # ---------- 326 遣车之数 ----------
-f = Fig("遣车之数：降杀以两", "lj326b-qian-che-shu")
+f = Fig("遣车之数：降杀以两", "lj326b-qian-che-shu-v2")
 f.t(120, 112, "成人五　长殇三　下殇一", 10, LG, 'start')
 for i, x in enumerate([124, 194, 264]):
     f.line(x, 120, x, 140, BR, 1.1)
@@ -90,7 +90,7 @@ f.concl("父母而宾客之，所以为哀")
 f.save(OUT)
 
 # ---------- 327 达与不达 ----------
-f = Fig("达与不达：杖与不杖", "lj327b-da-yu-bu-da")
+f = Fig("达与不达：杖与不杖", "lj327b-da-yu-bu-da-v2")
 f.t(250, 132, "达官之长", 11, BR)
 f.t(560, 132, "府史之属", 11, BR)
 for i, x in enumerate([200, 250, 300]):
@@ -117,7 +117,7 @@ f.concl("达者服斩，不达者齐衰三月")
 f.save(OUT)
 
 # ---------- 328 三步则止 ----------
-f = Fig("三步则止：三命凡九步", "lj328b-san-bu-ze-zhi")
+f = Fig("三步则止：三命凡九步", "lj328b-san-bu-ze-zhi-v2")
 f.line(110, 268, 660, 268, BR, 1.6)
 for i in range(9):
     x = 110 + i * 62
@@ -142,7 +142,7 @@ f.concl("不让情一次断尽：走三步，停一停")
 f.save(OUT)
 
 # ---------- 329 不越疆 ----------
-f = Fig("五十无车：不越疆", "lj329b-bu-yue-jiang")
+f = Fig("五十无车：不越疆", "lj329b-bu-yue-jiang-v2")
 f.line(380, 150, 380, 246, BR, 1.6)
 f.line(380, 286, 380, 400, BR, 1.6)
 f.rect(366, 246, 28, 40, OCH, P, 1.2)
@@ -165,7 +165,7 @@ f.concl("不许，是礼替你挡了一次人情")
 f.save(OUT)
 
 # ---------- 330 门与道 ----------
-f = Fig("门与道：守礼于势前", "lj330b-men-yu-dao")
+f = Fig("门与道：守礼于势前", "lj330b-men-yu-dao-v2")
 f.rect(270, 156, 220, 10, BR, P, 1.0)
 f.line(280, 166, 280, 330, BR, 1.6)
 f.line(480, 166, 480, 330, BR, 1.6)
@@ -186,7 +186,7 @@ f.concl("礼取照礼而行，不取佯善")
 f.save(OUT)
 
 # ---------- 331 辞而后延 ----------
-f = Fig("辞而后延：哀乐不同日", "lj331b-ci-yan-hou-yan")
+f = Fig("辞而后延：哀乐不同日", "lj331b-ci-yan-hou-yan-v2")
 f.line(210, 156, 210, 340, BR, 1.6)
 f.path("M214,162 L250,172 L250,330 L214,330", BR, P, 0.9)
 f.rect(230, 200, 150, 130, BR, P, 1.0)
@@ -209,7 +209,7 @@ f.concl("君子哀乐不同日")
 f.save(OUT)
 
 # ---------- 332 主位语入 ----------
-f = Fig("主·位·语·入", "lj332b-wei-yu-zhu")
+f = Fig("主·位·语·入", "lj332b-wei-yu-zhu-v2")
 f.rect(150, 176, 400, 170, BR, P, 1.2)
 f.line(150, 196, 550, 196, BR, 0.9)
 f.t(234, 236, "东阶", 9, LG)
@@ -231,7 +231,7 @@ f.concl("门不能对所有人开：狎乃入")
 f.save(OUT)
 
 # ---------- 333 哭与吊 ----------
-f = Fig("哭与吊：先正名", "lj333b-ku-yu-diao")
+f = Fig("哭与吊：先正名", "lj333b-ku-yu-diao-v2")
 f.rect(150, 190, 110, 120, BR, P, 1.2)
 f.rect(172, 176, 66, 16, BR, P, 1.0)
 f.line(150, 232, 260, 232, LG, 1.0)
