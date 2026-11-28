@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">复：望反诸幽</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<path d="M110,300 L380,176 L650,300" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.4"/>
+<line x1="110" y1="300" x2="650" y2="300" stroke="#7C6D5C" stroke-width="1.2"/>
+<circle cx="380" cy="148" r="4" fill="#25211D"/>
+<line x1="380" y1="152" x2="380" y2="196" stroke="#7C6D5C" stroke-width="1.2"/>
+<path d="M362,196 L398,196 L404,232 L356,232 Z" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="380" y1="132" x2="380" y2="112" stroke="#994433" stroke-width="1.1" marker-end="url(#ah)"/>
+<text x="406" y="124" font-size="9" fill="#994433" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">北面</text>
+<rect x="298" y="318" width="104" height="40" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.9"/>
+<line x1="298" y1="336" x2="402" y2="336" stroke="#9A9186" stroke-width="0.8"/>
+<line x1="298" y1="348" x2="402" y2="348" stroke="#9A9186" stroke-width="0.8"/>
+<text x="350" y="380" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">衣</text>
+<text x="170" y="352" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">院地</text>
+<text x="380" y="420" font-size="10" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">明知不可复，而仍复：不为成事，只为尽</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">庶几其精气之反</text>
+</svg>

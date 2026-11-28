@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">穀当作告：名分之链</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<rect x="120" y="210" width="16" height="120" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.2"/>
+<rect x="196" y="210" width="16" height="120" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.2"/>
+<rect x="120" y="204" width="92" height="8" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="166" y="350" font-size="12" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">鲁</text>
+<rect x="580" y="230" width="14" height="100" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="636" y="230" width="14" height="100" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="580" y="224" width="70" height="8" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.9"/>
+<text x="615" y="350" font-size="12" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">齐</text>
+<line x1="216" y1="270" x2="580" y2="270" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="300" y1="260" x2="300" y2="280" stroke="#994433" stroke-width="1.2"/>
+<line x1="400" y1="260" x2="400" y2="280" stroke="#994433" stroke-width="1.2"/>
+<line x1="500" y1="260" x2="500" y2="280" stroke="#994433" stroke-width="1.2"/>
+<text x="300" y="250" font-size="9" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">由鲁嫁</text>
+<text x="400" y="250" font-size="9" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">比内女</text>
+<text x="500" y="250" font-size="9" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">姊妹服</text>
+<circle cx="300" cy="296" r="2" fill="#994433"/>
+<circle cx="400" cy="296" r="2" fill="#7C6D5C"/>
+<circle cx="500" cy="296" r="2" fill="#7C6D5C"/>
+<text x="380" y="300" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">周女·王姬</text>
+<rect x="150" y="154" width="90" height="34" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.9"/>
+<text x="195" y="176" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">穀 → 告</text>
+<text x="195" y="144" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">声之误</text>
+<text x="380" y="386" font-size="10" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">服不生于情，生于名：一环不缺，服乃成立</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">舅之妻非外祖母，外祖母又小功</text>
+</svg>

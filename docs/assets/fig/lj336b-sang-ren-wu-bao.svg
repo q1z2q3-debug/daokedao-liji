@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">丧人无宝：箧空而路远</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<line x1="140" y1="300" x2="260" y2="300" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="140" y1="300" x2="140" y2="386" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="260" y1="300" x2="260" y2="386" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="140" y1="386" x2="260" y2="386" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="140" y1="300" x2="168" y2="274" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="260" y1="300" x2="232" y2="274" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="168" y1="274" x2="232" y2="274" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="200" y="344" font-size="12" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">箧</text>
+<text x="200" y="416" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">空无一物</text>
+<circle cx="150" cy="246" r="4" fill="#25211D"/>
+<line x1="150" y1="250" x2="150" y2="292" stroke="#7C6D5C" stroke-width="1.1"/>
+<path d="M560,140 L470,196 L420,232" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0" stroke-dasharray="6,4"/>
+<line x1="430" y1="226" x2="400" y2="246" stroke="#7C6D5C" stroke-width="1.1" marker-end="url(#ah)"/>
+<rect x="540" y="150" width="66" height="26" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.9"/>
+<circle cx="552" cy="184" r="6" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+<circle cx="596" cy="184" r="6" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+<text x="600" y="210" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">自外来之车</text>
+<text x="380" y="448" font-size="10" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">父死之谓何？又因以为利，而天下其孰能说之</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">流亡者只剩一宝：行仁义于亲</text>
+</svg>
