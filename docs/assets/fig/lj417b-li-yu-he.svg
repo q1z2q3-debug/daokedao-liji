@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">一离一合，孔子取合</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<rect x="96" y="190" width="220" height="120" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.2"/>
+<rect x="120" y="214" width="76" height="72" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="216" y="214" width="76" height="72" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="196" y1="210" x2="196" y2="292" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="206" y="336" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">卫：离之</text>
+<rect x="400" y="190" width="220" height="120" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.2"/>
+<rect x="424" y="214" width="76" height="72" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="500" y="214" width="76" height="72" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="500" y1="214" x2="500" y2="286" stroke="#994433" stroke-width="1.8"/>
+<text x="510" y="336" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">鲁：合之</text>
+<circle cx="680" cy="258" r="7" fill="none" stroke="#25211D" stroke-width="1.2"/>
+<line x1="680" y1="265" x2="680" y2="310" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="671" y1="276" x2="689" y2="276" stroke="#9A9186" stroke-width="0.9"/>
+<line x1="666" y1="262" x2="640" y2="250" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="694" y1="262" x2="720" y2="250" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="680" y="336" font-size="9" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">善夫</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">穀则异室，死则同穴</text>
+</svg>
