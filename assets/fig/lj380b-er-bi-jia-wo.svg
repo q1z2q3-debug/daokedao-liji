@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">二婢夹我：同棺不许</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<rect x="240" y="240" width="400" height="100" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.4"/>
+<line x1="240" y1="240" x2="640" y2="240" stroke="#7C6D5C" stroke-width="1.0"/>
+<circle cx="282" cy="292" r="6" fill="none" stroke="#25211D" stroke-width="1.1"/>
+<line x1="289" y1="292" x2="329" y2="292" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="329" y1="287" x2="337" y2="287" stroke="#7C6D5C" stroke-width="0.9"/>
+<circle cx="392" cy="292" r="6" fill="none" stroke="#25211D" stroke-width="1.1"/>
+<line x1="399" y1="292" x2="439" y2="292" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="439" y1="287" x2="447" y2="287" stroke="#7C6D5C" stroke-width="0.9"/>
+<circle cx="502" cy="292" r="6" fill="none" stroke="#25211D" stroke-width="1.1"/>
+<line x1="509" y1="292" x2="549" y2="292" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="549" y1="287" x2="557" y2="287" stroke="#7C6D5C" stroke-width="0.9"/>
+<line x1="240" y1="356" x2="640" y2="356" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="566" y1="236" x2="606" y2="342" stroke="#994433" stroke-width="2.2"/>
+<text x="300" y="392" font-size="9" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">三人同棺</text>
+<text x="420" y="392" font-size="10" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">非礼也，况又同棺乎</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">善尊已不陷父于不义</text>
+</svg>
