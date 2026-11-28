@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">素服哭于库门之外：败不入内</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<line x1="480" y1="200" x2="480" y2="372" stroke="#7C6D5C" stroke-width="1.3"/>
+<line x1="650" y1="200" x2="650" y2="372" stroke="#7C6D5C" stroke-width="1.3"/>
+<line x1="468" y1="200" x2="662" y2="200" stroke="#7C6D5C" stroke-width="1.4"/>
+<line x1="468" y1="208" x2="662" y2="208" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="480" y1="372" x2="650" y2="372" stroke="#7C6D5C" stroke-width="1.0" stroke-dasharray="4,3"/>
+<line x1="565" y1="208" x2="565" y2="372" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="4,3"/>
+<text x="565" y="396" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">库门</text>
+<circle cx="180" cy="262" r="8" fill="none" stroke="#25211D" stroke-width="1.1"/>
+<line x1="180" y1="270" x2="180" y2="336" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="172" y1="296" x2="188" y2="296" stroke="#9A9186" stroke-width="0.9"/>
+<circle cx="250" cy="262" r="8" fill="none" stroke="#25211D" stroke-width="1.1"/>
+<line x1="250" y1="270" x2="250" y2="336" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="242" y1="296" x2="258" y2="296" stroke="#9A9186" stroke-width="0.9"/>
+<circle cx="320" cy="262" r="8" fill="none" stroke="#25211D" stroke-width="1.1"/>
+<line x1="320" y1="270" x2="320" y2="336" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="312" y1="296" x2="328" y2="296" stroke="#9A9186" stroke-width="0.9"/>
+<line x1="160" y1="336" x2="360" y2="336" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="200" y1="392" x2="330" y2="392" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="200" y1="392" x2="206" y2="386" stroke="#7C6D5C" stroke-width="0.9"/>
+<line x1="330" y1="392" x2="324" y2="386" stroke="#7C6D5C" stroke-width="0.9"/>
+<line x1="200" y1="392" x2="330" y2="392" stroke="#994433" stroke-width="1.3"/>
+<line x1="230" y1="330" x2="230" y2="336" stroke="#7C6D5C" stroke-width="0.7"/>
+<rect x="212" y="340" width="40" height="26" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.9"/>
+<line x1="218" y1="350" x2="246" y2="350" stroke="#7C6D5C" stroke-width="0.8"/>
+<line x1="218" y1="358" x2="246" y2="358" stroke="#7C6D5C" stroke-width="0.8"/>
+<text x="370" y="400" font-size="9" fill="#994433" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">不载</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">兵不戢，示当报也</text>
+</svg>

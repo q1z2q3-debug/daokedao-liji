@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">事生毕而鬼事始：同一刻换轨</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<line x1="380" y1="150" x2="380" y2="400" stroke="#7C6D5C" stroke-width="1.2" stroke-dasharray="5,3"/>
+<line x1="140" y1="330" x2="320" y2="330" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="140" y1="330" x2="140" y2="322" stroke="#7C6D5C" stroke-width="0.9"/>
+<text x="230" y="344" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">席</text>
+<path d="M184,290 L216,290 L210,306 L190,306 Z" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="187" y1="294" x2="213" y2="294" stroke="#9A9186" stroke-width="0.9"/>
+<path d="M262,306 Q272,296 282,306" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="262" y1="306" x2="282" y2="306" stroke="#7C6D5C" stroke-width="0.9"/>
+<text x="272" y="322" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">盂</text>
+<line x1="430" y1="360" x2="620" y2="360" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="430" y1="360" x2="430" y2="352" stroke="#7C6D5C" stroke-width="0.9"/>
+<circle cx="510" cy="322" r="8" fill="none" stroke="#25211D" stroke-width="1.2"/>
+<line x1="510" y1="330" x2="510" y2="360" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="504" y1="340" x2="516" y2="340" stroke="#7C6D5C" stroke-width="0.9"/>
+<text x="510" y="344" font-size="9" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">尸</text>
+<line x1="590" y1="360" x2="590" y2="316" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="578" y1="316" x2="602" y2="316" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="590" y="348" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">几</text>
+<line x1="380" y1="186" x2="380" y2="200" stroke="#7C6D5C" stroke-width="1.0"/>
+<path d="M364,200 L396,200 L390,224 L370,224 Z" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="380" y1="200" x2="380" y2="218" stroke="#994433" stroke-width="1.6"/>
+<line x1="374" y1="224" x2="386" y2="224" stroke="#7C6D5C" stroke-width="0.9"/>
+<line x1="372" y1="228" x2="377" y2="242" stroke="#9A9186" stroke-width="0.9"/>
+<line x1="380" y1="228" x2="385" y2="242" stroke="#9A9186" stroke-width="0.9"/>
+<line x1="388" y1="228" x2="393" y2="242" stroke="#9A9186" stroke-width="0.9"/>
+<text x="410" y="214" font-size="9" fill="#994433" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">铎</text>
+<text x="230" y="380" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">生事</text>
+<text x="520" y="380" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">鬼事</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">讳，辟其名</text>
+</svg>
