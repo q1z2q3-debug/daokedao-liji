@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">吉祭与祔：不许一日空</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<line x1="120" y1="372" x2="660" y2="372" stroke="#7C6D5C" stroke-width="1.3"/>
+<rect x="150" y="320" width="110" height="52" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<path d="M192,332 Q205,340 218,332" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="192" y1="332" x2="218" y2="332" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="205" y1="340" x2="205" y2="354" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="197" y1="354" x2="213" y2="354" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="340" y="286" width="130" height="86" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="356" y1="340" x2="454" y2="340" stroke="#7C6D5C" stroke-width="1.1"/>
+<circle cx="405" cy="322" r="4" fill="none" stroke="#9A9186" stroke-width="1.0"/>
+<rect x="720" y="0" width="0" height="0" fill="#F7F4EE" stroke="#DCD5C8" stroke-width="0.0"/>
+<rect x="560" y="250" width="120" height="122" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="606" y1="300" x2="634" y2="300" stroke="#7C6D5C" stroke-width="1.2"/>
+<path d="M606,300 L610,316 L630,316 L634,300" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="611" y1="316" x2="611" y2="324" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="620" y1="316" x2="620" y2="324" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="629" y1="316" x2="629" y2="324" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="205" y="396" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">虞·丧祭</text>
+<text x="405" y="396" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">其间·他</text>
+<text x="620" y="396" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">祔·吉祭</text>
+<circle cx="326" cy="300" r="3" fill="none" stroke="#994433" stroke-width="1.2"/>
+<circle cx="326" cy="320" r="3" fill="none" stroke="#994433" stroke-width="1.2"/>
+<circle cx="326" cy="340" r="3" fill="none" stroke="#994433" stroke-width="1.2"/>
+<line x1="272" y1="344" x2="330" y2="320" stroke="#7C6D5C" stroke-width="1.0" marker-end="url(#ah)"/>
+<line x1="486" y1="330" x2="548" y2="300" stroke="#7C6D5C" stroke-width="1.0" marker-end="url(#ah)"/>
+<text x="378" y="216" font-size="10" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">刚日接祭：无名，而不使有间</text>
+<text x="378" y="424" font-size="10" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">常数可改，不许一日无归</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">不忍一日末有所归</text>
+</svg>

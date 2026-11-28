@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">君临臣丧：以异于生</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<rect x="300" y="196" width="170" height="210" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.3"/>
+<line x1="385" y1="196" x2="385" y2="406" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="385" y1="196" x2="300" y2="250" stroke="#7C6D5C" stroke-width="1.0" stroke-dasharray="4,3"/>
+<circle cx="250" cy="262" r="7" fill="none" stroke="#25211D" stroke-width="1.2"/>
+<line x1="250" y1="269" x2="250" y2="296" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="240" y1="278" x2="260" y2="278" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="250" y1="268" x2="236" y2="226" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="236" y1="226" x2="232" y2="196" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="222" y1="196" x2="242" y2="196" stroke="#7C6D5C" stroke-width="1.1"/>
+<text x="232" y="430" font-size="1" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif"></text>
+<text x="250" y="320" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">巫·桃</text>
+<circle cx="455" cy="258" r="7" fill="none" stroke="#25211D" stroke-width="1.2"/>
+<line x1="455" y1="265" x2="455" y2="292" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="445" y1="274" x2="465" y2="274" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="455" y1="266" x2="470" y2="226" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="470" y1="226" x2="466" y2="198" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="458" y1="198" x2="476" y2="198" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="458" y1="204" x2="476" y2="204" stroke="#7C6D5C" stroke-width="0.9"/>
+<text x="470" y="320" font-size="9" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">祝·茢</text>
+<circle cx="530" cy="270" r="7" fill="none" stroke="#25211D" stroke-width="1.2"/>
+<line x1="530" y1="277" x2="530" y2="300" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="520" y1="286" x2="540" y2="286" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="562" y1="250" x2="582" y2="220" stroke="#7C6D5C" stroke-width="1.0"/>
+<circle cx="600" cy="258" r="7" fill="none" stroke="#25211D" stroke-width="1.2"/>
+<line x1="600" y1="265" x2="600" y2="288" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="590" y1="274" x2="610" y2="274" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="600" y1="264" x2="580" y2="226" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="580" y="320" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">小臣·戈</text>
+<text x="385" y="176" font-size="10" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">未袭：三器并具</text>
+<text x="385" y="424" font-size="10" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">带器而入，是「我怕，但我还是来」</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">所以异于生也</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">视牲于殡，舍奠于墓</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<rect x="130" y="196" width="210" height="168" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.3"/>
+<rect x="440" y="196" width="210" height="168" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.3"/>
+<line x1="156" y1="246" x2="306" y2="246" stroke="#7C6D5C" stroke-width="1.3"/>
+<line x1="178" y1="246" x2="178" y2="258" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="166" y="258" width="24" height="34" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="170" y1="268" x2="186" y2="268" stroke="#9A9186" stroke-width="0.8"/>
+<line x1="222" y1="246" x2="222" y2="258" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="210" y="258" width="24" height="34" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="214" y1="268" x2="230" y2="268" stroke="#9A9186" stroke-width="0.8"/>
+<line x1="266" y1="246" x2="266" y2="258" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="254" y="258" width="24" height="34" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="258" y1="268" x2="274" y2="268" stroke="#9A9186" stroke-width="0.8"/>
+<text x="235" y="388" font-size="10" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">视虞牲·省其牲</text>
+<line x1="470" y1="300" x2="620" y2="300" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="475" y1="300" x2="475" y2="330" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="615" y1="300" x2="615" y2="330" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="482" y1="286" x2="610" y2="286" stroke="#7C6D5C" stroke-width="1.0"/>
+<path d="M507,272 Q520,280 533,272" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="507" y1="272" x2="533" y2="272" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="520" y1="280" x2="520" y2="294" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="512" y1="294" x2="528" y2="294" stroke="#7C6D5C" stroke-width="1.0"/>
+<path d="M557,272 Q570,280 583,272" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="557" y1="272" x2="583" y2="272" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="570" y1="280" x2="570" y2="294" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="562" y1="294" x2="578" y2="294" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="545" y="388" font-size="10" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">几筵舍奠于墓左·礼地神</text>
+<line x1="348" y1="280" x2="432" y2="280" stroke="#994433" stroke-width="1.1" marker-end="url(#ah)"/>
+<text x="390" y="268" font-size="9" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">反</text>
+<circle cx="384" cy="152" r="15" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+<text x="384" y="190" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">日中</text>
+<text x="384" y="414" font-size="10" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">人未齐，事不开</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">所使奠墓者来归，乃虞</text>
+</svg>
