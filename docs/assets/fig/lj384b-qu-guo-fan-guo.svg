@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">去国与反国：哭与不哭</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<line x1="90" y1="372" x2="690" y2="372" stroke="#7C6D5C" stroke-width="1.2"/>
+<path d="M120,334 Q175,308 230,334" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="120" y1="334" x2="230" y2="334" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="161" y1="318" x2="161" y2="302" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="153" y1="302" x2="169" y2="302" stroke="#7C6D5C" stroke-width="0.9"/>
+<circle cx="258" cy="278" r="7" fill="none" stroke="#25211D" stroke-width="1.2"/>
+<line x1="258" y1="285" x2="258" y2="310" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="250" y1="292" x2="266" y2="292" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="244" y1="300" x2="232" y2="330" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="150" y="358" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">哭</text>
+<text x="262" y="330" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">去国</text>
+<path d="M400,334 Q455,308 510,334" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="400" y1="334" x2="510" y2="334" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="441" y1="318" x2="441" y2="302" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="433" y1="302" x2="449" y2="302" stroke="#7C6D5C" stroke-width="0.9"/>
+<circle cx="404" cy="356" r="11" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+<circle cx="452" cy="356" r="11" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="396" y="320" width="64" height="22" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="396" y1="314" x2="460" y2="314" stroke="#994433" stroke-width="1.8"/>
+<circle cx="430" cy="272" r="6" fill="none" stroke="#25211D" stroke-width="1.2"/>
+<line x1="430" y1="278" x2="430" y2="298" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="422" y1="286" x2="438" y2="286" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="452" y="358" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">式</text>
+<text x="522" y="330" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">反国</text>
+<line x1="300" y1="372" x2="380" y2="372" stroke="#9A9186" stroke-width="0.9" stroke-dasharray="4,3"/>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">居者主于敬</text>
+</svg>
