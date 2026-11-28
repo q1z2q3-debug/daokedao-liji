@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">失席与洿宫：刑与自贬同章</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<line x1="360" y1="322" x2="360" y2="396" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="520" y1="322" x2="520" y2="396" stroke="#7C6D5C" stroke-width="1.1"/>
+<path d="M350,322 L440,282 L530,322 L530,328" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="425.0" y1="396" x2="425.0" y2="368" stroke="#7C6D5C" stroke-width="0.9"/>
+<line x1="455.0" y1="396" x2="455.0" y2="368" stroke="#7C6D5C" stroke-width="0.9"/>
+<line x1="376" y1="348" x2="528" y2="348" stroke="#7C6D5C" stroke-width="0.9"/>
+<line x1="376" y1="360" x2="528" y2="360" stroke="#7C6D5C" stroke-width="0.9"/>
+<line x1="376" y1="372" x2="528" y2="372" stroke="#7C6D5C" stroke-width="0.9"/>
+<path d="M286,318 L350,304 L358,320 L294,334 Z" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="286" y1="318" x2="292" y2="316" stroke="#7C6D5C" stroke-width="1.0"/>
+<circle cx="210" cy="336" r="7" fill="none" stroke="#25211D" stroke-width="1.2"/>
+<line x1="210" y1="343" x2="210" y2="396" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="201" y1="354" x2="219" y2="354" stroke="#9A9186" stroke-width="0.9"/>
+<line x1="198" y1="344" x2="226" y2="380" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="222" y1="344" x2="248" y2="380" stroke="#7C6D5C" stroke-width="1.1"/>
+<text x="200" y="330" font-size="9" fill="#9A9186" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">失席</text>
+<path d="M614,372 L654,372 L646,348 L622,348 Z" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="608" y1="344" x2="660" y2="344" stroke="#994433" stroke-width="1.6"/>
+<text x="634" y="390" font-size="9" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">不举爵</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">民之无礼，教之罪</text>
+</svg>

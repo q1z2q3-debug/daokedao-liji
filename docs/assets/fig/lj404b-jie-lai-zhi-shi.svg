@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">嗟来之食：一呼之失</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<line x1="60" y1="356" x2="700" y2="356" stroke="#7C6D5C" stroke-width="1.2"/>
+<circle cx="210" cy="298" r="7" fill="none" stroke="#25211D" stroke-width="1.2"/>
+<line x1="210" y1="305" x2="210" y2="356" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="201" y1="316" x2="219" y2="316" stroke="#9A9186" stroke-width="0.9"/>
+<line x1="200" y1="316" x2="176" y2="306" stroke="#7C6D5C" stroke-width="1.0"/>
+<line x1="220" y1="316" x2="246" y2="306" stroke="#7C6D5C" stroke-width="1.0"/>
+<path d="M162,306 L190,306 L184,322 L168,322 Z" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<path d="M232,306 L258,306 L252,322 L240,322 Z" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<circle cx="478" cy="302" r="7" fill="none" stroke="#25211D" stroke-width="1.2"/>
+<line x1="478" y1="309" x2="478" y2="356" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="469" y1="320" x2="487" y2="320" stroke="#9A9186" stroke-width="0.9"/>
+<line x1="478" y1="356" x2="470" y2="350" stroke="#7C6D5C" stroke-width="0.9"/>
+<line x1="478" y1="356" x2="486" y2="350" stroke="#7C6D5C" stroke-width="0.9"/>
+<line x1="452" y1="300" x2="496" y2="300" stroke="#7C6D5C" stroke-width="2.4"/>
+<line x1="452" y1="300" x2="448" y2="322" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="496" y1="300" x2="500" y2="322" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="300" y1="300" x2="340" y2="286" stroke="#9A9186" stroke-width="1.1"/>
+<line x1="314" y1="295" x2="326" y2="290" stroke="#F7F4EE" stroke-width="5"/>
+<text x="352" y="280" font-size="10" fill="#994433" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">嗟</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">其嗟也可去，其谢也可食</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">颂者不谀，祷者不求</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<line x1="300" y1="300" x2="300" y2="392" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="460" y1="300" x2="460" y2="392" stroke="#7C6D5C" stroke-width="1.1"/>
+<path d="M290,300 L380,254 L470,300 L470,306" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="365.0" y1="392" x2="365.0" y2="364" stroke="#7C6D5C" stroke-width="0.9"/>
+<line x1="395.0" y1="392" x2="395.0" y2="364" stroke="#7C6D5C" stroke-width="0.9"/>
+<path d="M282,246 Q380,218 478,246" fill="none" stroke="#7C6D5C" stroke-width="1.0" stroke-dasharray="4,3"/>
+<path d="M288,226 Q380,198 472,226" fill="none" stroke="#7C6D5C" stroke-width="1.0" stroke-dasharray="4,3"/>
+<circle cx="240" cy="334" r="7" fill="none" stroke="#25211D" stroke-width="1.2"/>
+<line x1="240" y1="341" x2="240" y2="392" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="231" y1="352" x2="249" y2="352" stroke="#9A9186" stroke-width="0.9"/>
+<line x1="232" y1="350" x2="262" y2="330" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="262" y1="330" x2="274" y2="336" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="232" y="372" font-size="9" fill="#7C6D5C" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">颂</text>
+<circle cx="556" cy="338" r="7" fill="none" stroke="#25211D" stroke-width="1.2"/>
+<line x1="556" y1="345" x2="556" y2="392" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="547" y1="356" x2="565" y2="356" stroke="#9A9186" stroke-width="0.9"/>
+<line x1="548" y1="356" x2="564" y2="344" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="564" y1="356" x2="548" y2="344" stroke="#7C6D5C" stroke-width="1.1"/>
+<text x="572" y="372" font-size="9" fill="#7C6D5C" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">祷</text>
+<line x1="300" y1="428" x2="356" y2="428" stroke="#7C6D5C" stroke-width="0.9"/>
+<line x1="356" y1="428" x2="368" y2="420" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="368" y="414" width="14" height="14" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<text x="300" y="412" font-size="9" fill="#994433" text-anchor="end" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">止</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">终始永足，切勿复更造作</text>
+</svg>
