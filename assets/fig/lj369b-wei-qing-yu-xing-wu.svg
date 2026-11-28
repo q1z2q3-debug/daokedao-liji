@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">三条路：微情、兴物、戎狄</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<text x="96" y="196" font-size="10" fill="#25211D" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">微情</text>
+<path d="M170,190 Q240,190 260,230 Q280,290 300,300 Q340,318 400,318" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.4"/>
+<line x1="400" y1="318" x2="640" y2="318" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="4,3"/>
+<text x="420" y="300" font-size="9" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">杀其过情</text>
+<text x="96" y="268" font-size="10" fill="#25211D" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">兴物</text>
+<line x1="170" y1="262" x2="250" y2="262" stroke="#7C6D5C" stroke-width="1.1" stroke-dasharray="3,3"/>
+<rect x="250" y="244" width="34" height="40" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<line x1="288" y1="264" x2="360" y2="264" stroke="#7C6D5C" stroke-width="1.0" marker-end="url(#ah)"/>
+<path d="M360,240 Q392,240 392,264 Q392,288 360,288" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.1"/>
+<text x="410" y="268" font-size="9" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">睹服思哀</text>
+<text x="96" y="340" font-size="10" fill="#25211D" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">戎狄</text>
+<path d="M170,376 L230,340 L262,376 L322,340 L360,378 L424,336 L470,376" fill="#F7F4EE" stroke="#994433" stroke-width="1.2"/>
+<text x="490" y="372" font-size="9" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">朝殒夕歌</text>
+<text x="380" y="424" font-size="10" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">同一条礼，同时替两种人做事</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">品节斯，斯之谓礼</text>
+</svg>
